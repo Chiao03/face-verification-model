@@ -1,0 +1,141 @@
+--- Outer Fold 1 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6440
+Average Inner Accuracy for params {'C': 0.01}: 0.6728
+Average Inner Accuracy for params {'C': 0.1}: 0.6414
+Best params for Fold 1: {'C': 0.01} with accuracy 0.6728
+Outer Fold 1 Accuracy: 0.6900
+
+--- Outer Fold 2 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6430
+Average Inner Accuracy for params {'C': 0.01}: 0.6753
+Average Inner Accuracy for params {'C': 0.1}: 0.6457
+Best params for Fold 2: {'C': 0.01} with accuracy 0.6753
+Outer Fold 2 Accuracy: 0.6933
+
+--- Outer Fold 3 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6463
+Average Inner Accuracy for params {'C': 0.01}: 0.6750
+Average Inner Accuracy for params {'C': 0.1}: 0.6456
+Best params for Fold 3: {'C': 0.01} with accuracy 0.6750
+Outer Fold 3 Accuracy: 0.6533
+
+--- Outer Fold 4 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6434
+Average Inner Accuracy for params {'C': 0.01}: 0.6758
+Average Inner Accuracy for params {'C': 0.1}: 0.6484
+Best params for Fold 4: {'C': 0.01} with accuracy 0.6758
+Outer Fold 4 Accuracy: 0.6467
+
+--- Outer Fold 5 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6428
+Average Inner Accuracy for params {'C': 0.01}: 0.6745
+Average Inner Accuracy for params {'C': 0.1}: 0.6471
+Best params for Fold 5: {'C': 0.01} with accuracy 0.6745
+Outer Fold 5 Accuracy: 0.6800
+
+--- Outer Fold 6 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6463
+Average Inner Accuracy for params {'C': 0.01}: 0.6768
+Average Inner Accuracy for params {'C': 0.1}: 0.6476
+Best params for Fold 6: {'C': 0.01} with accuracy 0.6768
+Outer Fold 6 Accuracy: 0.6500
+
+--- Outer Fold 7 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6440
+Average Inner Accuracy for params {'C': 0.01}: 0.6719
+Average Inner Accuracy for params {'C': 0.1}: 0.6431
+Best params for Fold 7: {'C': 0.01} with accuracy 0.6719
+Outer Fold 7 Accuracy: 0.6933
+
+--- Outer Fold 8 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6427
+Average Inner Accuracy for params {'C': 0.01}: 0.6725
+Average Inner Accuracy for params {'C': 0.1}: 0.6429
+Best params for Fold 8: {'C': 0.01} with accuracy 0.6725
+Outer Fold 8 Accuracy: 0.6833
+
+--- Outer Fold 9 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6437
+Average Inner Accuracy for params {'C': 0.01}: 0.6741
+Average Inner Accuracy for params {'C': 0.1}: 0.6433
+Best params for Fold 9: {'C': 0.01} with accuracy 0.6741
+Outer Fold 9 Accuracy: 0.6633
+
+--- Outer Fold 10 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6446
+Average Inner Accuracy for params {'C': 0.01}: 0.6735
+Average Inner Accuracy for params {'C': 0.1}: 0.6446
+Best params for Fold 10: {'C': 0.01} with accuracy 0.6735
+Outer Fold 10 Accuracy: 0.6667
+
+--- Outer Fold 11 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6415
+Average Inner Accuracy for params {'C': 0.01}: 0.6732
+Average Inner Accuracy for params {'C': 0.1}: 0.6403
+Best params for Fold 11: {'C': 0.01} with accuracy 0.6732
+Outer Fold 11 Accuracy: 0.7000
+
+--- Outer Fold 12 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6408
+Average Inner Accuracy for params {'C': 0.01}: 0.6729
+Average Inner Accuracy for params {'C': 0.1}: 0.6460
+Best params for Fold 12: {'C': 0.01} with accuracy 0.6729
+Outer Fold 12 Accuracy: 0.6967
+
+--- Outer Fold 13 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6429
+Average Inner Accuracy for params {'C': 0.01}: 0.6721
+Average Inner Accuracy for params {'C': 0.1}: 0.6450
+Best params for Fold 13: {'C': 0.01} with accuracy 0.6721
+Outer Fold 13 Accuracy: 0.6500
+
+--- Outer Fold 14 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6427
+Average Inner Accuracy for params {'C': 0.01}: 0.6721
+Average Inner Accuracy for params {'C': 0.1}: 0.6423
+Best params for Fold 14: {'C': 0.01} with accuracy 0.6721
+Outer Fold 14 Accuracy: 0.6833
+
+--- Outer Fold 15 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6420
+Average Inner Accuracy for params {'C': 0.01}: 0.6682
+Average Inner Accuracy for params {'C': 0.1}: 0.6464
+Best params for Fold 15: {'C': 0.01} with accuracy 0.6682
+Outer Fold 15 Accuracy: 0.6567
+
+--- Outer Fold 16 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6435
+Average Inner Accuracy for params {'C': 0.01}: 0.6707
+Average Inner Accuracy for params {'C': 0.1}: 0.6430
+Best params for Fold 16: {'C': 0.01} with accuracy 0.6707
+Outer Fold 16 Accuracy: 0.6867
+
+--- Outer Fold 17 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6437
+Average Inner Accuracy for params {'C': 0.01}: 0.6710
+Average Inner Accuracy for params {'C': 0.1}: 0.6389
+Best params for Fold 17: {'C': 0.01} with accuracy 0.6710
+Outer Fold 17 Accuracy: 0.7200
+
+--- Outer Fold 18 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6423
+Average Inner Accuracy for params {'C': 0.01}: 0.6743
+Average Inner Accuracy for params {'C': 0.1}: 0.6450
+Best params for Fold 18: {'C': 0.01} with accuracy 0.6743
+Outer Fold 18 Accuracy: 0.6900
+
+--- Outer Fold 19 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6458
+Average Inner Accuracy for params {'C': 0.01}: 0.6746
+Average Inner Accuracy for params {'C': 0.1}: 0.6476
+Best params for Fold 19: {'C': 0.01} with accuracy 0.6746
+Outer Fold 19 Accuracy: 0.6767
+
+--- Outer Fold 20 ---
+Average Inner Accuracy for params {'C': 0.001}: 0.6431
+Average Inner Accuracy for params {'C': 0.01}: 0.6728
+Average Inner Accuracy for params {'C': 0.1}: 0.6422
+Best params for Fold 20: {'C': 0.01} with accuracy 0.6728
+Outer Fold 20 Accuracy: 0.7100
+
+Average accuracy over 20 outer folds: 0.6795

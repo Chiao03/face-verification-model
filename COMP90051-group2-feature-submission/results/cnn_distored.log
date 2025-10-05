@@ -1,0 +1,4646 @@
+Using device: cuda
+Using device: cuda
+
+--- Outer Fold 1 ---
+Epoch [1/1], Step [1/113], Loss: 7.6892
+Epoch [1/1], Step [11/113], Loss: 7.3629
+Epoch [1/1], Step [21/113], Loss: 6.9480
+Epoch [1/1], Step [31/113], Loss: 6.8202
+Epoch [1/1], Step [41/113], Loss: 6.5350
+Epoch [1/1], Step [51/113], Loss: 6.4221
+Epoch [1/1], Step [61/113], Loss: 6.0967
+Epoch [1/1], Step [71/113], Loss: 6.2755
+Epoch [1/1], Step [81/113], Loss: 5.9163
+Epoch [1/1], Step [91/113], Loss: 5.6281
+Epoch [1/1], Step [101/113], Loss: 5.1298
+Epoch [1/1], Step [111/113], Loss: 4.9527
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6911
+Epoch [1/1], Step [11/113], Loss: 7.3514
+Epoch [1/1], Step [21/113], Loss: 7.1079
+Epoch [1/1], Step [31/113], Loss: 6.7802
+Epoch [1/1], Step [41/113], Loss: 6.6494
+Epoch [1/1], Step [51/113], Loss: 6.5141
+Epoch [1/1], Step [61/113], Loss: 6.2904
+Epoch [1/1], Step [71/113], Loss: 6.2325
+Epoch [1/1], Step [81/113], Loss: 6.0803
+Epoch [1/1], Step [91/113], Loss: 5.8357
+Epoch [1/1], Step [101/113], Loss: 5.7738
+Epoch [1/1], Step [111/113], Loss: 5.4670
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7004
+Epoch [1/1], Step [11/113], Loss: 7.2486
+Epoch [1/1], Step [21/113], Loss: 6.9443
+Epoch [1/1], Step [31/113], Loss: 6.6716
+Epoch [1/1], Step [41/113], Loss: 6.6995
+Epoch [1/1], Step [51/113], Loss: 6.3631
+Epoch [1/1], Step [61/113], Loss: 6.1619
+Epoch [1/1], Step [71/113], Loss: 6.1638
+Epoch [1/1], Step [81/113], Loss: 6.1102
+Epoch [1/1], Step [91/113], Loss: 5.9501
+Epoch [1/1], Step [101/113], Loss: 5.8066
+Epoch [1/1], Step [111/113], Loss: 5.2833
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7875
+Epoch [1/1], Step [11/113], Loss: 7.2878
+Epoch [1/1], Step [21/113], Loss: 7.1557
+Epoch [1/1], Step [31/113], Loss: 6.4269
+Epoch [1/1], Step [41/113], Loss: 6.4999
+Epoch [1/1], Step [51/113], Loss: 6.1939
+Epoch [1/1], Step [61/113], Loss: 6.3600
+Epoch [1/1], Step [71/113], Loss: 6.3046
+Epoch [1/1], Step [81/113], Loss: 5.4564
+Epoch [1/1], Step [91/113], Loss: 5.6150
+Epoch [1/1], Step [101/113], Loss: 5.3356
+Epoch [1/1], Step [111/113], Loss: 6.0488
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6393
+Epoch [1/1], Step [11/113], Loss: 7.2978
+Epoch [1/1], Step [21/113], Loss: 7.0770
+Epoch [1/1], Step [31/113], Loss: 6.6652
+Epoch [1/1], Step [41/113], Loss: 6.3914
+Epoch [1/1], Step [51/113], Loss: 6.3451
+Epoch [1/1], Step [61/113], Loss: 6.4381
+Epoch [1/1], Step [71/113], Loss: 6.0329
+Epoch [1/1], Step [81/113], Loss: 5.7851
+Epoch [1/1], Step [91/113], Loss: 5.7461
+Epoch [1/1], Step [101/113], Loss: 5.4556
+Epoch [1/1], Step [111/113], Loss: 5.1415
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6050
+Epoch [1/1], Step [1/113], Loss: 7.7748
+Epoch [1/1], Step [11/113], Loss: 7.4287
+Epoch [1/1], Step [21/113], Loss: 6.9137
+Epoch [1/1], Step [31/113], Loss: 6.6603
+Epoch [1/1], Step [41/113], Loss: 6.5131
+Epoch [1/1], Step [51/113], Loss: 6.3147
+Epoch [1/1], Step [61/113], Loss: 6.2254
+Epoch [1/1], Step [71/113], Loss: 6.0080
+Epoch [1/1], Step [81/113], Loss: 5.7085
+Epoch [1/1], Step [91/113], Loss: 5.5292
+Epoch [1/1], Step [101/113], Loss: 5.3472
+Epoch [1/1], Step [111/113], Loss: 5.0408
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6982
+Epoch [1/1], Step [11/113], Loss: 7.3753
+Epoch [1/1], Step [21/113], Loss: 7.0071
+Epoch [1/1], Step [31/113], Loss: 6.5977
+Epoch [1/1], Step [41/113], Loss: 6.5527
+Epoch [1/1], Step [51/113], Loss: 6.6453
+Epoch [1/1], Step [61/113], Loss: 6.2470
+Epoch [1/1], Step [71/113], Loss: 6.6427
+Epoch [1/1], Step [81/113], Loss: 5.9896
+Epoch [1/1], Step [91/113], Loss: 5.6702
+Epoch [1/1], Step [101/113], Loss: 5.2631
+Epoch [1/1], Step [111/113], Loss: 6.0254
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6844
+Epoch [1/1], Step [11/113], Loss: 7.3601
+Epoch [1/1], Step [21/113], Loss: 7.0510
+Epoch [1/1], Step [31/113], Loss: 6.7606
+Epoch [1/1], Step [41/113], Loss: 6.2000
+Epoch [1/1], Step [51/113], Loss: 6.7282
+Epoch [1/1], Step [61/113], Loss: 6.1263
+Epoch [1/1], Step [71/113], Loss: 5.9863
+Epoch [1/1], Step [81/113], Loss: 5.9704
+Epoch [1/1], Step [91/113], Loss: 5.4928
+Epoch [1/1], Step [101/113], Loss: 5.2050
+Epoch [1/1], Step [111/113], Loss: 5.7159
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6901
+Epoch [1/1], Step [11/113], Loss: 7.3462
+Epoch [1/1], Step [21/113], Loss: 6.9652
+Epoch [1/1], Step [31/113], Loss: 6.6194
+Epoch [1/1], Step [41/113], Loss: 6.6686
+Epoch [1/1], Step [51/113], Loss: 6.3154
+Epoch [1/1], Step [61/113], Loss: 6.8344
+Epoch [1/1], Step [71/113], Loss: 6.2952
+Epoch [1/1], Step [81/113], Loss: 6.0057
+Epoch [1/1], Step [91/113], Loss: 5.8373
+Epoch [1/1], Step [101/113], Loss: 5.8264
+Epoch [1/1], Step [111/113], Loss: 5.6865
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7203
+Epoch [1/1], Step [11/113], Loss: 6.9982
+Epoch [1/1], Step [21/113], Loss: 6.9393
+Epoch [1/1], Step [31/113], Loss: 6.5754
+Epoch [1/1], Step [41/113], Loss: 6.4719
+Epoch [1/1], Step [51/113], Loss: 6.9193
+Epoch [1/1], Step [61/113], Loss: 6.2114
+Epoch [1/1], Step [71/113], Loss: 6.3236
+Epoch [1/1], Step [81/113], Loss: 5.9209
+Epoch [1/1], Step [91/113], Loss: 6.0354
+Epoch [1/1], Step [101/113], Loss: 5.4045
+Epoch [1/1], Step [111/113], Loss: 5.3122
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6165
+Epoch [1/1], Step [1/113], Loss: 7.6654
+Epoch [1/1], Step [11/113], Loss: 7.4131
+Epoch [1/1], Step [21/113], Loss: 7.2558
+Epoch [1/1], Step [31/113], Loss: 6.6768
+Epoch [1/1], Step [41/113], Loss: 6.2388
+Epoch [1/1], Step [51/113], Loss: 5.9428
+Epoch [1/1], Step [61/113], Loss: 6.2807
+Epoch [1/1], Step [71/113], Loss: 6.2292
+Epoch [1/1], Step [81/113], Loss: 6.1904
+Epoch [1/1], Step [91/113], Loss: 5.5717
+Epoch [1/1], Step [101/113], Loss: 5.4173
+Epoch [1/1], Step [111/113], Loss: 5.5344
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6892
+Epoch [1/1], Step [11/113], Loss: 7.3614
+Epoch [1/1], Step [21/113], Loss: 7.0538
+Epoch [1/1], Step [31/113], Loss: 6.8631
+Epoch [1/1], Step [41/113], Loss: 6.9146
+Epoch [1/1], Step [51/113], Loss: 6.5716
+Epoch [1/1], Step [61/113], Loss: 6.3169
+Epoch [1/1], Step [71/113], Loss: 5.9400
+Epoch [1/1], Step [81/113], Loss: 5.9310
+Epoch [1/1], Step [91/113], Loss: 5.7190
+Epoch [1/1], Step [101/113], Loss: 5.5716
+Epoch [1/1], Step [111/113], Loss: 5.5029
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6798
+Epoch [1/1], Step [11/113], Loss: 7.4369
+Epoch [1/1], Step [21/113], Loss: 6.8581
+Epoch [1/1], Step [31/113], Loss: 6.8823
+Epoch [1/1], Step [41/113], Loss: 6.7068
+Epoch [1/1], Step [51/113], Loss: 6.5276
+Epoch [1/1], Step [61/113], Loss: 6.2402
+Epoch [1/1], Step [71/113], Loss: 6.3284
+Epoch [1/1], Step [81/113], Loss: 6.0282
+Epoch [1/1], Step [91/113], Loss: 5.9551
+Epoch [1/1], Step [101/113], Loss: 5.9463
+Epoch [1/1], Step [111/113], Loss: 4.7928
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7261
+Epoch [1/1], Step [11/113], Loss: 6.9757
+Epoch [1/1], Step [21/113], Loss: 6.6470
+Epoch [1/1], Step [31/113], Loss: 6.9092
+Epoch [1/1], Step [41/113], Loss: 6.3856
+Epoch [1/1], Step [51/113], Loss: 6.7385
+Epoch [1/1], Step [61/113], Loss: 6.2786
+Epoch [1/1], Step [71/113], Loss: 5.8040
+Epoch [1/1], Step [81/113], Loss: 5.6622
+Epoch [1/1], Step [91/113], Loss: 5.0937
+Epoch [1/1], Step [101/113], Loss: 5.1702
+Epoch [1/1], Step [111/113], Loss: 4.4447
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6333
+Epoch [1/1], Step [11/113], Loss: 7.3260
+Epoch [1/1], Step [21/113], Loss: 7.2764
+Epoch [1/1], Step [31/113], Loss: 6.9246
+Epoch [1/1], Step [41/113], Loss: 6.7734
+Epoch [1/1], Step [51/113], Loss: 6.5676
+Epoch [1/1], Step [61/113], Loss: 6.4777
+Epoch [1/1], Step [71/113], Loss: 6.2181
+Epoch [1/1], Step [81/113], Loss: 6.1105
+Epoch [1/1], Step [91/113], Loss: 5.9688
+Epoch [1/1], Step [101/113], Loss: 6.2166
+Epoch [1/1], Step [111/113], Loss: 5.7723
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6183
+Best params for Fold 1: {'kernel_size': 5, 'C': 0.01} with accuracy 0.6183
+Epoch [1/1], Step [1/179], Loss: 7.6924
+Epoch [1/1], Step [11/179], Loss: 7.2421
+Epoch [1/1], Step [21/179], Loss: 7.1587
+Epoch [1/1], Step [31/179], Loss: 7.0782
+Epoch [1/1], Step [41/179], Loss: 6.6444
+Epoch [1/1], Step [51/179], Loss: 6.4795
+Epoch [1/1], Step [61/179], Loss: 6.3885
+Epoch [1/1], Step [71/179], Loss: 6.3277
+Epoch [1/1], Step [81/179], Loss: 6.1563
+Epoch [1/1], Step [91/179], Loss: 6.0199
+Epoch [1/1], Step [101/179], Loss: 5.8072
+Epoch [1/1], Step [111/179], Loss: 5.6954
+Epoch [1/1], Step [121/179], Loss: 5.5781
+Epoch [1/1], Step [131/179], Loss: 5.1967
+Epoch [1/1], Step [141/179], Loss: 5.5521
+Epoch [1/1], Step [151/179], Loss: 4.8958
+Epoch [1/1], Step [161/179], Loss: 4.6434
+Epoch [1/1], Step [171/179], Loss: 5.1369
+Cleared GPU memory.
+Outer Fold 1 Accuracy: 0.6633
+
+--- Outer Fold 2 ---
+Epoch [1/1], Step [1/113], Loss: 7.6967
+Epoch [1/1], Step [11/113], Loss: 7.5389
+Epoch [1/1], Step [21/113], Loss: 6.9418
+Epoch [1/1], Step [31/113], Loss: 6.4528
+Epoch [1/1], Step [41/113], Loss: 6.3856
+Epoch [1/1], Step [51/113], Loss: 6.6065
+Epoch [1/1], Step [61/113], Loss: 5.9031
+Epoch [1/1], Step [71/113], Loss: 5.5837
+Epoch [1/1], Step [81/113], Loss: 6.3380
+Epoch [1/1], Step [91/113], Loss: 5.2681
+Epoch [1/1], Step [101/113], Loss: 5.5970
+Epoch [1/1], Step [111/113], Loss: 4.7208
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6991
+Epoch [1/1], Step [11/113], Loss: 7.3052
+Epoch [1/1], Step [21/113], Loss: 6.9355
+Epoch [1/1], Step [31/113], Loss: 6.7456
+Epoch [1/1], Step [41/113], Loss: 6.7153
+Epoch [1/1], Step [51/113], Loss: 6.7969
+Epoch [1/1], Step [61/113], Loss: 6.1303
+Epoch [1/1], Step [71/113], Loss: 6.2870
+Epoch [1/1], Step [81/113], Loss: 6.0561
+Epoch [1/1], Step [91/113], Loss: 5.7584
+Epoch [1/1], Step [101/113], Loss: 5.6290
+Epoch [1/1], Step [111/113], Loss: 5.7221
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6799
+Epoch [1/1], Step [11/113], Loss: 7.5175
+Epoch [1/1], Step [21/113], Loss: 6.8552
+Epoch [1/1], Step [31/113], Loss: 7.1617
+Epoch [1/1], Step [41/113], Loss: 6.0312
+Epoch [1/1], Step [51/113], Loss: 6.3172
+Epoch [1/1], Step [61/113], Loss: 6.1128
+Epoch [1/1], Step [71/113], Loss: 6.1617
+Epoch [1/1], Step [81/113], Loss: 6.2415
+Epoch [1/1], Step [91/113], Loss: 5.8570
+Epoch [1/1], Step [101/113], Loss: 4.4018
+Epoch [1/1], Step [111/113], Loss: 4.6562
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6713
+Epoch [1/1], Step [11/113], Loss: 7.4363
+Epoch [1/1], Step [21/113], Loss: 6.9480
+Epoch [1/1], Step [31/113], Loss: 6.6567
+Epoch [1/1], Step [41/113], Loss: 6.4932
+Epoch [1/1], Step [51/113], Loss: 6.4013
+Epoch [1/1], Step [61/113], Loss: 6.2724
+Epoch [1/1], Step [71/113], Loss: 6.0642
+Epoch [1/1], Step [81/113], Loss: 5.9585
+Epoch [1/1], Step [91/113], Loss: 5.6806
+Epoch [1/1], Step [101/113], Loss: 5.5978
+Epoch [1/1], Step [111/113], Loss: 5.3265
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6691
+Epoch [1/1], Step [11/113], Loss: 7.2262
+Epoch [1/1], Step [21/113], Loss: 6.8574
+Epoch [1/1], Step [31/113], Loss: 6.6037
+Epoch [1/1], Step [41/113], Loss: 6.4966
+Epoch [1/1], Step [51/113], Loss: 6.1714
+Epoch [1/1], Step [61/113], Loss: 6.1982
+Epoch [1/1], Step [71/113], Loss: 5.9894
+Epoch [1/1], Step [81/113], Loss: 6.0255
+Epoch [1/1], Step [91/113], Loss: 5.5459
+Epoch [1/1], Step [101/113], Loss: 5.5335
+Epoch [1/1], Step [111/113], Loss: 5.8536
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6248
+Epoch [1/1], Step [1/113], Loss: 7.6681
+Epoch [1/1], Step [11/113], Loss: 7.4884
+Epoch [1/1], Step [21/113], Loss: 7.0979
+Epoch [1/1], Step [31/113], Loss: 6.9812
+Epoch [1/1], Step [41/113], Loss: 7.2677
+Epoch [1/1], Step [51/113], Loss: 6.3238
+Epoch [1/1], Step [61/113], Loss: 6.4192
+Epoch [1/1], Step [71/113], Loss: 5.9591
+Epoch [1/1], Step [81/113], Loss: 5.6093
+Epoch [1/1], Step [91/113], Loss: 5.8664
+Epoch [1/1], Step [101/113], Loss: 5.4599
+Epoch [1/1], Step [111/113], Loss: 5.4266
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6409
+Epoch [1/1], Step [11/113], Loss: 7.0286
+Epoch [1/1], Step [21/113], Loss: 6.9749
+Epoch [1/1], Step [31/113], Loss: 6.4808
+Epoch [1/1], Step [41/113], Loss: 6.8082
+Epoch [1/1], Step [51/113], Loss: 6.6033
+Epoch [1/1], Step [61/113], Loss: 6.1328
+Epoch [1/1], Step [71/113], Loss: 5.2597
+Epoch [1/1], Step [81/113], Loss: 5.1542
+Epoch [1/1], Step [91/113], Loss: 5.5478
+Epoch [1/1], Step [101/113], Loss: 5.3201
+Epoch [1/1], Step [111/113], Loss: 4.9182
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7551
+Epoch [1/1], Step [11/113], Loss: 7.3343
+Epoch [1/1], Step [21/113], Loss: 6.9534
+Epoch [1/1], Step [31/113], Loss: 6.8786
+Epoch [1/1], Step [41/113], Loss: 6.6120
+Epoch [1/1], Step [51/113], Loss: 6.4533
+Epoch [1/1], Step [61/113], Loss: 6.7103
+Epoch [1/1], Step [71/113], Loss: 5.9931
+Epoch [1/1], Step [81/113], Loss: 5.6675
+Epoch [1/1], Step [91/113], Loss: 5.5687
+Epoch [1/1], Step [101/113], Loss: 5.6503
+Epoch [1/1], Step [111/113], Loss: 5.7020
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6505
+Epoch [1/1], Step [11/113], Loss: 7.4156
+Epoch [1/1], Step [21/113], Loss: 6.9503
+Epoch [1/1], Step [31/113], Loss: 6.5608
+Epoch [1/1], Step [41/113], Loss: 6.6352
+Epoch [1/1], Step [51/113], Loss: 6.4641
+Epoch [1/1], Step [61/113], Loss: 6.3751
+Epoch [1/1], Step [71/113], Loss: 6.1120
+Epoch [1/1], Step [81/113], Loss: 5.9003
+Epoch [1/1], Step [91/113], Loss: 5.9053
+Epoch [1/1], Step [101/113], Loss: 5.6801
+Epoch [1/1], Step [111/113], Loss: 5.5414
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7071
+Epoch [1/1], Step [11/113], Loss: 6.9688
+Epoch [1/1], Step [21/113], Loss: 7.1163
+Epoch [1/1], Step [31/113], Loss: 6.9606
+Epoch [1/1], Step [41/113], Loss: 6.6361
+Epoch [1/1], Step [51/113], Loss: 6.5209
+Epoch [1/1], Step [61/113], Loss: 6.3399
+Epoch [1/1], Step [71/113], Loss: 5.9230
+Epoch [1/1], Step [81/113], Loss: 5.0867
+Epoch [1/1], Step [91/113], Loss: 6.5930
+Epoch [1/1], Step [101/113], Loss: 5.2510
+Epoch [1/1], Step [111/113], Loss: 4.6211
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6302
+Epoch [1/1], Step [1/113], Loss: 7.6510
+Epoch [1/1], Step [11/113], Loss: 7.4304
+Epoch [1/1], Step [21/113], Loss: 6.8540
+Epoch [1/1], Step [31/113], Loss: 6.8372
+Epoch [1/1], Step [41/113], Loss: 6.5922
+Epoch [1/1], Step [51/113], Loss: 6.4269
+Epoch [1/1], Step [61/113], Loss: 6.0573
+Epoch [1/1], Step [71/113], Loss: 6.0029
+Epoch [1/1], Step [81/113], Loss: 5.5740
+Epoch [1/1], Step [91/113], Loss: 5.5954
+Epoch [1/1], Step [101/113], Loss: 5.6124
+Epoch [1/1], Step [111/113], Loss: 5.2555
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7302
+Epoch [1/1], Step [11/113], Loss: 7.4425
+Epoch [1/1], Step [21/113], Loss: 6.9382
+Epoch [1/1], Step [31/113], Loss: 6.9327
+Epoch [1/1], Step [41/113], Loss: 6.5197
+Epoch [1/1], Step [51/113], Loss: 6.6840
+Epoch [1/1], Step [61/113], Loss: 6.1026
+Epoch [1/1], Step [71/113], Loss: 5.8164
+Epoch [1/1], Step [81/113], Loss: 5.6678
+Epoch [1/1], Step [91/113], Loss: 5.4277
+Epoch [1/1], Step [101/113], Loss: 5.3265
+Epoch [1/1], Step [111/113], Loss: 5.9545
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6460
+Epoch [1/1], Step [11/113], Loss: 7.1331
+Epoch [1/1], Step [21/113], Loss: 7.3339
+Epoch [1/1], Step [31/113], Loss: 6.9927
+Epoch [1/1], Step [41/113], Loss: 6.2805
+Epoch [1/1], Step [51/113], Loss: 6.2201
+Epoch [1/1], Step [61/113], Loss: 6.7030
+Epoch [1/1], Step [71/113], Loss: 5.8259
+Epoch [1/1], Step [81/113], Loss: 5.9505
+Epoch [1/1], Step [91/113], Loss: 5.8453
+Epoch [1/1], Step [101/113], Loss: 5.2542
+Epoch [1/1], Step [111/113], Loss: 5.0154
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6593
+Epoch [1/1], Step [11/113], Loss: 7.3639
+Epoch [1/1], Step [21/113], Loss: 7.0066
+Epoch [1/1], Step [31/113], Loss: 6.8347
+Epoch [1/1], Step [41/113], Loss: 6.6383
+Epoch [1/1], Step [51/113], Loss: 6.3447
+Epoch [1/1], Step [61/113], Loss: 6.2450
+Epoch [1/1], Step [71/113], Loss: 6.1738
+Epoch [1/1], Step [81/113], Loss: 5.9525
+Epoch [1/1], Step [91/113], Loss: 5.6451
+Epoch [1/1], Step [101/113], Loss: 5.5824
+Epoch [1/1], Step [111/113], Loss: 5.4216
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6466
+Epoch [1/1], Step [11/113], Loss: 7.5734
+Epoch [1/1], Step [21/113], Loss: 7.1633
+Epoch [1/1], Step [31/113], Loss: 6.7497
+Epoch [1/1], Step [41/113], Loss: 6.2697
+Epoch [1/1], Step [51/113], Loss: 5.8993
+Epoch [1/1], Step [61/113], Loss: 6.3692
+Epoch [1/1], Step [71/113], Loss: 5.4715
+Epoch [1/1], Step [81/113], Loss: 5.6237
+Epoch [1/1], Step [91/113], Loss: 5.1841
+Epoch [1/1], Step [101/113], Loss: 5.4583
+Epoch [1/1], Step [111/113], Loss: 5.5928
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6117
+Best params for Fold 2: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6302
+Epoch [1/1], Step [1/179], Loss: 7.6658
+Epoch [1/1], Step [11/179], Loss: 7.1393
+Epoch [1/1], Step [21/179], Loss: 7.0634
+Epoch [1/1], Step [31/179], Loss: 6.8187
+Epoch [1/1], Step [41/179], Loss: 6.7030
+Epoch [1/1], Step [51/179], Loss: 6.3127
+Epoch [1/1], Step [61/179], Loss: 6.3893
+Epoch [1/1], Step [71/179], Loss: 6.2317
+Epoch [1/1], Step [81/179], Loss: 5.9836
+Epoch [1/1], Step [91/179], Loss: 5.2880
+Epoch [1/1], Step [101/179], Loss: 5.8590
+Epoch [1/1], Step [111/179], Loss: 5.1277
+Epoch [1/1], Step [121/179], Loss: 5.0998
+Epoch [1/1], Step [131/179], Loss: 4.7731
+Epoch [1/1], Step [141/179], Loss: 4.6382
+Epoch [1/1], Step [151/179], Loss: 4.8127
+Epoch [1/1], Step [161/179], Loss: 4.7640
+Epoch [1/1], Step [171/179], Loss: 3.7277
+Cleared GPU memory.
+Outer Fold 2 Accuracy: 0.6833
+
+--- Outer Fold 3 ---
+Epoch [1/1], Step [1/113], Loss: 7.5785
+Epoch [1/1], Step [11/113], Loss: 7.3723
+Epoch [1/1], Step [21/113], Loss: 7.0399
+Epoch [1/1], Step [31/113], Loss: 6.6830
+Epoch [1/1], Step [41/113], Loss: 6.5584
+Epoch [1/1], Step [51/113], Loss: 6.4830
+Epoch [1/1], Step [61/113], Loss: 6.2021
+Epoch [1/1], Step [71/113], Loss: 6.0514
+Epoch [1/1], Step [81/113], Loss: 5.7374
+Epoch [1/1], Step [91/113], Loss: 5.8072
+Epoch [1/1], Step [101/113], Loss: 5.5174
+Epoch [1/1], Step [111/113], Loss: 5.5028
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.8246
+Epoch [1/1], Step [11/113], Loss: 7.4798
+Epoch [1/1], Step [21/113], Loss: 7.0912
+Epoch [1/1], Step [31/113], Loss: 6.6774
+Epoch [1/1], Step [41/113], Loss: 6.6508
+Epoch [1/1], Step [51/113], Loss: 6.3524
+Epoch [1/1], Step [61/113], Loss: 6.1531
+Epoch [1/1], Step [71/113], Loss: 5.9888
+Epoch [1/1], Step [81/113], Loss: 6.1186
+Epoch [1/1], Step [91/113], Loss: 5.5299
+Epoch [1/1], Step [101/113], Loss: 5.8832
+Epoch [1/1], Step [111/113], Loss: 5.6436
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7492
+Epoch [1/1], Step [11/113], Loss: 7.3546
+Epoch [1/1], Step [21/113], Loss: 7.0855
+Epoch [1/1], Step [31/113], Loss: 6.7869
+Epoch [1/1], Step [41/113], Loss: 6.6510
+Epoch [1/1], Step [51/113], Loss: 6.5686
+Epoch [1/1], Step [61/113], Loss: 6.4544
+Epoch [1/1], Step [71/113], Loss: 6.1100
+Epoch [1/1], Step [81/113], Loss: 6.1718
+Epoch [1/1], Step [91/113], Loss: 6.1392
+Epoch [1/1], Step [101/113], Loss: 6.0024
+Epoch [1/1], Step [111/113], Loss: 5.7387
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6118
+Epoch [1/1], Step [11/113], Loss: 7.3283
+Epoch [1/1], Step [21/113], Loss: 6.8475
+Epoch [1/1], Step [31/113], Loss: 6.7225
+Epoch [1/1], Step [41/113], Loss: 6.5017
+Epoch [1/1], Step [51/113], Loss: 6.3924
+Epoch [1/1], Step [61/113], Loss: 6.0437
+Epoch [1/1], Step [71/113], Loss: 5.9358
+Epoch [1/1], Step [81/113], Loss: 5.9682
+Epoch [1/1], Step [91/113], Loss: 5.7615
+Epoch [1/1], Step [101/113], Loss: 5.5484
+Epoch [1/1], Step [111/113], Loss: 5.3006
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6893
+Epoch [1/1], Step [11/113], Loss: 7.4231
+Epoch [1/1], Step [21/113], Loss: 6.9028
+Epoch [1/1], Step [31/113], Loss: 6.6801
+Epoch [1/1], Step [41/113], Loss: 6.3700
+Epoch [1/1], Step [51/113], Loss: 6.5000
+Epoch [1/1], Step [61/113], Loss: 6.1898
+Epoch [1/1], Step [71/113], Loss: 6.0806
+Epoch [1/1], Step [81/113], Loss: 5.5374
+Epoch [1/1], Step [91/113], Loss: 5.3592
+Epoch [1/1], Step [101/113], Loss: 5.3473
+Epoch [1/1], Step [111/113], Loss: 5.6136
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6196
+Epoch [1/1], Step [1/113], Loss: 7.7313
+Epoch [1/1], Step [11/113], Loss: 7.3158
+Epoch [1/1], Step [21/113], Loss: 6.8448
+Epoch [1/1], Step [31/113], Loss: 6.6835
+Epoch [1/1], Step [41/113], Loss: 6.3888
+Epoch [1/1], Step [51/113], Loss: 6.2537
+Epoch [1/1], Step [61/113], Loss: 6.3368
+Epoch [1/1], Step [71/113], Loss: 5.7152
+Epoch [1/1], Step [81/113], Loss: 5.8199
+Epoch [1/1], Step [91/113], Loss: 5.7212
+Epoch [1/1], Step [101/113], Loss: 5.3894
+Epoch [1/1], Step [111/113], Loss: 5.4798
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6260
+Epoch [1/1], Step [11/113], Loss: 7.3583
+Epoch [1/1], Step [21/113], Loss: 6.8831
+Epoch [1/1], Step [31/113], Loss: 6.6490
+Epoch [1/1], Step [41/113], Loss: 6.5346
+Epoch [1/1], Step [51/113], Loss: 6.6210
+Epoch [1/1], Step [61/113], Loss: 5.9894
+Epoch [1/1], Step [71/113], Loss: 6.0356
+Epoch [1/1], Step [81/113], Loss: 5.9556
+Epoch [1/1], Step [91/113], Loss: 5.5960
+Epoch [1/1], Step [101/113], Loss: 5.5112
+Epoch [1/1], Step [111/113], Loss: 5.3459
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7634
+Epoch [1/1], Step [11/113], Loss: 7.3592
+Epoch [1/1], Step [21/113], Loss: 7.1063
+Epoch [1/1], Step [31/113], Loss: 6.7176
+Epoch [1/1], Step [41/113], Loss: 6.6412
+Epoch [1/1], Step [51/113], Loss: 6.4847
+Epoch [1/1], Step [61/113], Loss: 6.4342
+Epoch [1/1], Step [71/113], Loss: 6.1477
+Epoch [1/1], Step [81/113], Loss: 5.8387
+Epoch [1/1], Step [91/113], Loss: 5.9027
+Epoch [1/1], Step [101/113], Loss: 5.9989
+Epoch [1/1], Step [111/113], Loss: 5.6209
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7518
+Epoch [1/1], Step [11/113], Loss: 7.3290
+Epoch [1/1], Step [21/113], Loss: 7.0713
+Epoch [1/1], Step [31/113], Loss: 6.6922
+Epoch [1/1], Step [41/113], Loss: 6.7145
+Epoch [1/1], Step [51/113], Loss: 6.4710
+Epoch [1/1], Step [61/113], Loss: 6.1297
+Epoch [1/1], Step [71/113], Loss: 6.1003
+Epoch [1/1], Step [81/113], Loss: 6.0928
+Epoch [1/1], Step [91/113], Loss: 5.6913
+Epoch [1/1], Step [101/113], Loss: 5.5960
+Epoch [1/1], Step [111/113], Loss: 5.5057
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7148
+Epoch [1/1], Step [11/113], Loss: 7.3668
+Epoch [1/1], Step [21/113], Loss: 6.9888
+Epoch [1/1], Step [31/113], Loss: 6.8066
+Epoch [1/1], Step [41/113], Loss: 6.5222
+Epoch [1/1], Step [51/113], Loss: 6.3115
+Epoch [1/1], Step [61/113], Loss: 6.1603
+Epoch [1/1], Step [71/113], Loss: 6.1628
+Epoch [1/1], Step [81/113], Loss: 5.8067
+Epoch [1/1], Step [91/113], Loss: 5.8309
+Epoch [1/1], Step [101/113], Loss: 5.2441
+Epoch [1/1], Step [111/113], Loss: 5.4178
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6258
+Epoch [1/1], Step [1/113], Loss: 7.6869
+Epoch [1/1], Step [11/113], Loss: 7.2350
+Epoch [1/1], Step [21/113], Loss: 7.0216
+Epoch [1/1], Step [31/113], Loss: 6.8421
+Epoch [1/1], Step [41/113], Loss: 6.4265
+Epoch [1/1], Step [51/113], Loss: 6.2961
+Epoch [1/1], Step [61/113], Loss: 6.1513
+Epoch [1/1], Step [71/113], Loss: 5.9683
+Epoch [1/1], Step [81/113], Loss: 5.9068
+Epoch [1/1], Step [91/113], Loss: 5.4163
+Epoch [1/1], Step [101/113], Loss: 5.1259
+Epoch [1/1], Step [111/113], Loss: 5.4490
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6016
+Epoch [1/1], Step [11/113], Loss: 7.1747
+Epoch [1/1], Step [21/113], Loss: 7.1123
+Epoch [1/1], Step [31/113], Loss: 6.5906
+Epoch [1/1], Step [41/113], Loss: 6.8921
+Epoch [1/1], Step [51/113], Loss: 6.2341
+Epoch [1/1], Step [61/113], Loss: 6.5241
+Epoch [1/1], Step [71/113], Loss: 5.7151
+Epoch [1/1], Step [81/113], Loss: 5.5730
+Epoch [1/1], Step [91/113], Loss: 6.0633
+Epoch [1/1], Step [101/113], Loss: 5.5279
+Epoch [1/1], Step [111/113], Loss: 5.3803
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7081
+Epoch [1/1], Step [11/113], Loss: 7.4867
+Epoch [1/1], Step [21/113], Loss: 6.8622
+Epoch [1/1], Step [31/113], Loss: 6.6984
+Epoch [1/1], Step [41/113], Loss: 6.5572
+Epoch [1/1], Step [51/113], Loss: 6.4361
+Epoch [1/1], Step [61/113], Loss: 6.4858
+Epoch [1/1], Step [71/113], Loss: 6.1124
+Epoch [1/1], Step [81/113], Loss: 5.7055
+Epoch [1/1], Step [91/113], Loss: 5.9667
+Epoch [1/1], Step [101/113], Loss: 5.6191
+Epoch [1/1], Step [111/113], Loss: 5.2603
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6311
+Epoch [1/1], Step [11/113], Loss: 7.2090
+Epoch [1/1], Step [21/113], Loss: 6.9007
+Epoch [1/1], Step [31/113], Loss: 7.1770
+Epoch [1/1], Step [41/113], Loss: 6.5151
+Epoch [1/1], Step [51/113], Loss: 6.6216
+Epoch [1/1], Step [61/113], Loss: 6.2982
+Epoch [1/1], Step [71/113], Loss: 6.5186
+Epoch [1/1], Step [81/113], Loss: 4.9568
+Epoch [1/1], Step [91/113], Loss: 6.1992
+Epoch [1/1], Step [101/113], Loss: 5.1480
+Epoch [1/1], Step [111/113], Loss: 4.7533
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6515
+Epoch [1/1], Step [11/113], Loss: 7.2917
+Epoch [1/1], Step [21/113], Loss: 6.7295
+Epoch [1/1], Step [31/113], Loss: 6.6918
+Epoch [1/1], Step [41/113], Loss: 6.7161
+Epoch [1/1], Step [51/113], Loss: 6.4686
+Epoch [1/1], Step [61/113], Loss: 6.4319
+Epoch [1/1], Step [71/113], Loss: 6.1764
+Epoch [1/1], Step [81/113], Loss: 6.4930
+Epoch [1/1], Step [91/113], Loss: 6.1561
+Epoch [1/1], Step [101/113], Loss: 5.5881
+Epoch [1/1], Step [111/113], Loss: 5.6189
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6224
+Best params for Fold 3: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6258
+Epoch [1/1], Step [1/179], Loss: 7.5707
+Epoch [1/1], Step [11/179], Loss: 7.1875
+Epoch [1/1], Step [21/179], Loss: 6.6996
+Epoch [1/1], Step [31/179], Loss: 6.7439
+Epoch [1/1], Step [41/179], Loss: 6.4842
+Epoch [1/1], Step [51/179], Loss: 6.4055
+Epoch [1/1], Step [61/179], Loss: 6.0915
+Epoch [1/1], Step [71/179], Loss: 5.9421
+Epoch [1/1], Step [81/179], Loss: 5.7333
+Epoch [1/1], Step [91/179], Loss: 5.4019
+Epoch [1/1], Step [101/179], Loss: 5.4484
+Epoch [1/1], Step [111/179], Loss: 5.5284
+Epoch [1/1], Step [121/179], Loss: 5.3285
+Epoch [1/1], Step [131/179], Loss: 5.1780
+Epoch [1/1], Step [141/179], Loss: 4.6613
+Epoch [1/1], Step [151/179], Loss: 4.4230
+Epoch [1/1], Step [161/179], Loss: 4.4104
+Epoch [1/1], Step [171/179], Loss: 4.0415
+Cleared GPU memory.
+Outer Fold 3 Accuracy: 0.6133
+
+--- Outer Fold 4 ---
+Epoch [1/1], Step [1/113], Loss: 7.6802
+Epoch [1/1], Step [11/113], Loss: 7.2426
+Epoch [1/1], Step [21/113], Loss: 6.9779
+Epoch [1/1], Step [31/113], Loss: 6.8271
+Epoch [1/1], Step [41/113], Loss: 6.5896
+Epoch [1/1], Step [51/113], Loss: 6.3795
+Epoch [1/1], Step [61/113], Loss: 6.3007
+Epoch [1/1], Step [71/113], Loss: 6.1613
+Epoch [1/1], Step [81/113], Loss: 6.0203
+Epoch [1/1], Step [91/113], Loss: 5.8367
+Epoch [1/1], Step [101/113], Loss: 5.7116
+Epoch [1/1], Step [111/113], Loss: 5.5499
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7165
+Epoch [1/1], Step [11/113], Loss: 7.3508
+Epoch [1/1], Step [21/113], Loss: 6.9192
+Epoch [1/1], Step [31/113], Loss: 6.6281
+Epoch [1/1], Step [41/113], Loss: 6.5647
+Epoch [1/1], Step [51/113], Loss: 6.4555
+Epoch [1/1], Step [61/113], Loss: 6.1330
+Epoch [1/1], Step [71/113], Loss: 6.0632
+Epoch [1/1], Step [81/113], Loss: 5.9042
+Epoch [1/1], Step [91/113], Loss: 5.7485
+Epoch [1/1], Step [101/113], Loss: 5.6695
+Epoch [1/1], Step [111/113], Loss: 5.5810
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7086
+Epoch [1/1], Step [11/113], Loss: 7.3873
+Epoch [1/1], Step [21/113], Loss: 7.0647
+Epoch [1/1], Step [31/113], Loss: 6.8069
+Epoch [1/1], Step [41/113], Loss: 6.5974
+Epoch [1/1], Step [51/113], Loss: 6.3739
+Epoch [1/1], Step [61/113], Loss: 6.2460
+Epoch [1/1], Step [71/113], Loss: 5.8591
+Epoch [1/1], Step [81/113], Loss: 5.8327
+Epoch [1/1], Step [91/113], Loss: 5.3612
+Epoch [1/1], Step [101/113], Loss: 5.7311
+Epoch [1/1], Step [111/113], Loss: 5.1477
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6740
+Epoch [1/1], Step [11/113], Loss: 7.5617
+Epoch [1/1], Step [21/113], Loss: 6.8333
+Epoch [1/1], Step [31/113], Loss: 6.5225
+Epoch [1/1], Step [41/113], Loss: 6.5495
+Epoch [1/1], Step [51/113], Loss: 5.9041
+Epoch [1/1], Step [61/113], Loss: 5.8584
+Epoch [1/1], Step [71/113], Loss: 6.2456
+Epoch [1/1], Step [81/113], Loss: 5.4500
+Epoch [1/1], Step [91/113], Loss: 5.3880
+Epoch [1/1], Step [101/113], Loss: 5.8726
+Epoch [1/1], Step [111/113], Loss: 5.1921
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.8304
+Epoch [1/1], Step [11/113], Loss: 7.6091
+Epoch [1/1], Step [21/113], Loss: 7.1985
+Epoch [1/1], Step [31/113], Loss: 6.8469
+Epoch [1/1], Step [41/113], Loss: 6.5145
+Epoch [1/1], Step [51/113], Loss: 6.3554
+Epoch [1/1], Step [61/113], Loss: 5.6241
+Epoch [1/1], Step [71/113], Loss: 5.5725
+Epoch [1/1], Step [81/113], Loss: 6.0536
+Epoch [1/1], Step [91/113], Loss: 5.8619
+Epoch [1/1], Step [101/113], Loss: 5.4167
+Epoch [1/1], Step [111/113], Loss: 5.3881
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6176
+Epoch [1/1], Step [1/113], Loss: 7.5860
+Epoch [1/1], Step [11/113], Loss: 7.2645
+Epoch [1/1], Step [21/113], Loss: 7.0871
+Epoch [1/1], Step [31/113], Loss: 6.9020
+Epoch [1/1], Step [41/113], Loss: 6.7804
+Epoch [1/1], Step [51/113], Loss: 6.5608
+Epoch [1/1], Step [61/113], Loss: 6.4291
+Epoch [1/1], Step [71/113], Loss: 6.2473
+Epoch [1/1], Step [81/113], Loss: 6.2291
+Epoch [1/1], Step [91/113], Loss: 6.1571
+Epoch [1/1], Step [101/113], Loss: 5.9972
+Epoch [1/1], Step [111/113], Loss: 5.7288
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7920
+Epoch [1/1], Step [11/113], Loss: 7.1129
+Epoch [1/1], Step [21/113], Loss: 6.9588
+Epoch [1/1], Step [31/113], Loss: 6.8050
+Epoch [1/1], Step [41/113], Loss: 6.5204
+Epoch [1/1], Step [51/113], Loss: 5.9151
+Epoch [1/1], Step [61/113], Loss: 6.2312
+Epoch [1/1], Step [71/113], Loss: 5.6872
+Epoch [1/1], Step [81/113], Loss: 5.6101
+Epoch [1/1], Step [91/113], Loss: 5.1929
+Epoch [1/1], Step [101/113], Loss: 4.8380
+Epoch [1/1], Step [111/113], Loss: 4.9162
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6290
+Epoch [1/1], Step [11/113], Loss: 7.3013
+Epoch [1/1], Step [21/113], Loss: 7.1498
+Epoch [1/1], Step [31/113], Loss: 6.7027
+Epoch [1/1], Step [41/113], Loss: 6.5091
+Epoch [1/1], Step [51/113], Loss: 6.4584
+Epoch [1/1], Step [61/113], Loss: 6.3757
+Epoch [1/1], Step [71/113], Loss: 6.0899
+Epoch [1/1], Step [81/113], Loss: 5.9986
+Epoch [1/1], Step [91/113], Loss: 5.7935
+Epoch [1/1], Step [101/113], Loss: 5.3549
+Epoch [1/1], Step [111/113], Loss: 5.5645
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6890
+Epoch [1/1], Step [11/113], Loss: 7.2990
+Epoch [1/1], Step [21/113], Loss: 6.8577
+Epoch [1/1], Step [31/113], Loss: 6.8357
+Epoch [1/1], Step [41/113], Loss: 6.6664
+Epoch [1/1], Step [51/113], Loss: 6.4620
+Epoch [1/1], Step [61/113], Loss: 6.4241
+Epoch [1/1], Step [71/113], Loss: 6.0277
+Epoch [1/1], Step [81/113], Loss: 6.2393
+Epoch [1/1], Step [91/113], Loss: 5.9255
+Epoch [1/1], Step [101/113], Loss: 5.6483
+Epoch [1/1], Step [111/113], Loss: 5.3471
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7534
+Epoch [1/1], Step [11/113], Loss: 7.3445
+Epoch [1/1], Step [21/113], Loss: 7.2068
+Epoch [1/1], Step [31/113], Loss: 6.8473
+Epoch [1/1], Step [41/113], Loss: 6.8050
+Epoch [1/1], Step [51/113], Loss: 6.8197
+Epoch [1/1], Step [61/113], Loss: 6.0826
+Epoch [1/1], Step [71/113], Loss: 5.4406
+Epoch [1/1], Step [81/113], Loss: 5.7206
+Epoch [1/1], Step [91/113], Loss: 4.9343
+Epoch [1/1], Step [101/113], Loss: 5.8104
+Epoch [1/1], Step [111/113], Loss: 6.5145
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6210
+Epoch [1/1], Step [1/113], Loss: 7.7082
+Epoch [1/1], Step [11/113], Loss: 6.9814
+Epoch [1/1], Step [21/113], Loss: 7.4619
+Epoch [1/1], Step [31/113], Loss: 6.9352
+Epoch [1/1], Step [41/113], Loss: 6.7352
+Epoch [1/1], Step [51/113], Loss: 6.2498
+Epoch [1/1], Step [61/113], Loss: 6.6311
+Epoch [1/1], Step [71/113], Loss: 5.6807
+Epoch [1/1], Step [81/113], Loss: 5.5567
+Epoch [1/1], Step [91/113], Loss: 5.7826
+Epoch [1/1], Step [101/113], Loss: 5.1155
+Epoch [1/1], Step [111/113], Loss: 4.9092
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6711
+Epoch [1/1], Step [11/113], Loss: 7.1037
+Epoch [1/1], Step [21/113], Loss: 6.8327
+Epoch [1/1], Step [31/113], Loss: 6.7148
+Epoch [1/1], Step [41/113], Loss: 6.4857
+Epoch [1/1], Step [51/113], Loss: 6.2974
+Epoch [1/1], Step [61/113], Loss: 6.0967
+Epoch [1/1], Step [71/113], Loss: 5.9083
+Epoch [1/1], Step [81/113], Loss: 5.7637
+Epoch [1/1], Step [91/113], Loss: 5.6777
+Epoch [1/1], Step [101/113], Loss: 5.3575
+Epoch [1/1], Step [111/113], Loss: 5.0641
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7202
+Epoch [1/1], Step [11/113], Loss: 7.3280
+Epoch [1/1], Step [21/113], Loss: 6.9941
+Epoch [1/1], Step [31/113], Loss: 6.8072
+Epoch [1/1], Step [41/113], Loss: 6.6644
+Epoch [1/1], Step [51/113], Loss: 6.4099
+Epoch [1/1], Step [61/113], Loss: 6.2723
+Epoch [1/1], Step [71/113], Loss: 6.0536
+Epoch [1/1], Step [81/113], Loss: 5.9004
+Epoch [1/1], Step [91/113], Loss: 5.7172
+Epoch [1/1], Step [101/113], Loss: 5.5591
+Epoch [1/1], Step [111/113], Loss: 5.3895
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6641
+Epoch [1/1], Step [11/113], Loss: 7.3927
+Epoch [1/1], Step [21/113], Loss: 7.0193
+Epoch [1/1], Step [31/113], Loss: 6.6925
+Epoch [1/1], Step [41/113], Loss: 6.7449
+Epoch [1/1], Step [51/113], Loss: 6.3880
+Epoch [1/1], Step [61/113], Loss: 6.0613
+Epoch [1/1], Step [71/113], Loss: 6.3282
+Epoch [1/1], Step [81/113], Loss: 5.8129
+Epoch [1/1], Step [91/113], Loss: 5.4055
+Epoch [1/1], Step [101/113], Loss: 5.5302
+Epoch [1/1], Step [111/113], Loss: 5.3450
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7518
+Epoch [1/1], Step [11/113], Loss: 7.4343
+Epoch [1/1], Step [21/113], Loss: 6.8236
+Epoch [1/1], Step [31/113], Loss: 6.4036
+Epoch [1/1], Step [41/113], Loss: 6.5197
+Epoch [1/1], Step [51/113], Loss: 6.6174
+Epoch [1/1], Step [61/113], Loss: 6.3301
+Epoch [1/1], Step [71/113], Loss: 6.1808
+Epoch [1/1], Step [81/113], Loss: 5.5187
+Epoch [1/1], Step [91/113], Loss: 5.8825
+Epoch [1/1], Step [101/113], Loss: 5.4394
+Epoch [1/1], Step [111/113], Loss: 4.7637
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6287
+Best params for Fold 4: {'kernel_size': 5, 'C': 0.01} with accuracy 0.6287
+Epoch [1/1], Step [1/179], Loss: 7.7715
+Epoch [1/1], Step [11/179], Loss: 7.6043
+Epoch [1/1], Step [21/179], Loss: 7.2075
+Epoch [1/1], Step [31/179], Loss: 6.7143
+Epoch [1/1], Step [41/179], Loss: 6.8023
+Epoch [1/1], Step [51/179], Loss: 6.5770
+Epoch [1/1], Step [61/179], Loss: 6.3028
+Epoch [1/1], Step [71/179], Loss: 6.1548
+Epoch [1/1], Step [81/179], Loss: 5.9140
+Epoch [1/1], Step [91/179], Loss: 5.6987
+Epoch [1/1], Step [101/179], Loss: 5.8313
+Epoch [1/1], Step [111/179], Loss: 5.4023
+Epoch [1/1], Step [121/179], Loss: 5.5311
+Epoch [1/1], Step [131/179], Loss: 5.3518
+Epoch [1/1], Step [141/179], Loss: 5.0716
+Epoch [1/1], Step [151/179], Loss: 5.1250
+Epoch [1/1], Step [161/179], Loss: 4.8905
+Epoch [1/1], Step [171/179], Loss: 4.5487
+Cleared GPU memory.
+Outer Fold 4 Accuracy: 0.6533
+
+--- Outer Fold 5 ---
+Epoch [1/1], Step [1/113], Loss: 7.6993
+Epoch [1/1], Step [11/113], Loss: 7.3537
+Epoch [1/1], Step [21/113], Loss: 6.9770
+Epoch [1/1], Step [31/113], Loss: 6.8090
+Epoch [1/1], Step [41/113], Loss: 6.6305
+Epoch [1/1], Step [51/113], Loss: 6.2670
+Epoch [1/1], Step [61/113], Loss: 6.4292
+Epoch [1/1], Step [71/113], Loss: 6.3994
+Epoch [1/1], Step [81/113], Loss: 5.9617
+Epoch [1/1], Step [91/113], Loss: 5.5911
+Epoch [1/1], Step [101/113], Loss: 5.4494
+Epoch [1/1], Step [111/113], Loss: 5.2375
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7348
+Epoch [1/1], Step [11/113], Loss: 7.2553
+Epoch [1/1], Step [21/113], Loss: 7.0196
+Epoch [1/1], Step [31/113], Loss: 6.7385
+Epoch [1/1], Step [41/113], Loss: 6.6926
+Epoch [1/1], Step [51/113], Loss: 6.6757
+Epoch [1/1], Step [61/113], Loss: 6.1470
+Epoch [1/1], Step [71/113], Loss: 6.2145
+Epoch [1/1], Step [81/113], Loss: 5.6196
+Epoch [1/1], Step [91/113], Loss: 5.5405
+Epoch [1/1], Step [101/113], Loss: 5.5709
+Epoch [1/1], Step [111/113], Loss: 5.4091
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6849
+Epoch [1/1], Step [11/113], Loss: 7.2999
+Epoch [1/1], Step [21/113], Loss: 6.8827
+Epoch [1/1], Step [31/113], Loss: 6.7357
+Epoch [1/1], Step [41/113], Loss: 6.4607
+Epoch [1/1], Step [51/113], Loss: 6.2682
+Epoch [1/1], Step [61/113], Loss: 6.3599
+Epoch [1/1], Step [71/113], Loss: 6.0511
+Epoch [1/1], Step [81/113], Loss: 5.7168
+Epoch [1/1], Step [91/113], Loss: 5.4709
+Epoch [1/1], Step [101/113], Loss: 5.1239
+Epoch [1/1], Step [111/113], Loss: 5.4984
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7467
+Epoch [1/1], Step [11/113], Loss: 7.3267
+Epoch [1/1], Step [21/113], Loss: 6.8294
+Epoch [1/1], Step [31/113], Loss: 6.8556
+Epoch [1/1], Step [41/113], Loss: 6.7419
+Epoch [1/1], Step [51/113], Loss: 6.5522
+Epoch [1/1], Step [61/113], Loss: 6.3341
+Epoch [1/1], Step [71/113], Loss: 6.0756
+Epoch [1/1], Step [81/113], Loss: 6.0472
+Epoch [1/1], Step [91/113], Loss: 5.8316
+Epoch [1/1], Step [101/113], Loss: 5.6553
+Epoch [1/1], Step [111/113], Loss: 5.4484
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6932
+Epoch [1/1], Step [11/113], Loss: 7.3091
+Epoch [1/1], Step [21/113], Loss: 7.0015
+Epoch [1/1], Step [31/113], Loss: 6.9114
+Epoch [1/1], Step [41/113], Loss: 6.7304
+Epoch [1/1], Step [51/113], Loss: 6.4473
+Epoch [1/1], Step [61/113], Loss: 6.4022
+Epoch [1/1], Step [71/113], Loss: 6.1919
+Epoch [1/1], Step [81/113], Loss: 6.1738
+Epoch [1/1], Step [91/113], Loss: 5.7354
+Epoch [1/1], Step [101/113], Loss: 5.8051
+Epoch [1/1], Step [111/113], Loss: 5.6731
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6208
+Epoch [1/1], Step [1/113], Loss: 7.7026
+Epoch [1/1], Step [11/113], Loss: 7.3589
+Epoch [1/1], Step [21/113], Loss: 7.0416
+Epoch [1/1], Step [31/113], Loss: 6.7772
+Epoch [1/1], Step [41/113], Loss: 6.6046
+Epoch [1/1], Step [51/113], Loss: 6.4875
+Epoch [1/1], Step [61/113], Loss: 6.1888
+Epoch [1/1], Step [71/113], Loss: 6.3028
+Epoch [1/1], Step [81/113], Loss: 5.4558
+Epoch [1/1], Step [91/113], Loss: 5.9260
+Epoch [1/1], Step [101/113], Loss: 5.5702
+Epoch [1/1], Step [111/113], Loss: 5.3587
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5933
+Epoch [1/1], Step [11/113], Loss: 7.2461
+Epoch [1/1], Step [21/113], Loss: 7.6147
+Epoch [1/1], Step [31/113], Loss: 7.0683
+Epoch [1/1], Step [41/113], Loss: 6.3537
+Epoch [1/1], Step [51/113], Loss: 6.4093
+Epoch [1/1], Step [61/113], Loss: 6.1268
+Epoch [1/1], Step [71/113], Loss: 6.3287
+Epoch [1/1], Step [81/113], Loss: 6.1647
+Epoch [1/1], Step [91/113], Loss: 6.3055
+Epoch [1/1], Step [101/113], Loss: 6.0657
+Epoch [1/1], Step [111/113], Loss: 5.3159
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7300
+Epoch [1/1], Step [11/113], Loss: 6.7626
+Epoch [1/1], Step [21/113], Loss: 7.2303
+Epoch [1/1], Step [31/113], Loss: 6.6441
+Epoch [1/1], Step [41/113], Loss: 6.6414
+Epoch [1/1], Step [51/113], Loss: 6.6802
+Epoch [1/1], Step [61/113], Loss: 5.8222
+Epoch [1/1], Step [71/113], Loss: 5.9179
+Epoch [1/1], Step [81/113], Loss: 5.7452
+Epoch [1/1], Step [91/113], Loss: 5.7912
+Epoch [1/1], Step [101/113], Loss: 5.0166
+Epoch [1/1], Step [111/113], Loss: 5.3053
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7011
+Epoch [1/1], Step [11/113], Loss: 7.3146
+Epoch [1/1], Step [21/113], Loss: 7.0547
+Epoch [1/1], Step [31/113], Loss: 6.8905
+Epoch [1/1], Step [41/113], Loss: 6.7779
+Epoch [1/1], Step [51/113], Loss: 6.5284
+Epoch [1/1], Step [61/113], Loss: 6.3779
+Epoch [1/1], Step [71/113], Loss: 6.3325
+Epoch [1/1], Step [81/113], Loss: 6.0249
+Epoch [1/1], Step [91/113], Loss: 6.1450
+Epoch [1/1], Step [101/113], Loss: 5.8755
+Epoch [1/1], Step [111/113], Loss: 5.6789
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6768
+Epoch [1/1], Step [11/113], Loss: 7.1928
+Epoch [1/1], Step [21/113], Loss: 6.7056
+Epoch [1/1], Step [31/113], Loss: 6.4943
+Epoch [1/1], Step [41/113], Loss: 6.1984
+Epoch [1/1], Step [51/113], Loss: 6.3369
+Epoch [1/1], Step [61/113], Loss: 6.0724
+Epoch [1/1], Step [71/113], Loss: 5.8463
+Epoch [1/1], Step [81/113], Loss: 6.1225
+Epoch [1/1], Step [91/113], Loss: 5.3620
+Epoch [1/1], Step [101/113], Loss: 5.0832
+Epoch [1/1], Step [111/113], Loss: 5.2227
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6082
+Epoch [1/1], Step [1/113], Loss: 7.6868
+Epoch [1/1], Step [11/113], Loss: 7.5450
+Epoch [1/1], Step [21/113], Loss: 7.0930
+Epoch [1/1], Step [31/113], Loss: 6.3509
+Epoch [1/1], Step [41/113], Loss: 6.3168
+Epoch [1/1], Step [51/113], Loss: 6.3752
+Epoch [1/1], Step [61/113], Loss: 6.0527
+Epoch [1/1], Step [71/113], Loss: 6.4205
+Epoch [1/1], Step [81/113], Loss: 5.8903
+Epoch [1/1], Step [91/113], Loss: 5.5437
+Epoch [1/1], Step [101/113], Loss: 5.8955
+Epoch [1/1], Step [111/113], Loss: 5.4282
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6981
+Epoch [1/1], Step [11/113], Loss: 7.2558
+Epoch [1/1], Step [21/113], Loss: 7.0277
+Epoch [1/1], Step [31/113], Loss: 6.8091
+Epoch [1/1], Step [41/113], Loss: 6.6159
+Epoch [1/1], Step [51/113], Loss: 6.5308
+Epoch [1/1], Step [61/113], Loss: 6.3279
+Epoch [1/1], Step [71/113], Loss: 6.3944
+Epoch [1/1], Step [81/113], Loss: 6.1025
+Epoch [1/1], Step [91/113], Loss: 5.8153
+Epoch [1/1], Step [101/113], Loss: 5.6737
+Epoch [1/1], Step [111/113], Loss: 5.2075
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7035
+Epoch [1/1], Step [11/113], Loss: 7.1411
+Epoch [1/1], Step [21/113], Loss: 6.8408
+Epoch [1/1], Step [31/113], Loss: 6.5411
+Epoch [1/1], Step [41/113], Loss: 6.5886
+Epoch [1/1], Step [51/113], Loss: 6.5219
+Epoch [1/1], Step [61/113], Loss: 6.1224
+Epoch [1/1], Step [71/113], Loss: 6.0903
+Epoch [1/1], Step [81/113], Loss: 5.8123
+Epoch [1/1], Step [91/113], Loss: 5.7034
+Epoch [1/1], Step [101/113], Loss: 5.8391
+Epoch [1/1], Step [111/113], Loss: 5.2826
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7555
+Epoch [1/1], Step [11/113], Loss: 7.2337
+Epoch [1/1], Step [21/113], Loss: 7.2191
+Epoch [1/1], Step [31/113], Loss: 7.0333
+Epoch [1/1], Step [41/113], Loss: 6.6355
+Epoch [1/1], Step [51/113], Loss: 6.4096
+Epoch [1/1], Step [61/113], Loss: 5.9296
+Epoch [1/1], Step [71/113], Loss: 6.2478
+Epoch [1/1], Step [81/113], Loss: 5.5528
+Epoch [1/1], Step [91/113], Loss: 6.3003
+Epoch [1/1], Step [101/113], Loss: 5.4881
+Epoch [1/1], Step [111/113], Loss: 5.1142
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6878
+Epoch [1/1], Step [11/113], Loss: 7.3096
+Epoch [1/1], Step [21/113], Loss: 7.0117
+Epoch [1/1], Step [31/113], Loss: 6.6169
+Epoch [1/1], Step [41/113], Loss: 6.5129
+Epoch [1/1], Step [51/113], Loss: 6.4909
+Epoch [1/1], Step [61/113], Loss: 5.6794
+Epoch [1/1], Step [71/113], Loss: 5.9971
+Epoch [1/1], Step [81/113], Loss: 5.5350
+Epoch [1/1], Step [91/113], Loss: 5.7976
+Epoch [1/1], Step [101/113], Loss: 4.9596
+Epoch [1/1], Step [111/113], Loss: 5.1681
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6158
+Best params for Fold 5: {'kernel_size': 1, 'C': 0.01} with accuracy 0.6208
+Epoch [1/1], Step [1/179], Loss: 7.5772
+Epoch [1/1], Step [11/179], Loss: 7.1878
+Epoch [1/1], Step [21/179], Loss: 7.0816
+Epoch [1/1], Step [31/179], Loss: 6.6983
+Epoch [1/1], Step [41/179], Loss: 6.5488
+Epoch [1/1], Step [51/179], Loss: 6.2747
+Epoch [1/1], Step [61/179], Loss: 6.3547
+Epoch [1/1], Step [71/179], Loss: 6.1470
+Epoch [1/1], Step [81/179], Loss: 6.1902
+Epoch [1/1], Step [91/179], Loss: 5.7253
+Epoch [1/1], Step [101/179], Loss: 4.8587
+Epoch [1/1], Step [111/179], Loss: 5.9490
+Epoch [1/1], Step [121/179], Loss: 4.9530
+Epoch [1/1], Step [131/179], Loss: 4.9351
+Epoch [1/1], Step [141/179], Loss: 4.5742
+Epoch [1/1], Step [151/179], Loss: 4.6257
+Epoch [1/1], Step [161/179], Loss: 3.9031
+Epoch [1/1], Step [171/179], Loss: 3.3109
+Cleared GPU memory.
+Outer Fold 5 Accuracy: 0.6533
+
+Average accuracy over the selected outer folds: 0.6533
+--- Outer Fold 5 ---
+Epoch [1/1], Step [1/113], Loss: 7.6429
+Epoch [1/1], Step [11/113], Loss: 7.3970
+Epoch [1/1], Step [21/113], Loss: 7.0939
+Epoch [1/1], Step [31/113], Loss: 6.9100
+Epoch [1/1], Step [41/113], Loss: 6.8536
+Epoch [1/1], Step [51/113], Loss: 6.7002
+Epoch [1/1], Step [61/113], Loss: 6.6775
+Epoch [1/1], Step [71/113], Loss: 6.2196
+Epoch [1/1], Step [81/113], Loss: 6.2874
+Epoch [1/1], Step [91/113], Loss: 6.1567
+Epoch [1/1], Step [101/113], Loss: 5.9748
+Epoch [1/1], Step [111/113], Loss: 5.7979
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7100
+Epoch [1/1], Step [11/113], Loss: 7.2737
+Epoch [1/1], Step [21/113], Loss: 6.9980
+Epoch [1/1], Step [31/113], Loss: 6.7925
+Epoch [1/1], Step [41/113], Loss: 6.5918
+Epoch [1/1], Step [51/113], Loss: 6.4141
+Epoch [1/1], Step [61/113], Loss: 6.2499
+Epoch [1/1], Step [71/113], Loss: 6.1406
+Epoch [1/1], Step [81/113], Loss: 5.9730
+Epoch [1/1], Step [91/113], Loss: 5.7968
+Epoch [1/1], Step [101/113], Loss: 5.6948
+Epoch [1/1], Step [111/113], Loss: 5.4279
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6927
+Epoch [1/1], Step [11/113], Loss: 7.2903
+Epoch [1/1], Step [21/113], Loss: 6.8235
+Epoch [1/1], Step [31/113], Loss: 6.6503
+Epoch [1/1], Step [41/113], Loss: 6.6104
+Epoch [1/1], Step [51/113], Loss: 6.3972
+Epoch [1/1], Step [61/113], Loss: 6.1233
+Epoch [1/1], Step [71/113], Loss: 6.1059
+Epoch [1/1], Step [81/113], Loss: 6.0560
+Epoch [1/1], Step [91/113], Loss: 5.7860
+Epoch [1/1], Step [101/113], Loss: 5.8785
+Epoch [1/1], Step [111/113], Loss: 5.4927
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6058
+Epoch [1/1], Step [11/113], Loss: 7.2634
+Epoch [1/1], Step [21/113], Loss: 7.0084
+Epoch [1/1], Step [31/113], Loss: 6.8138
+Epoch [1/1], Step [41/113], Loss: 6.7384
+Epoch [1/1], Step [51/113], Loss: 6.3266
+Epoch [1/1], Step [61/113], Loss: 6.5610
+Epoch [1/1], Step [71/113], Loss: 6.2365
+Epoch [1/1], Step [81/113], Loss: 6.1761
+Epoch [1/1], Step [91/113], Loss: 5.6433
+Epoch [1/1], Step [101/113], Loss: 5.7782
+Epoch [1/1], Step [111/113], Loss: 5.6782
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6913
+Epoch [1/1], Step [11/113], Loss: 7.3981
+Epoch [1/1], Step [21/113], Loss: 7.0607
+Epoch [1/1], Step [31/113], Loss: 6.7297
+Epoch [1/1], Step [41/113], Loss: 6.6031
+Epoch [1/1], Step [51/113], Loss: 6.4966
+Epoch [1/1], Step [61/113], Loss: 6.1440
+Epoch [1/1], Step [71/113], Loss: 6.3047
+Epoch [1/1], Step [81/113], Loss: 5.9496
+Epoch [1/1], Step [91/113], Loss: 5.6996
+Epoch [1/1], Step [101/113], Loss: 5.6021
+Epoch [1/1], Step [111/113], Loss: 5.4907
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6016
+Epoch [1/1], Step [1/113], Loss: 7.7201
+Epoch [1/1], Step [11/113], Loss: 7.4654
+Epoch [1/1], Step [21/113], Loss: 6.8611
+Epoch [1/1], Step [31/113], Loss: 6.7511
+Epoch [1/1], Step [41/113], Loss: 6.2999
+Epoch [1/1], Step [51/113], Loss: 6.2125
+Epoch [1/1], Step [61/113], Loss: 6.1046
+Epoch [1/1], Step [71/113], Loss: 5.8305
+Epoch [1/1], Step [81/113], Loss: 5.7165
+Epoch [1/1], Step [91/113], Loss: 5.4527
+Epoch [1/1], Step [101/113], Loss: 5.0441
+Epoch [1/1], Step [111/113], Loss: 5.0936
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6971
+Epoch [1/1], Step [11/113], Loss: 7.3328
+Epoch [1/1], Step [21/113], Loss: 6.9755
+Epoch [1/1], Step [31/113], Loss: 6.6669
+Epoch [1/1], Step [41/113], Loss: 6.5012
+Epoch [1/1], Step [51/113], Loss: 6.3190
+Epoch [1/1], Step [61/113], Loss: 6.2282
+Epoch [1/1], Step [71/113], Loss: 6.1384
+Epoch [1/1], Step [81/113], Loss: 6.1663
+Epoch [1/1], Step [91/113], Loss: 5.7436
+Epoch [1/1], Step [101/113], Loss: 5.4648
+Epoch [1/1], Step [111/113], Loss: 5.4317
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7164
+Epoch [1/1], Step [11/113], Loss: 7.3670
+Epoch [1/1], Step [21/113], Loss: 7.0897
+Epoch [1/1], Step [31/113], Loss: 6.9266
+Epoch [1/1], Step [41/113], Loss: 6.7168
+Epoch [1/1], Step [51/113], Loss: 6.6041
+Epoch [1/1], Step [61/113], Loss: 6.4112
+Epoch [1/1], Step [71/113], Loss: 6.2360
+Epoch [1/1], Step [81/113], Loss: 5.9720
+Epoch [1/1], Step [91/113], Loss: 5.9401
+Epoch [1/1], Step [101/113], Loss: 5.8791
+Epoch [1/1], Step [111/113], Loss: 5.6600
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7216
+Epoch [1/1], Step [11/113], Loss: 7.4312
+Epoch [1/1], Step [21/113], Loss: 7.0543
+Epoch [1/1], Step [31/113], Loss: 7.0906
+Epoch [1/1], Step [41/113], Loss: 6.4558
+Epoch [1/1], Step [51/113], Loss: 6.4549
+Epoch [1/1], Step [61/113], Loss: 6.5917
+Epoch [1/1], Step [71/113], Loss: 5.4808
+Epoch [1/1], Step [81/113], Loss: 5.8343
+Epoch [1/1], Step [91/113], Loss: 5.7108
+Epoch [1/1], Step [101/113], Loss: 5.2364
+Epoch [1/1], Step [111/113], Loss: 4.6320
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6200
+Epoch [1/1], Step [11/113], Loss: 7.5147
+Epoch [1/1], Step [21/113], Loss: 7.1231
+Epoch [1/1], Step [31/113], Loss: 6.8734
+Epoch [1/1], Step [41/113], Loss: 6.7553
+Epoch [1/1], Step [51/113], Loss: 6.5020
+Epoch [1/1], Step [61/113], Loss: 6.5016
+Epoch [1/1], Step [71/113], Loss: 6.1797
+Epoch [1/1], Step [81/113], Loss: 6.0617
+Epoch [1/1], Step [91/113], Loss: 5.8458
+Epoch [1/1], Step [101/113], Loss: 5.7948
+Epoch [1/1], Step [111/113], Loss: 5.4894
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6173
+Epoch [1/1], Step [1/113], Loss: 7.6301
+Epoch [1/1], Step [11/113], Loss: 7.4578
+Epoch [1/1], Step [21/113], Loss: 6.9213
+Epoch [1/1], Step [31/113], Loss: 6.6911
+Epoch [1/1], Step [41/113], Loss: 6.6556
+Epoch [1/1], Step [51/113], Loss: 6.4024
+Epoch [1/1], Step [61/113], Loss: 6.1377
+Epoch [1/1], Step [71/113], Loss: 6.0800
+Epoch [1/1], Step [81/113], Loss: 5.8032
+Epoch [1/1], Step [91/113], Loss: 5.6364
+Epoch [1/1], Step [101/113], Loss: 5.4278
+Epoch [1/1], Step [111/113], Loss: 5.3335
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7630
+Epoch [1/1], Step [11/113], Loss: 7.0801
+Epoch [1/1], Step [21/113], Loss: 6.5591
+Epoch [1/1], Step [31/113], Loss: 6.9468
+Epoch [1/1], Step [41/113], Loss: 6.6782
+Epoch [1/1], Step [51/113], Loss: 6.6160
+Epoch [1/1], Step [61/113], Loss: 6.4649
+Epoch [1/1], Step [71/113], Loss: 5.7966
+Epoch [1/1], Step [81/113], Loss: 6.2071
+Epoch [1/1], Step [91/113], Loss: 5.8466
+Epoch [1/1], Step [101/113], Loss: 6.0064
+Epoch [1/1], Step [111/113], Loss: 5.2917
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6324
+Epoch [1/1], Step [11/113], Loss: 7.3164
+Epoch [1/1], Step [21/113], Loss: 7.3643
+Epoch [1/1], Step [31/113], Loss: 6.8250
+Epoch [1/1], Step [41/113], Loss: 6.6299
+Epoch [1/1], Step [51/113], Loss: 6.0386
+Epoch [1/1], Step [61/113], Loss: 6.7401
+Epoch [1/1], Step [71/113], Loss: 6.4192
+Epoch [1/1], Step [81/113], Loss: 5.7141
+Epoch [1/1], Step [91/113], Loss: 5.3128
+Epoch [1/1], Step [101/113], Loss: 6.0760
+Epoch [1/1], Step [111/113], Loss: 5.4676
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6430
+Epoch [1/1], Step [11/113], Loss: 7.2080
+Epoch [1/1], Step [21/113], Loss: 7.3516
+Epoch [1/1], Step [31/113], Loss: 6.8351
+Epoch [1/1], Step [41/113], Loss: 6.6910
+Epoch [1/1], Step [51/113], Loss: 6.2418
+Epoch [1/1], Step [61/113], Loss: 6.2851
+Epoch [1/1], Step [71/113], Loss: 5.7517
+Epoch [1/1], Step [81/113], Loss: 6.1778
+Epoch [1/1], Step [91/113], Loss: 5.7380
+Epoch [1/1], Step [101/113], Loss: 4.9650
+Epoch [1/1], Step [111/113], Loss: 5.4509
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6478
+Epoch [1/1], Step [11/113], Loss: 7.7146
+Epoch [1/1], Step [21/113], Loss: 6.9344
+Epoch [1/1], Step [31/113], Loss: 6.6715
+Epoch [1/1], Step [41/113], Loss: 6.2763
+Epoch [1/1], Step [51/113], Loss: 6.1762
+Epoch [1/1], Step [61/113], Loss: 5.8616
+Epoch [1/1], Step [71/113], Loss: 6.3095
+Epoch [1/1], Step [81/113], Loss: 6.5294
+Epoch [1/1], Step [91/113], Loss: 5.8092
+Epoch [1/1], Step [101/113], Loss: 5.3377
+Epoch [1/1], Step [111/113], Loss: 4.9689
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6154
+Best params for Fold 5: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6173
+Epoch [1/1], Step [1/179], Loss: 7.7294
+Epoch [1/1], Step [11/179], Loss: 7.5158
+Epoch [1/1], Step [21/179], Loss: 6.7632
+Epoch [1/1], Step [31/179], Loss: 7.0846
+Epoch [1/1], Step [41/179], Loss: 6.6691
+Epoch [1/1], Step [51/179], Loss: 6.5149
+Epoch [1/1], Step [61/179], Loss: 6.0550
+Epoch [1/1], Step [71/179], Loss: 5.9074
+Epoch [1/1], Step [81/179], Loss: 6.3329
+Epoch [1/1], Step [91/179], Loss: 5.4547
+Epoch [1/1], Step [101/179], Loss: 4.8536
+Epoch [1/1], Step [111/179], Loss: 4.6089
+Epoch [1/1], Step [121/179], Loss: 4.9268
+Epoch [1/1], Step [131/179], Loss: 5.1319
+Epoch [1/1], Step [141/179], Loss: 4.8000
+Epoch [1/1], Step [151/179], Loss: 4.0010
+Epoch [1/1], Step [161/179], Loss: 4.3298
+Epoch [1/1], Step [171/179], Loss: 4.5968
+Cleared GPU memory.
+Outer Fold 5 Accuracy: 0.6267
+
+--- Outer Fold 6 ---
+Epoch [1/1], Step [1/113], Loss: 7.6708
+Epoch [1/1], Step [11/113], Loss: 7.3656
+Epoch [1/1], Step [21/113], Loss: 6.8575
+Epoch [1/1], Step [31/113], Loss: 7.0064
+Epoch [1/1], Step [41/113], Loss: 6.7706
+Epoch [1/1], Step [51/113], Loss: 6.1753
+Epoch [1/1], Step [61/113], Loss: 6.0278
+Epoch [1/1], Step [71/113], Loss: 6.2520
+Epoch [1/1], Step [81/113], Loss: 5.6170
+Epoch [1/1], Step [91/113], Loss: 6.2597
+Epoch [1/1], Step [101/113], Loss: 5.5876
+Epoch [1/1], Step [111/113], Loss: 5.1890
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7535
+Epoch [1/1], Step [11/113], Loss: 7.8840
+Epoch [1/1], Step [21/113], Loss: 6.9910
+Epoch [1/1], Step [31/113], Loss: 7.0825
+Epoch [1/1], Step [41/113], Loss: 6.1751
+Epoch [1/1], Step [51/113], Loss: 6.4810
+Epoch [1/1], Step [61/113], Loss: 6.4136
+Epoch [1/1], Step [71/113], Loss: 6.5436
+Epoch [1/1], Step [81/113], Loss: 5.4632
+Epoch [1/1], Step [91/113], Loss: 5.6447
+Epoch [1/1], Step [101/113], Loss: 5.3731
+Epoch [1/1], Step [111/113], Loss: 5.1002
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7074
+Epoch [1/1], Step [11/113], Loss: 7.4153
+Epoch [1/1], Step [21/113], Loss: 6.8658
+Epoch [1/1], Step [31/113], Loss: 6.7024
+Epoch [1/1], Step [41/113], Loss: 6.4357
+Epoch [1/1], Step [51/113], Loss: 6.2808
+Epoch [1/1], Step [61/113], Loss: 6.1336
+Epoch [1/1], Step [71/113], Loss: 5.9603
+Epoch [1/1], Step [81/113], Loss: 5.7497
+Epoch [1/1], Step [91/113], Loss: 5.5009
+Epoch [1/1], Step [101/113], Loss: 5.5301
+Epoch [1/1], Step [111/113], Loss: 5.4702
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7335
+Epoch [1/1], Step [11/113], Loss: 7.4347
+Epoch [1/1], Step [21/113], Loss: 6.9671
+Epoch [1/1], Step [31/113], Loss: 6.8728
+Epoch [1/1], Step [41/113], Loss: 6.7437
+Epoch [1/1], Step [51/113], Loss: 6.6210
+Epoch [1/1], Step [61/113], Loss: 6.4837
+Epoch [1/1], Step [71/113], Loss: 6.4530
+Epoch [1/1], Step [81/113], Loss: 6.0109
+Epoch [1/1], Step [91/113], Loss: 6.0575
+Epoch [1/1], Step [101/113], Loss: 5.7317
+Epoch [1/1], Step [111/113], Loss: 5.6956
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7512
+Epoch [1/1], Step [11/113], Loss: 7.3675
+Epoch [1/1], Step [21/113], Loss: 7.1186
+Epoch [1/1], Step [31/113], Loss: 6.9167
+Epoch [1/1], Step [41/113], Loss: 6.6690
+Epoch [1/1], Step [51/113], Loss: 6.5610
+Epoch [1/1], Step [61/113], Loss: 6.4512
+Epoch [1/1], Step [71/113], Loss: 6.1616
+Epoch [1/1], Step [81/113], Loss: 6.0243
+Epoch [1/1], Step [91/113], Loss: 6.0013
+Epoch [1/1], Step [101/113], Loss: 5.6971
+Epoch [1/1], Step [111/113], Loss: 5.5262
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6127
+Epoch [1/1], Step [1/113], Loss: 7.7353
+Epoch [1/1], Step [11/113], Loss: 7.2734
+Epoch [1/1], Step [21/113], Loss: 6.9848
+Epoch [1/1], Step [31/113], Loss: 6.7549
+Epoch [1/1], Step [41/113], Loss: 6.7317
+Epoch [1/1], Step [51/113], Loss: 6.3372
+Epoch [1/1], Step [61/113], Loss: 6.8788
+Epoch [1/1], Step [71/113], Loss: 5.5331
+Epoch [1/1], Step [81/113], Loss: 6.0192
+Epoch [1/1], Step [91/113], Loss: 5.2593
+Epoch [1/1], Step [101/113], Loss: 5.5069
+Epoch [1/1], Step [111/113], Loss: 5.6004
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7551
+Epoch [1/1], Step [11/113], Loss: 7.3640
+Epoch [1/1], Step [21/113], Loss: 7.1200
+Epoch [1/1], Step [31/113], Loss: 6.8082
+Epoch [1/1], Step [41/113], Loss: 6.8008
+Epoch [1/1], Step [51/113], Loss: 6.4338
+Epoch [1/1], Step [61/113], Loss: 6.2030
+Epoch [1/1], Step [71/113], Loss: 6.1538
+Epoch [1/1], Step [81/113], Loss: 6.2532
+Epoch [1/1], Step [91/113], Loss: 6.1150
+Epoch [1/1], Step [101/113], Loss: 5.6943
+Epoch [1/1], Step [111/113], Loss: 6.0738
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7309
+Epoch [1/1], Step [11/113], Loss: 7.3559
+Epoch [1/1], Step [21/113], Loss: 7.0481
+Epoch [1/1], Step [31/113], Loss: 6.8458
+Epoch [1/1], Step [41/113], Loss: 6.6437
+Epoch [1/1], Step [51/113], Loss: 6.6199
+Epoch [1/1], Step [61/113], Loss: 6.4473
+Epoch [1/1], Step [71/113], Loss: 6.1377
+Epoch [1/1], Step [81/113], Loss: 6.1887
+Epoch [1/1], Step [91/113], Loss: 5.9055
+Epoch [1/1], Step [101/113], Loss: 5.8260
+Epoch [1/1], Step [111/113], Loss: 5.6752
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6689
+Epoch [1/1], Step [11/113], Loss: 7.0558
+Epoch [1/1], Step [21/113], Loss: 7.3952
+Epoch [1/1], Step [31/113], Loss: 7.0596
+Epoch [1/1], Step [41/113], Loss: 6.9074
+Epoch [1/1], Step [51/113], Loss: 5.8790
+Epoch [1/1], Step [61/113], Loss: 5.8015
+Epoch [1/1], Step [71/113], Loss: 6.4302
+Epoch [1/1], Step [81/113], Loss: 6.0137
+Epoch [1/1], Step [91/113], Loss: 5.2497
+Epoch [1/1], Step [101/113], Loss: 5.2887
+Epoch [1/1], Step [111/113], Loss: 5.6450
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6658
+Epoch [1/1], Step [11/113], Loss: 7.3284
+Epoch [1/1], Step [21/113], Loss: 7.0184
+Epoch [1/1], Step [31/113], Loss: 6.7530
+Epoch [1/1], Step [41/113], Loss: 6.5486
+Epoch [1/1], Step [51/113], Loss: 6.5131
+Epoch [1/1], Step [61/113], Loss: 6.2309
+Epoch [1/1], Step [71/113], Loss: 6.2343
+Epoch [1/1], Step [81/113], Loss: 5.9182
+Epoch [1/1], Step [91/113], Loss: 5.9273
+Epoch [1/1], Step [101/113], Loss: 5.7026
+Epoch [1/1], Step [111/113], Loss: 5.2155
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6055
+Epoch [1/1], Step [1/113], Loss: 7.7549
+Epoch [1/1], Step [11/113], Loss: 7.1883
+Epoch [1/1], Step [21/113], Loss: 6.9726
+Epoch [1/1], Step [31/113], Loss: 6.7200
+Epoch [1/1], Step [41/113], Loss: 6.4310
+Epoch [1/1], Step [51/113], Loss: 6.2462
+Epoch [1/1], Step [61/113], Loss: 5.9044
+Epoch [1/1], Step [71/113], Loss: 6.0017
+Epoch [1/1], Step [81/113], Loss: 5.6547
+Epoch [1/1], Step [91/113], Loss: 5.2150
+Epoch [1/1], Step [101/113], Loss: 5.5574
+Epoch [1/1], Step [111/113], Loss: 4.9518
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7134
+Epoch [1/1], Step [11/113], Loss: 7.4436
+Epoch [1/1], Step [21/113], Loss: 7.0738
+Epoch [1/1], Step [31/113], Loss: 6.8176
+Epoch [1/1], Step [41/113], Loss: 6.7838
+Epoch [1/1], Step [51/113], Loss: 6.5022
+Epoch [1/1], Step [61/113], Loss: 6.0187
+Epoch [1/1], Step [71/113], Loss: 6.0784
+Epoch [1/1], Step [81/113], Loss: 5.1655
+Epoch [1/1], Step [91/113], Loss: 6.1057
+Epoch [1/1], Step [101/113], Loss: 5.3303
+Epoch [1/1], Step [111/113], Loss: 4.2641
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7568
+Epoch [1/1], Step [11/113], Loss: 7.2729
+Epoch [1/1], Step [21/113], Loss: 6.9707
+Epoch [1/1], Step [31/113], Loss: 6.7368
+Epoch [1/1], Step [41/113], Loss: 6.8819
+Epoch [1/1], Step [51/113], Loss: 6.1511
+Epoch [1/1], Step [61/113], Loss: 5.8359
+Epoch [1/1], Step [71/113], Loss: 6.0228
+Epoch [1/1], Step [81/113], Loss: 5.6600
+Epoch [1/1], Step [91/113], Loss: 5.7792
+Epoch [1/1], Step [101/113], Loss: 5.0530
+Epoch [1/1], Step [111/113], Loss: 5.4485
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6086
+Epoch [1/1], Step [11/113], Loss: 7.3820
+Epoch [1/1], Step [21/113], Loss: 7.0767
+Epoch [1/1], Step [31/113], Loss: 6.6994
+Epoch [1/1], Step [41/113], Loss: 6.5400
+Epoch [1/1], Step [51/113], Loss: 6.6134
+Epoch [1/1], Step [61/113], Loss: 6.4942
+Epoch [1/1], Step [71/113], Loss: 6.1150
+Epoch [1/1], Step [81/113], Loss: 6.1427
+Epoch [1/1], Step [91/113], Loss: 6.0738
+Epoch [1/1], Step [101/113], Loss: 5.9576
+Epoch [1/1], Step [111/113], Loss: 5.8141
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6471
+Epoch [1/1], Step [11/113], Loss: 7.3006
+Epoch [1/1], Step [21/113], Loss: 6.9702
+Epoch [1/1], Step [31/113], Loss: 6.6662
+Epoch [1/1], Step [41/113], Loss: 6.6378
+Epoch [1/1], Step [51/113], Loss: 6.4329
+Epoch [1/1], Step [61/113], Loss: 6.1689
+Epoch [1/1], Step [71/113], Loss: 5.8736
+Epoch [1/1], Step [81/113], Loss: 5.9517
+Epoch [1/1], Step [91/113], Loss: 5.7122
+Epoch [1/1], Step [101/113], Loss: 5.6261
+Epoch [1/1], Step [111/113], Loss: 5.5022
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6175
+Best params for Fold 6: {'kernel_size': 5, 'C': 0.01} with accuracy 0.6175
+Epoch [1/1], Step [1/179], Loss: 7.7866
+Epoch [1/1], Step [11/179], Loss: 7.4599
+Epoch [1/1], Step [21/179], Loss: 6.9621
+Epoch [1/1], Step [31/179], Loss: 7.0120
+Epoch [1/1], Step [41/179], Loss: 6.6676
+Epoch [1/1], Step [51/179], Loss: 6.3059
+Epoch [1/1], Step [61/179], Loss: 5.8127
+Epoch [1/1], Step [71/179], Loss: 5.9588
+Epoch [1/1], Step [81/179], Loss: 5.3689
+Epoch [1/1], Step [91/179], Loss: 5.8455
+Epoch [1/1], Step [101/179], Loss: 5.2133
+Epoch [1/1], Step [111/179], Loss: 4.6518
+Epoch [1/1], Step [121/179], Loss: 4.7785
+Epoch [1/1], Step [131/179], Loss: 4.8533
+Epoch [1/1], Step [141/179], Loss: 4.6932
+Epoch [1/1], Step [151/179], Loss: 4.1950
+Epoch [1/1], Step [161/179], Loss: 4.7243
+Epoch [1/1], Step [171/179], Loss: 5.1295
+Cleared GPU memory.
+Outer Fold 6 Accuracy: 0.7100
+
+--- Outer Fold 7 ---
+Epoch [1/1], Step [1/113], Loss: 7.6653
+Epoch [1/1], Step [11/113], Loss: 7.1679
+Epoch [1/1], Step [21/113], Loss: 6.9259
+Epoch [1/1], Step [31/113], Loss: 6.6125
+Epoch [1/1], Step [41/113], Loss: 6.7273
+Epoch [1/1], Step [51/113], Loss: 6.2339
+Epoch [1/1], Step [61/113], Loss: 6.5818
+Epoch [1/1], Step [71/113], Loss: 6.3309
+Epoch [1/1], Step [81/113], Loss: 5.9301
+Epoch [1/1], Step [91/113], Loss: 5.4615
+Epoch [1/1], Step [101/113], Loss: 5.4499
+Epoch [1/1], Step [111/113], Loss: 5.2389
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7072
+Epoch [1/1], Step [11/113], Loss: 7.4357
+Epoch [1/1], Step [21/113], Loss: 6.9768
+Epoch [1/1], Step [31/113], Loss: 6.7248
+Epoch [1/1], Step [41/113], Loss: 6.5646
+Epoch [1/1], Step [51/113], Loss: 6.5433
+Epoch [1/1], Step [61/113], Loss: 6.3114
+Epoch [1/1], Step [71/113], Loss: 6.2483
+Epoch [1/1], Step [81/113], Loss: 5.8948
+Epoch [1/1], Step [91/113], Loss: 5.9130
+Epoch [1/1], Step [101/113], Loss: 5.5132
+Epoch [1/1], Step [111/113], Loss: 5.5664
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5989
+Epoch [1/1], Step [11/113], Loss: 7.5252
+Epoch [1/1], Step [21/113], Loss: 6.8253
+Epoch [1/1], Step [31/113], Loss: 6.6479
+Epoch [1/1], Step [41/113], Loss: 6.6126
+Epoch [1/1], Step [51/113], Loss: 6.4325
+Epoch [1/1], Step [61/113], Loss: 6.1082
+Epoch [1/1], Step [71/113], Loss: 6.0289
+Epoch [1/1], Step [81/113], Loss: 6.2456
+Epoch [1/1], Step [91/113], Loss: 5.7985
+Epoch [1/1], Step [101/113], Loss: 5.3786
+Epoch [1/1], Step [111/113], Loss: 5.4911
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7561
+Epoch [1/1], Step [11/113], Loss: 7.3006
+Epoch [1/1], Step [21/113], Loss: 7.0452
+Epoch [1/1], Step [31/113], Loss: 6.7989
+Epoch [1/1], Step [41/113], Loss: 6.6761
+Epoch [1/1], Step [51/113], Loss: 6.1584
+Epoch [1/1], Step [61/113], Loss: 6.1823
+Epoch [1/1], Step [71/113], Loss: 5.7199
+Epoch [1/1], Step [81/113], Loss: 6.1730
+Epoch [1/1], Step [91/113], Loss: 5.7532
+Epoch [1/1], Step [101/113], Loss: 5.2652
+Epoch [1/1], Step [111/113], Loss: 5.4005
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6687
+Epoch [1/1], Step [11/113], Loss: 7.5121
+Epoch [1/1], Step [21/113], Loss: 7.0560
+Epoch [1/1], Step [31/113], Loss: 6.6916
+Epoch [1/1], Step [41/113], Loss: 6.6691
+Epoch [1/1], Step [51/113], Loss: 6.4846
+Epoch [1/1], Step [61/113], Loss: 6.3314
+Epoch [1/1], Step [71/113], Loss: 6.1327
+Epoch [1/1], Step [81/113], Loss: 6.0420
+Epoch [1/1], Step [91/113], Loss: 5.9469
+Epoch [1/1], Step [101/113], Loss: 5.7360
+Epoch [1/1], Step [111/113], Loss: 5.5782
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6254
+Epoch [1/1], Step [1/113], Loss: 7.7087
+Epoch [1/1], Step [11/113], Loss: 7.2391
+Epoch [1/1], Step [21/113], Loss: 6.8735
+Epoch [1/1], Step [31/113], Loss: 6.7353
+Epoch [1/1], Step [41/113], Loss: 6.6154
+Epoch [1/1], Step [51/113], Loss: 6.4981
+Epoch [1/1], Step [61/113], Loss: 6.3574
+Epoch [1/1], Step [71/113], Loss: 6.1405
+Epoch [1/1], Step [81/113], Loss: 5.8231
+Epoch [1/1], Step [91/113], Loss: 5.7309
+Epoch [1/1], Step [101/113], Loss: 5.5119
+Epoch [1/1], Step [111/113], Loss: 5.5706
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6883
+Epoch [1/1], Step [11/113], Loss: 7.3921
+Epoch [1/1], Step [21/113], Loss: 7.2157
+Epoch [1/1], Step [31/113], Loss: 7.0615
+Epoch [1/1], Step [41/113], Loss: 6.5657
+Epoch [1/1], Step [51/113], Loss: 6.4811
+Epoch [1/1], Step [61/113], Loss: 5.9518
+Epoch [1/1], Step [71/113], Loss: 6.1301
+Epoch [1/1], Step [81/113], Loss: 5.8089
+Epoch [1/1], Step [91/113], Loss: 5.2832
+Epoch [1/1], Step [101/113], Loss: 5.2936
+Epoch [1/1], Step [111/113], Loss: 4.8195
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7175
+Epoch [1/1], Step [11/113], Loss: 7.3177
+Epoch [1/1], Step [21/113], Loss: 6.9138
+Epoch [1/1], Step [31/113], Loss: 6.6159
+Epoch [1/1], Step [41/113], Loss: 6.5054
+Epoch [1/1], Step [51/113], Loss: 6.3688
+Epoch [1/1], Step [61/113], Loss: 6.1139
+Epoch [1/1], Step [71/113], Loss: 6.0684
+Epoch [1/1], Step [81/113], Loss: 5.9222
+Epoch [1/1], Step [91/113], Loss: 5.8575
+Epoch [1/1], Step [101/113], Loss: 5.4261
+Epoch [1/1], Step [111/113], Loss: 5.5821
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6440
+Epoch [1/1], Step [11/113], Loss: 7.2379
+Epoch [1/1], Step [21/113], Loss: 7.0673
+Epoch [1/1], Step [31/113], Loss: 6.8926
+Epoch [1/1], Step [41/113], Loss: 6.7370
+Epoch [1/1], Step [51/113], Loss: 6.5926
+Epoch [1/1], Step [61/113], Loss: 6.5907
+Epoch [1/1], Step [71/113], Loss: 6.4020
+Epoch [1/1], Step [81/113], Loss: 6.3052
+Epoch [1/1], Step [91/113], Loss: 6.2081
+Epoch [1/1], Step [101/113], Loss: 6.1057
+Epoch [1/1], Step [111/113], Loss: 5.9575
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7399
+Epoch [1/1], Step [11/113], Loss: 7.1852
+Epoch [1/1], Step [21/113], Loss: 7.2309
+Epoch [1/1], Step [31/113], Loss: 7.0163
+Epoch [1/1], Step [41/113], Loss: 6.5741
+Epoch [1/1], Step [51/113], Loss: 6.3599
+Epoch [1/1], Step [61/113], Loss: 6.2347
+Epoch [1/1], Step [71/113], Loss: 6.2952
+Epoch [1/1], Step [81/113], Loss: 6.1870
+Epoch [1/1], Step [91/113], Loss: 5.6991
+Epoch [1/1], Step [101/113], Loss: 5.5518
+Epoch [1/1], Step [111/113], Loss: 5.7122
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6189
+Epoch [1/1], Step [1/113], Loss: 7.6206
+Epoch [1/1], Step [11/113], Loss: 7.4859
+Epoch [1/1], Step [21/113], Loss: 6.8989
+Epoch [1/1], Step [31/113], Loss: 6.7352
+Epoch [1/1], Step [41/113], Loss: 6.4901
+Epoch [1/1], Step [51/113], Loss: 6.4428
+Epoch [1/1], Step [61/113], Loss: 6.1874
+Epoch [1/1], Step [71/113], Loss: 5.9632
+Epoch [1/1], Step [81/113], Loss: 5.8598
+Epoch [1/1], Step [91/113], Loss: 5.6189
+Epoch [1/1], Step [101/113], Loss: 5.4875
+Epoch [1/1], Step [111/113], Loss: 5.4430
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6176
+Epoch [1/1], Step [11/113], Loss: 7.5636
+Epoch [1/1], Step [21/113], Loss: 6.8903
+Epoch [1/1], Step [31/113], Loss: 6.5284
+Epoch [1/1], Step [41/113], Loss: 6.4506
+Epoch [1/1], Step [51/113], Loss: 6.3162
+Epoch [1/1], Step [61/113], Loss: 5.5217
+Epoch [1/1], Step [71/113], Loss: 6.0946
+Epoch [1/1], Step [81/113], Loss: 5.0850
+Epoch [1/1], Step [91/113], Loss: 5.3909
+Epoch [1/1], Step [101/113], Loss: 4.8756
+Epoch [1/1], Step [111/113], Loss: 4.8137
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6743
+Epoch [1/1], Step [11/113], Loss: 7.3542
+Epoch [1/1], Step [21/113], Loss: 6.9433
+Epoch [1/1], Step [31/113], Loss: 6.7991
+Epoch [1/1], Step [41/113], Loss: 6.7379
+Epoch [1/1], Step [51/113], Loss: 6.5480
+Epoch [1/1], Step [61/113], Loss: 6.5422
+Epoch [1/1], Step [71/113], Loss: 6.2212
+Epoch [1/1], Step [81/113], Loss: 6.0117
+Epoch [1/1], Step [91/113], Loss: 5.7688
+Epoch [1/1], Step [101/113], Loss: 5.6555
+Epoch [1/1], Step [111/113], Loss: 5.3821
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6470
+Epoch [1/1], Step [11/113], Loss: 7.3188
+Epoch [1/1], Step [21/113], Loss: 6.9910
+Epoch [1/1], Step [31/113], Loss: 6.7681
+Epoch [1/1], Step [41/113], Loss: 6.6264
+Epoch [1/1], Step [51/113], Loss: 6.3476
+Epoch [1/1], Step [61/113], Loss: 6.1988
+Epoch [1/1], Step [71/113], Loss: 6.0684
+Epoch [1/1], Step [81/113], Loss: 5.9422
+Epoch [1/1], Step [91/113], Loss: 5.8524
+Epoch [1/1], Step [101/113], Loss: 5.5526
+Epoch [1/1], Step [111/113], Loss: 5.4094
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6789
+Epoch [1/1], Step [11/113], Loss: 7.2813
+Epoch [1/1], Step [21/113], Loss: 6.9489
+Epoch [1/1], Step [31/113], Loss: 6.8723
+Epoch [1/1], Step [41/113], Loss: 6.6674
+Epoch [1/1], Step [51/113], Loss: 6.3710
+Epoch [1/1], Step [61/113], Loss: 6.0614
+Epoch [1/1], Step [71/113], Loss: 5.9954
+Epoch [1/1], Step [81/113], Loss: 6.4692
+Epoch [1/1], Step [91/113], Loss: 5.5985
+Epoch [1/1], Step [101/113], Loss: 5.2475
+Epoch [1/1], Step [111/113], Loss: 5.2840
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6194
+Best params for Fold 7: {'kernel_size': 1, 'C': 0.01} with accuracy 0.6254
+Epoch [1/1], Step [1/179], Loss: 7.6100
+Epoch [1/1], Step [11/179], Loss: 7.5983
+Epoch [1/1], Step [21/179], Loss: 6.9209
+Epoch [1/1], Step [31/179], Loss: 6.6915
+Epoch [1/1], Step [41/179], Loss: 6.9036
+Epoch [1/1], Step [51/179], Loss: 6.5098
+Epoch [1/1], Step [61/179], Loss: 6.4511
+Epoch [1/1], Step [71/179], Loss: 6.1130
+Epoch [1/1], Step [81/179], Loss: 6.3253
+Epoch [1/1], Step [91/179], Loss: 6.0185
+Epoch [1/1], Step [101/179], Loss: 5.9654
+Epoch [1/1], Step [111/179], Loss: 5.7479
+Epoch [1/1], Step [121/179], Loss: 5.8298
+Epoch [1/1], Step [131/179], Loss: 5.2723
+Epoch [1/1], Step [141/179], Loss: 5.0871
+Epoch [1/1], Step [151/179], Loss: 4.8417
+Epoch [1/1], Step [161/179], Loss: 5.0843
+Epoch [1/1], Step [171/179], Loss: 5.2120
+Cleared GPU memory.
+Outer Fold 7 Accuracy: 0.6367
+
+--- Outer Fold 8 ---
+Epoch [1/1], Step [1/113], Loss: 7.6390
+Epoch [1/1], Step [11/113], Loss: 7.7167
+Epoch [1/1], Step [21/113], Loss: 6.9683
+Epoch [1/1], Step [31/113], Loss: 6.6651
+Epoch [1/1], Step [41/113], Loss: 6.3416
+Epoch [1/1], Step [51/113], Loss: 6.6840
+Epoch [1/1], Step [61/113], Loss: 6.2609
+Epoch [1/1], Step [71/113], Loss: 5.7434
+Epoch [1/1], Step [81/113], Loss: 5.9765
+Epoch [1/1], Step [91/113], Loss: 6.1448
+Epoch [1/1], Step [101/113], Loss: 5.2602
+Epoch [1/1], Step [111/113], Loss: 5.9959
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7160
+Epoch [1/1], Step [11/113], Loss: 7.3202
+Epoch [1/1], Step [21/113], Loss: 7.2718
+Epoch [1/1], Step [31/113], Loss: 6.7697
+Epoch [1/1], Step [41/113], Loss: 6.4918
+Epoch [1/1], Step [51/113], Loss: 6.4896
+Epoch [1/1], Step [61/113], Loss: 6.0927
+Epoch [1/1], Step [71/113], Loss: 6.1953
+Epoch [1/1], Step [81/113], Loss: 5.8832
+Epoch [1/1], Step [91/113], Loss: 5.6016
+Epoch [1/1], Step [101/113], Loss: 5.5279
+Epoch [1/1], Step [111/113], Loss: 5.5304
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6703
+Epoch [1/1], Step [11/113], Loss: 7.3324
+Epoch [1/1], Step [21/113], Loss: 7.0554
+Epoch [1/1], Step [31/113], Loss: 6.9096
+Epoch [1/1], Step [41/113], Loss: 6.7574
+Epoch [1/1], Step [51/113], Loss: 6.6853
+Epoch [1/1], Step [61/113], Loss: 6.6024
+Epoch [1/1], Step [71/113], Loss: 6.3539
+Epoch [1/1], Step [81/113], Loss: 6.0148
+Epoch [1/1], Step [91/113], Loss: 6.2492
+Epoch [1/1], Step [101/113], Loss: 5.8487
+Epoch [1/1], Step [111/113], Loss: 5.7520
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6366
+Epoch [1/1], Step [11/113], Loss: 7.2761
+Epoch [1/1], Step [21/113], Loss: 6.9916
+Epoch [1/1], Step [31/113], Loss: 6.8314
+Epoch [1/1], Step [41/113], Loss: 6.6502
+Epoch [1/1], Step [51/113], Loss: 6.3420
+Epoch [1/1], Step [61/113], Loss: 6.1811
+Epoch [1/1], Step [71/113], Loss: 5.9775
+Epoch [1/1], Step [81/113], Loss: 5.7458
+Epoch [1/1], Step [91/113], Loss: 6.0590
+Epoch [1/1], Step [101/113], Loss: 5.8186
+Epoch [1/1], Step [111/113], Loss: 5.6143
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6544
+Epoch [1/1], Step [11/113], Loss: 7.4002
+Epoch [1/1], Step [21/113], Loss: 6.9287
+Epoch [1/1], Step [31/113], Loss: 6.8677
+Epoch [1/1], Step [41/113], Loss: 6.6517
+Epoch [1/1], Step [51/113], Loss: 6.4576
+Epoch [1/1], Step [61/113], Loss: 6.4066
+Epoch [1/1], Step [71/113], Loss: 6.0184
+Epoch [1/1], Step [81/113], Loss: 6.0451
+Epoch [1/1], Step [91/113], Loss: 5.6794
+Epoch [1/1], Step [101/113], Loss: 5.8715
+Epoch [1/1], Step [111/113], Loss: 4.9371
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6164
+Epoch [1/1], Step [1/113], Loss: 7.7019
+Epoch [1/1], Step [11/113], Loss: 7.3492
+Epoch [1/1], Step [21/113], Loss: 7.2668
+Epoch [1/1], Step [31/113], Loss: 6.8352
+Epoch [1/1], Step [41/113], Loss: 6.4877
+Epoch [1/1], Step [51/113], Loss: 6.2037
+Epoch [1/1], Step [61/113], Loss: 5.8707
+Epoch [1/1], Step [71/113], Loss: 6.0749
+Epoch [1/1], Step [81/113], Loss: 6.0894
+Epoch [1/1], Step [91/113], Loss: 5.8106
+Epoch [1/1], Step [101/113], Loss: 5.4519
+Epoch [1/1], Step [111/113], Loss: 5.1342
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6421
+Epoch [1/1], Step [11/113], Loss: 7.1890
+Epoch [1/1], Step [21/113], Loss: 7.0312
+Epoch [1/1], Step [31/113], Loss: 6.5081
+Epoch [1/1], Step [41/113], Loss: 6.6979
+Epoch [1/1], Step [51/113], Loss: 6.3232
+Epoch [1/1], Step [61/113], Loss: 6.0489
+Epoch [1/1], Step [71/113], Loss: 6.2596
+Epoch [1/1], Step [81/113], Loss: 5.7078
+Epoch [1/1], Step [91/113], Loss: 5.1155
+Epoch [1/1], Step [101/113], Loss: 4.8195
+Epoch [1/1], Step [111/113], Loss: 4.6513
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6866
+Epoch [1/1], Step [11/113], Loss: 6.9664
+Epoch [1/1], Step [21/113], Loss: 7.3345
+Epoch [1/1], Step [31/113], Loss: 6.7897
+Epoch [1/1], Step [41/113], Loss: 6.4705
+Epoch [1/1], Step [51/113], Loss: 6.3951
+Epoch [1/1], Step [61/113], Loss: 5.8045
+Epoch [1/1], Step [71/113], Loss: 6.4092
+Epoch [1/1], Step [81/113], Loss: 5.3780
+Epoch [1/1], Step [91/113], Loss: 5.2964
+Epoch [1/1], Step [101/113], Loss: 5.5261
+Epoch [1/1], Step [111/113], Loss: 5.2626
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6943
+Epoch [1/1], Step [11/113], Loss: 7.2725
+Epoch [1/1], Step [21/113], Loss: 7.1700
+Epoch [1/1], Step [31/113], Loss: 6.9236
+Epoch [1/1], Step [41/113], Loss: 6.6591
+Epoch [1/1], Step [51/113], Loss: 6.5414
+Epoch [1/1], Step [61/113], Loss: 6.3041
+Epoch [1/1], Step [71/113], Loss: 6.0901
+Epoch [1/1], Step [81/113], Loss: 6.1847
+Epoch [1/1], Step [91/113], Loss: 5.9527
+Epoch [1/1], Step [101/113], Loss: 6.0381
+Epoch [1/1], Step [111/113], Loss: 5.6674
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.8713
+Epoch [1/1], Step [11/113], Loss: 7.7140
+Epoch [1/1], Step [21/113], Loss: 7.1404
+Epoch [1/1], Step [31/113], Loss: 6.6899
+Epoch [1/1], Step [41/113], Loss: 6.8793
+Epoch [1/1], Step [51/113], Loss: 6.7975
+Epoch [1/1], Step [61/113], Loss: 6.6941
+Epoch [1/1], Step [71/113], Loss: 6.0124
+Epoch [1/1], Step [81/113], Loss: 6.1156
+Epoch [1/1], Step [91/113], Loss: 5.9514
+Epoch [1/1], Step [101/113], Loss: 5.1579
+Epoch [1/1], Step [111/113], Loss: 5.6874
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6163
+Epoch [1/1], Step [1/113], Loss: 7.7313
+Epoch [1/1], Step [11/113], Loss: 7.6817
+Epoch [1/1], Step [21/113], Loss: 7.1003
+Epoch [1/1], Step [31/113], Loss: 7.0245
+Epoch [1/1], Step [41/113], Loss: 6.2803
+Epoch [1/1], Step [51/113], Loss: 6.3860
+Epoch [1/1], Step [61/113], Loss: 5.8842
+Epoch [1/1], Step [71/113], Loss: 5.7289
+Epoch [1/1], Step [81/113], Loss: 6.2337
+Epoch [1/1], Step [91/113], Loss: 5.3521
+Epoch [1/1], Step [101/113], Loss: 5.8079
+Epoch [1/1], Step [111/113], Loss: 5.6816
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6508
+Epoch [1/1], Step [11/113], Loss: 7.2707
+Epoch [1/1], Step [21/113], Loss: 6.8621
+Epoch [1/1], Step [31/113], Loss: 6.4381
+Epoch [1/1], Step [41/113], Loss: 6.3280
+Epoch [1/1], Step [51/113], Loss: 6.3555
+Epoch [1/1], Step [61/113], Loss: 6.0309
+Epoch [1/1], Step [71/113], Loss: 6.0444
+Epoch [1/1], Step [81/113], Loss: 5.4842
+Epoch [1/1], Step [91/113], Loss: 4.8862
+Epoch [1/1], Step [101/113], Loss: 5.7354
+Epoch [1/1], Step [111/113], Loss: 5.4842
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5866
+Epoch [1/1], Step [11/113], Loss: 7.1308
+Epoch [1/1], Step [21/113], Loss: 7.2179
+Epoch [1/1], Step [31/113], Loss: 6.5690
+Epoch [1/1], Step [41/113], Loss: 6.7789
+Epoch [1/1], Step [51/113], Loss: 6.2648
+Epoch [1/1], Step [61/113], Loss: 6.1799
+Epoch [1/1], Step [71/113], Loss: 6.1328
+Epoch [1/1], Step [81/113], Loss: 6.1802
+Epoch [1/1], Step [91/113], Loss: 6.1793
+Epoch [1/1], Step [101/113], Loss: 5.4653
+Epoch [1/1], Step [111/113], Loss: 5.2198
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6954
+Epoch [1/1], Step [11/113], Loss: 7.4533
+Epoch [1/1], Step [21/113], Loss: 7.0771
+Epoch [1/1], Step [31/113], Loss: 6.6628
+Epoch [1/1], Step [41/113], Loss: 6.5014
+Epoch [1/1], Step [51/113], Loss: 6.2369
+Epoch [1/1], Step [61/113], Loss: 6.1212
+Epoch [1/1], Step [71/113], Loss: 5.9556
+Epoch [1/1], Step [81/113], Loss: 5.8482
+Epoch [1/1], Step [91/113], Loss: 5.6998
+Epoch [1/1], Step [101/113], Loss: 5.6231
+Epoch [1/1], Step [111/113], Loss: 5.4168
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7693
+Epoch [1/1], Step [11/113], Loss: 7.4478
+Epoch [1/1], Step [21/113], Loss: 6.7910
+Epoch [1/1], Step [31/113], Loss: 7.1723
+Epoch [1/1], Step [41/113], Loss: 6.7036
+Epoch [1/1], Step [51/113], Loss: 6.5731
+Epoch [1/1], Step [61/113], Loss: 6.3832
+Epoch [1/1], Step [71/113], Loss: 6.0751
+Epoch [1/1], Step [81/113], Loss: 5.8122
+Epoch [1/1], Step [91/113], Loss: 5.7980
+Epoch [1/1], Step [101/113], Loss: 5.3980
+Epoch [1/1], Step [111/113], Loss: 5.4415
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6150
+Best params for Fold 8: {'kernel_size': 1, 'C': 0.01} with accuracy 0.6164
+Epoch [1/1], Step [1/179], Loss: 7.6789
+Epoch [1/1], Step [11/179], Loss: 7.1653
+Epoch [1/1], Step [21/179], Loss: 7.2439
+Epoch [1/1], Step [31/179], Loss: 6.9810
+Epoch [1/1], Step [41/179], Loss: 6.1571
+Epoch [1/1], Step [51/179], Loss: 6.7650
+Epoch [1/1], Step [61/179], Loss: 5.9414
+Epoch [1/1], Step [71/179], Loss: 5.8770
+Epoch [1/1], Step [81/179], Loss: 5.5679
+Epoch [1/1], Step [91/179], Loss: 5.8835
+Epoch [1/1], Step [101/179], Loss: 5.4619
+Epoch [1/1], Step [111/179], Loss: 5.7982
+Epoch [1/1], Step [121/179], Loss: 5.1271
+Epoch [1/1], Step [131/179], Loss: 4.5945
+Epoch [1/1], Step [141/179], Loss: 5.2675
+Epoch [1/1], Step [151/179], Loss: 5.0477
+Epoch [1/1], Step [161/179], Loss: 4.2734
+Epoch [1/1], Step [171/179], Loss: 4.9456
+Cleared GPU memory.
+Outer Fold 8 Accuracy: 0.6833
+
+--- Outer Fold 9 ---
+Epoch [1/1], Step [1/113], Loss: 7.7142
+Epoch [1/1], Step [11/113], Loss: 7.2987
+Epoch [1/1], Step [21/113], Loss: 7.1126
+Epoch [1/1], Step [31/113], Loss: 6.9640
+Epoch [1/1], Step [41/113], Loss: 6.5859
+Epoch [1/1], Step [51/113], Loss: 6.1888
+Epoch [1/1], Step [61/113], Loss: 5.9605
+Epoch [1/1], Step [71/113], Loss: 6.4948
+Epoch [1/1], Step [81/113], Loss: 6.1857
+Epoch [1/1], Step [91/113], Loss: 5.6538
+Epoch [1/1], Step [101/113], Loss: 5.3529
+Epoch [1/1], Step [111/113], Loss: 5.6444
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6387
+Epoch [1/1], Step [11/113], Loss: 7.3961
+Epoch [1/1], Step [21/113], Loss: 6.9596
+Epoch [1/1], Step [31/113], Loss: 6.7711
+Epoch [1/1], Step [41/113], Loss: 6.5745
+Epoch [1/1], Step [51/113], Loss: 6.4085
+Epoch [1/1], Step [61/113], Loss: 6.1099
+Epoch [1/1], Step [71/113], Loss: 6.1009
+Epoch [1/1], Step [81/113], Loss: 6.0555
+Epoch [1/1], Step [91/113], Loss: 5.6327
+Epoch [1/1], Step [101/113], Loss: 5.4070
+Epoch [1/1], Step [111/113], Loss: 5.8487
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6928
+Epoch [1/1], Step [11/113], Loss: 7.4126
+Epoch [1/1], Step [21/113], Loss: 6.9309
+Epoch [1/1], Step [31/113], Loss: 6.7004
+Epoch [1/1], Step [41/113], Loss: 6.5251
+Epoch [1/1], Step [51/113], Loss: 6.2003
+Epoch [1/1], Step [61/113], Loss: 5.8797
+Epoch [1/1], Step [71/113], Loss: 6.2610
+Epoch [1/1], Step [81/113], Loss: 5.7113
+Epoch [1/1], Step [91/113], Loss: 5.2580
+Epoch [1/1], Step [101/113], Loss: 4.7725
+Epoch [1/1], Step [111/113], Loss: 4.6882
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6577
+Epoch [1/1], Step [11/113], Loss: 7.4463
+Epoch [1/1], Step [21/113], Loss: 7.1444
+Epoch [1/1], Step [31/113], Loss: 6.8779
+Epoch [1/1], Step [41/113], Loss: 6.6388
+Epoch [1/1], Step [51/113], Loss: 6.5668
+Epoch [1/1], Step [61/113], Loss: 6.4183
+Epoch [1/1], Step [71/113], Loss: 6.2720
+Epoch [1/1], Step [81/113], Loss: 6.1449
+Epoch [1/1], Step [91/113], Loss: 6.0172
+Epoch [1/1], Step [101/113], Loss: 6.0295
+Epoch [1/1], Step [111/113], Loss: 5.7909
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6531
+Epoch [1/1], Step [11/113], Loss: 7.1783
+Epoch [1/1], Step [21/113], Loss: 7.0176
+Epoch [1/1], Step [31/113], Loss: 6.6897
+Epoch [1/1], Step [41/113], Loss: 6.5236
+Epoch [1/1], Step [51/113], Loss: 6.2424
+Epoch [1/1], Step [61/113], Loss: 5.6835
+Epoch [1/1], Step [71/113], Loss: 5.7200
+Epoch [1/1], Step [81/113], Loss: 5.4948
+Epoch [1/1], Step [91/113], Loss: 5.8753
+Epoch [1/1], Step [101/113], Loss: 5.5191
+Epoch [1/1], Step [111/113], Loss: 5.1809
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6075
+Epoch [1/1], Step [1/113], Loss: 7.7348
+Epoch [1/1], Step [11/113], Loss: 7.3104
+Epoch [1/1], Step [21/113], Loss: 7.0925
+Epoch [1/1], Step [31/113], Loss: 6.8488
+Epoch [1/1], Step [41/113], Loss: 6.6596
+Epoch [1/1], Step [51/113], Loss: 6.5514
+Epoch [1/1], Step [61/113], Loss: 6.3185
+Epoch [1/1], Step [71/113], Loss: 6.2579
+Epoch [1/1], Step [81/113], Loss: 6.0596
+Epoch [1/1], Step [91/113], Loss: 5.8806
+Epoch [1/1], Step [101/113], Loss: 5.7440
+Epoch [1/1], Step [111/113], Loss: 5.5743
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7267
+Epoch [1/1], Step [11/113], Loss: 7.2964
+Epoch [1/1], Step [21/113], Loss: 7.0892
+Epoch [1/1], Step [31/113], Loss: 6.9431
+Epoch [1/1], Step [41/113], Loss: 6.7989
+Epoch [1/1], Step [51/113], Loss: 6.2667
+Epoch [1/1], Step [61/113], Loss: 5.8665
+Epoch [1/1], Step [71/113], Loss: 6.1189
+Epoch [1/1], Step [81/113], Loss: 5.9197
+Epoch [1/1], Step [91/113], Loss: 5.3644
+Epoch [1/1], Step [101/113], Loss: 5.1686
+Epoch [1/1], Step [111/113], Loss: 5.4953
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6167
+Epoch [1/1], Step [11/113], Loss: 7.3506
+Epoch [1/1], Step [21/113], Loss: 7.1413
+Epoch [1/1], Step [31/113], Loss: 6.7706
+Epoch [1/1], Step [41/113], Loss: 6.4946
+Epoch [1/1], Step [51/113], Loss: 6.3745
+Epoch [1/1], Step [61/113], Loss: 6.1618
+Epoch [1/1], Step [71/113], Loss: 6.0177
+Epoch [1/1], Step [81/113], Loss: 5.8408
+Epoch [1/1], Step [91/113], Loss: 5.7411
+Epoch [1/1], Step [101/113], Loss: 5.4079
+Epoch [1/1], Step [111/113], Loss: 5.2359
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6793
+Epoch [1/1], Step [11/113], Loss: 7.6897
+Epoch [1/1], Step [21/113], Loss: 6.7898
+Epoch [1/1], Step [31/113], Loss: 6.6483
+Epoch [1/1], Step [41/113], Loss: 6.5850
+Epoch [1/1], Step [51/113], Loss: 6.1034
+Epoch [1/1], Step [61/113], Loss: 5.8086
+Epoch [1/1], Step [71/113], Loss: 5.8745
+Epoch [1/1], Step [81/113], Loss: 5.8126
+Epoch [1/1], Step [91/113], Loss: 5.2070
+Epoch [1/1], Step [101/113], Loss: 5.5881
+Epoch [1/1], Step [111/113], Loss: 5.5718
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6924
+Epoch [1/1], Step [11/113], Loss: 7.3026
+Epoch [1/1], Step [21/113], Loss: 6.9560
+Epoch [1/1], Step [31/113], Loss: 6.7124
+Epoch [1/1], Step [41/113], Loss: 6.6995
+Epoch [1/1], Step [51/113], Loss: 6.4970
+Epoch [1/1], Step [61/113], Loss: 6.1063
+Epoch [1/1], Step [71/113], Loss: 6.3259
+Epoch [1/1], Step [81/113], Loss: 6.0825
+Epoch [1/1], Step [91/113], Loss: 5.8077
+Epoch [1/1], Step [101/113], Loss: 5.4600
+Epoch [1/1], Step [111/113], Loss: 5.4368
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6224
+Epoch [1/1], Step [1/113], Loss: 7.7593
+Epoch [1/1], Step [11/113], Loss: 7.2432
+Epoch [1/1], Step [21/113], Loss: 6.8612
+Epoch [1/1], Step [31/113], Loss: 6.7545
+Epoch [1/1], Step [41/113], Loss: 6.2212
+Epoch [1/1], Step [51/113], Loss: 6.4610
+Epoch [1/1], Step [61/113], Loss: 6.1461
+Epoch [1/1], Step [71/113], Loss: 6.6764
+Epoch [1/1], Step [81/113], Loss: 6.2472
+Epoch [1/1], Step [91/113], Loss: 6.3358
+Epoch [1/1], Step [101/113], Loss: 5.9089
+Epoch [1/1], Step [111/113], Loss: 5.5962
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.8534
+Epoch [1/1], Step [11/113], Loss: 7.4172
+Epoch [1/1], Step [21/113], Loss: 7.0407
+Epoch [1/1], Step [31/113], Loss: 6.8490
+Epoch [1/1], Step [41/113], Loss: 6.5769
+Epoch [1/1], Step [51/113], Loss: 6.5684
+Epoch [1/1], Step [61/113], Loss: 6.3747
+Epoch [1/1], Step [71/113], Loss: 6.0261
+Epoch [1/1], Step [81/113], Loss: 5.7162
+Epoch [1/1], Step [91/113], Loss: 5.7810
+Epoch [1/1], Step [101/113], Loss: 6.1199
+Epoch [1/1], Step [111/113], Loss: 5.3139
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6747
+Epoch [1/1], Step [11/113], Loss: 7.7335
+Epoch [1/1], Step [21/113], Loss: 6.9381
+Epoch [1/1], Step [31/113], Loss: 7.1441
+Epoch [1/1], Step [41/113], Loss: 6.8167
+Epoch [1/1], Step [51/113], Loss: 6.4650
+Epoch [1/1], Step [61/113], Loss: 6.1028
+Epoch [1/1], Step [71/113], Loss: 5.8380
+Epoch [1/1], Step [81/113], Loss: 5.3751
+Epoch [1/1], Step [91/113], Loss: 5.8159
+Epoch [1/1], Step [101/113], Loss: 5.1747
+Epoch [1/1], Step [111/113], Loss: 5.6136
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6897
+Epoch [1/1], Step [11/113], Loss: 7.5712
+Epoch [1/1], Step [21/113], Loss: 6.9751
+Epoch [1/1], Step [31/113], Loss: 6.4873
+Epoch [1/1], Step [41/113], Loss: 6.8401
+Epoch [1/1], Step [51/113], Loss: 5.8344
+Epoch [1/1], Step [61/113], Loss: 6.1492
+Epoch [1/1], Step [71/113], Loss: 5.9058
+Epoch [1/1], Step [81/113], Loss: 6.2301
+Epoch [1/1], Step [91/113], Loss: 5.5329
+Epoch [1/1], Step [101/113], Loss: 5.1945
+Epoch [1/1], Step [111/113], Loss: 5.1153
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6993
+Epoch [1/1], Step [11/113], Loss: 7.1470
+Epoch [1/1], Step [21/113], Loss: 6.9183
+Epoch [1/1], Step [31/113], Loss: 6.7188
+Epoch [1/1], Step [41/113], Loss: 6.3905
+Epoch [1/1], Step [51/113], Loss: 6.3091
+Epoch [1/1], Step [61/113], Loss: 6.0819
+Epoch [1/1], Step [71/113], Loss: 5.8201
+Epoch [1/1], Step [81/113], Loss: 5.9889
+Epoch [1/1], Step [91/113], Loss: 5.6634
+Epoch [1/1], Step [101/113], Loss: 5.2487
+Epoch [1/1], Step [111/113], Loss: 5.1824
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6189
+Best params for Fold 9: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6224
+Epoch [1/1], Step [1/179], Loss: 7.6707
+Epoch [1/1], Step [11/179], Loss: 7.4586
+Epoch [1/1], Step [21/179], Loss: 7.3371
+Epoch [1/1], Step [31/179], Loss: 6.5624
+Epoch [1/1], Step [41/179], Loss: 6.0395
+Epoch [1/1], Step [51/179], Loss: 6.0882
+Epoch [1/1], Step [61/179], Loss: 6.3597
+Epoch [1/1], Step [71/179], Loss: 5.9306
+Epoch [1/1], Step [81/179], Loss: 5.9017
+Epoch [1/1], Step [91/179], Loss: 5.7610
+Epoch [1/1], Step [101/179], Loss: 5.5111
+Epoch [1/1], Step [111/179], Loss: 5.4928
+Epoch [1/1], Step [121/179], Loss: 4.9312
+Epoch [1/1], Step [131/179], Loss: 4.7428
+Epoch [1/1], Step [141/179], Loss: 4.6379
+Epoch [1/1], Step [151/179], Loss: 4.6305
+Epoch [1/1], Step [161/179], Loss: 4.0173
+Epoch [1/1], Step [171/179], Loss: 3.8239
+Cleared GPU memory.
+Outer Fold 9 Accuracy: 0.6733
+
+--- Outer Fold 10 ---
+Epoch [1/1], Step [1/113], Loss: 7.7124
+Epoch [1/1], Step [11/113], Loss: 7.3870
+Epoch [1/1], Step [21/113], Loss: 7.0212
+Epoch [1/1], Step [31/113], Loss: 7.0140
+Epoch [1/1], Step [41/113], Loss: 6.8283
+Epoch [1/1], Step [51/113], Loss: 6.4441
+Epoch [1/1], Step [61/113], Loss: 6.5381
+Epoch [1/1], Step [71/113], Loss: 6.1558
+Epoch [1/1], Step [81/113], Loss: 6.1143
+Epoch [1/1], Step [91/113], Loss: 6.0740
+Epoch [1/1], Step [101/113], Loss: 5.5330
+Epoch [1/1], Step [111/113], Loss: 5.0731
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6921
+Epoch [1/1], Step [11/113], Loss: 7.5678
+Epoch [1/1], Step [21/113], Loss: 6.9624
+Epoch [1/1], Step [31/113], Loss: 7.0113
+Epoch [1/1], Step [41/113], Loss: 6.4748
+Epoch [1/1], Step [51/113], Loss: 6.5320
+Epoch [1/1], Step [61/113], Loss: 6.1451
+Epoch [1/1], Step [71/113], Loss: 5.9442
+Epoch [1/1], Step [81/113], Loss: 5.8267
+Epoch [1/1], Step [91/113], Loss: 5.8304
+Epoch [1/1], Step [101/113], Loss: 6.2464
+Epoch [1/1], Step [111/113], Loss: 5.8597
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6762
+Epoch [1/1], Step [11/113], Loss: 7.2772
+Epoch [1/1], Step [21/113], Loss: 7.0919
+Epoch [1/1], Step [31/113], Loss: 6.7733
+Epoch [1/1], Step [41/113], Loss: 6.6146
+Epoch [1/1], Step [51/113], Loss: 5.9336
+Epoch [1/1], Step [61/113], Loss: 5.9489
+Epoch [1/1], Step [71/113], Loss: 5.8814
+Epoch [1/1], Step [81/113], Loss: 5.9019
+Epoch [1/1], Step [91/113], Loss: 5.5154
+Epoch [1/1], Step [101/113], Loss: 5.2676
+Epoch [1/1], Step [111/113], Loss: 5.2239
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6632
+Epoch [1/1], Step [11/113], Loss: 7.3894
+Epoch [1/1], Step [21/113], Loss: 6.9656
+Epoch [1/1], Step [31/113], Loss: 6.6521
+Epoch [1/1], Step [41/113], Loss: 6.5049
+Epoch [1/1], Step [51/113], Loss: 6.2928
+Epoch [1/1], Step [61/113], Loss: 6.2245
+Epoch [1/1], Step [71/113], Loss: 5.9973
+Epoch [1/1], Step [81/113], Loss: 5.6851
+Epoch [1/1], Step [91/113], Loss: 5.4017
+Epoch [1/1], Step [101/113], Loss: 5.3776
+Epoch [1/1], Step [111/113], Loss: 5.1572
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6587
+Epoch [1/1], Step [11/113], Loss: 7.3547
+Epoch [1/1], Step [21/113], Loss: 7.0062
+Epoch [1/1], Step [31/113], Loss: 7.0617
+Epoch [1/1], Step [41/113], Loss: 6.7573
+Epoch [1/1], Step [51/113], Loss: 5.7946
+Epoch [1/1], Step [61/113], Loss: 5.6815
+Epoch [1/1], Step [71/113], Loss: 5.7819
+Epoch [1/1], Step [81/113], Loss: 5.3819
+Epoch [1/1], Step [91/113], Loss: 5.7709
+Epoch [1/1], Step [101/113], Loss: 5.3401
+Epoch [1/1], Step [111/113], Loss: 4.6676
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6187
+Epoch [1/1], Step [1/113], Loss: 7.7506
+Epoch [1/1], Step [11/113], Loss: 7.5387
+Epoch [1/1], Step [21/113], Loss: 6.9770
+Epoch [1/1], Step [31/113], Loss: 6.4580
+Epoch [1/1], Step [41/113], Loss: 6.6260
+Epoch [1/1], Step [51/113], Loss: 6.4195
+Epoch [1/1], Step [61/113], Loss: 5.9618
+Epoch [1/1], Step [71/113], Loss: 6.0573
+Epoch [1/1], Step [81/113], Loss: 5.8022
+Epoch [1/1], Step [91/113], Loss: 5.6384
+Epoch [1/1], Step [101/113], Loss: 5.6847
+Epoch [1/1], Step [111/113], Loss: 5.3024
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7183
+Epoch [1/1], Step [11/113], Loss: 7.3117
+Epoch [1/1], Step [21/113], Loss: 6.8472
+Epoch [1/1], Step [31/113], Loss: 6.7535
+Epoch [1/1], Step [41/113], Loss: 6.5537
+Epoch [1/1], Step [51/113], Loss: 6.2049
+Epoch [1/1], Step [61/113], Loss: 6.1388
+Epoch [1/1], Step [71/113], Loss: 6.0867
+Epoch [1/1], Step [81/113], Loss: 5.7839
+Epoch [1/1], Step [91/113], Loss: 5.7832
+Epoch [1/1], Step [101/113], Loss: 5.5953
+Epoch [1/1], Step [111/113], Loss: 5.3293
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7143
+Epoch [1/1], Step [11/113], Loss: 7.4075
+Epoch [1/1], Step [21/113], Loss: 7.1193
+Epoch [1/1], Step [31/113], Loss: 6.7895
+Epoch [1/1], Step [41/113], Loss: 6.7072
+Epoch [1/1], Step [51/113], Loss: 6.6375
+Epoch [1/1], Step [61/113], Loss: 6.4352
+Epoch [1/1], Step [71/113], Loss: 6.2335
+Epoch [1/1], Step [81/113], Loss: 6.1546
+Epoch [1/1], Step [91/113], Loss: 5.6539
+Epoch [1/1], Step [101/113], Loss: 5.8544
+Epoch [1/1], Step [111/113], Loss: 5.8018
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6675
+Epoch [1/1], Step [11/113], Loss: 7.1710
+Epoch [1/1], Step [21/113], Loss: 6.8252
+Epoch [1/1], Step [31/113], Loss: 6.6419
+Epoch [1/1], Step [41/113], Loss: 6.6225
+Epoch [1/1], Step [51/113], Loss: 6.3393
+Epoch [1/1], Step [61/113], Loss: 6.1270
+Epoch [1/1], Step [71/113], Loss: 5.9986
+Epoch [1/1], Step [81/113], Loss: 5.8622
+Epoch [1/1], Step [91/113], Loss: 5.8971
+Epoch [1/1], Step [101/113], Loss: 5.5424
+Epoch [1/1], Step [111/113], Loss: 5.5200
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6941
+Epoch [1/1], Step [11/113], Loss: 7.1731
+Epoch [1/1], Step [21/113], Loss: 6.9499
+Epoch [1/1], Step [31/113], Loss: 6.7896
+Epoch [1/1], Step [41/113], Loss: 6.5912
+Epoch [1/1], Step [51/113], Loss: 6.3605
+Epoch [1/1], Step [61/113], Loss: 6.3768
+Epoch [1/1], Step [71/113], Loss: 5.9309
+Epoch [1/1], Step [81/113], Loss: 5.8280
+Epoch [1/1], Step [91/113], Loss: 5.3228
+Epoch [1/1], Step [101/113], Loss: 5.7813
+Epoch [1/1], Step [111/113], Loss: 4.8335
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6189
+Epoch [1/1], Step [1/113], Loss: 7.6660
+Epoch [1/1], Step [11/113], Loss: 7.4259
+Epoch [1/1], Step [21/113], Loss: 7.0285
+Epoch [1/1], Step [31/113], Loss: 6.7377
+Epoch [1/1], Step [41/113], Loss: 6.5016
+Epoch [1/1], Step [51/113], Loss: 6.3130
+Epoch [1/1], Step [61/113], Loss: 6.4143
+Epoch [1/1], Step [71/113], Loss: 5.9343
+Epoch [1/1], Step [81/113], Loss: 5.9749
+Epoch [1/1], Step [91/113], Loss: 5.7387
+Epoch [1/1], Step [101/113], Loss: 5.4902
+Epoch [1/1], Step [111/113], Loss: 5.7874
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6857
+Epoch [1/1], Step [11/113], Loss: 7.4864
+Epoch [1/1], Step [21/113], Loss: 7.0585
+Epoch [1/1], Step [31/113], Loss: 6.7680
+Epoch [1/1], Step [41/113], Loss: 6.6791
+Epoch [1/1], Step [51/113], Loss: 6.5228
+Epoch [1/1], Step [61/113], Loss: 6.3439
+Epoch [1/1], Step [71/113], Loss: 6.1133
+Epoch [1/1], Step [81/113], Loss: 6.0699
+Epoch [1/1], Step [91/113], Loss: 5.8981
+Epoch [1/1], Step [101/113], Loss: 5.8553
+Epoch [1/1], Step [111/113], Loss: 5.6284
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6758
+Epoch [1/1], Step [11/113], Loss: 7.2592
+Epoch [1/1], Step [21/113], Loss: 6.8660
+Epoch [1/1], Step [31/113], Loss: 6.6790
+Epoch [1/1], Step [41/113], Loss: 6.4521
+Epoch [1/1], Step [51/113], Loss: 6.3579
+Epoch [1/1], Step [61/113], Loss: 6.0681
+Epoch [1/1], Step [71/113], Loss: 6.1478
+Epoch [1/1], Step [81/113], Loss: 5.9956
+Epoch [1/1], Step [91/113], Loss: 5.8596
+Epoch [1/1], Step [101/113], Loss: 5.5514
+Epoch [1/1], Step [111/113], Loss: 5.4179
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6451
+Epoch [1/1], Step [11/113], Loss: 7.3025
+Epoch [1/1], Step [21/113], Loss: 6.9123
+Epoch [1/1], Step [31/113], Loss: 6.8140
+Epoch [1/1], Step [41/113], Loss: 6.5283
+Epoch [1/1], Step [51/113], Loss: 6.2209
+Epoch [1/1], Step [61/113], Loss: 6.1061
+Epoch [1/1], Step [71/113], Loss: 5.8230
+Epoch [1/1], Step [81/113], Loss: 5.6573
+Epoch [1/1], Step [91/113], Loss: 5.6722
+Epoch [1/1], Step [101/113], Loss: 5.4658
+Epoch [1/1], Step [111/113], Loss: 5.3888
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6934
+Epoch [1/1], Step [11/113], Loss: 7.2683
+Epoch [1/1], Step [21/113], Loss: 7.0406
+Epoch [1/1], Step [31/113], Loss: 6.7699
+Epoch [1/1], Step [41/113], Loss: 6.6034
+Epoch [1/1], Step [51/113], Loss: 6.4591
+Epoch [1/1], Step [61/113], Loss: 6.2439
+Epoch [1/1], Step [71/113], Loss: 6.1191
+Epoch [1/1], Step [81/113], Loss: 6.0111
+Epoch [1/1], Step [91/113], Loss: 5.8646
+Epoch [1/1], Step [101/113], Loss: 5.5648
+Epoch [1/1], Step [111/113], Loss: 5.5602
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6196
+Best params for Fold 10: {'kernel_size': 5, 'C': 0.01} with accuracy 0.6196
+Epoch [1/1], Step [1/179], Loss: 7.7207
+Epoch [1/1], Step [11/179], Loss: 7.3185
+Epoch [1/1], Step [21/179], Loss: 7.0237
+Epoch [1/1], Step [31/179], Loss: 6.8403
+Epoch [1/1], Step [41/179], Loss: 6.5667
+Epoch [1/1], Step [51/179], Loss: 6.2107
+Epoch [1/1], Step [61/179], Loss: 6.3651
+Epoch [1/1], Step [71/179], Loss: 5.8637
+Epoch [1/1], Step [81/179], Loss: 5.9916
+Epoch [1/1], Step [91/179], Loss: 5.9585
+Epoch [1/1], Step [101/179], Loss: 5.3698
+Epoch [1/1], Step [111/179], Loss: 5.7117
+Epoch [1/1], Step [121/179], Loss: 5.1908
+Epoch [1/1], Step [131/179], Loss: 5.2135
+Epoch [1/1], Step [141/179], Loss: 5.5208
+Epoch [1/1], Step [151/179], Loss: 4.1184
+Epoch [1/1], Step [161/179], Loss: 4.5455
+Epoch [1/1], Step [171/179], Loss: 4.2632
+Cleared GPU memory.
+Outer Fold 10 Accuracy: 0.6333
+
+--- Outer Fold 11 ---
+Epoch [1/1], Step [1/113], Loss: 7.6677
+Epoch [1/1], Step [11/113], Loss: 7.3534
+Epoch [1/1], Step [21/113], Loss: 6.9188
+Epoch [1/1], Step [31/113], Loss: 6.9603
+Epoch [1/1], Step [41/113], Loss: 6.5319
+Epoch [1/1], Step [51/113], Loss: 6.3459
+Epoch [1/1], Step [61/113], Loss: 5.9713
+Epoch [1/1], Step [71/113], Loss: 6.0397
+Epoch [1/1], Step [81/113], Loss: 5.5444
+Epoch [1/1], Step [91/113], Loss: 5.5003
+Epoch [1/1], Step [101/113], Loss: 5.6524
+Epoch [1/1], Step [111/113], Loss: 5.3257
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6791
+Epoch [1/1], Step [11/113], Loss: 7.2551
+Epoch [1/1], Step [21/113], Loss: 6.8257
+Epoch [1/1], Step [31/113], Loss: 6.4801
+Epoch [1/1], Step [41/113], Loss: 6.4319
+Epoch [1/1], Step [51/113], Loss: 6.1058
+Epoch [1/1], Step [61/113], Loss: 5.9376
+Epoch [1/1], Step [71/113], Loss: 6.2664
+Epoch [1/1], Step [81/113], Loss: 6.1554
+Epoch [1/1], Step [91/113], Loss: 5.8977
+Epoch [1/1], Step [101/113], Loss: 5.8697
+Epoch [1/1], Step [111/113], Loss: 5.1558
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6779
+Epoch [1/1], Step [11/113], Loss: 7.4057
+Epoch [1/1], Step [21/113], Loss: 7.3579
+Epoch [1/1], Step [31/113], Loss: 6.8037
+Epoch [1/1], Step [41/113], Loss: 6.7099
+Epoch [1/1], Step [51/113], Loss: 6.7444
+Epoch [1/1], Step [61/113], Loss: 5.9920
+Epoch [1/1], Step [71/113], Loss: 5.9246
+Epoch [1/1], Step [81/113], Loss: 5.6764
+Epoch [1/1], Step [91/113], Loss: 5.5816
+Epoch [1/1], Step [101/113], Loss: 5.0740
+Epoch [1/1], Step [111/113], Loss: 5.4249
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7131
+Epoch [1/1], Step [11/113], Loss: 7.3744
+Epoch [1/1], Step [21/113], Loss: 7.0506
+Epoch [1/1], Step [31/113], Loss: 6.8522
+Epoch [1/1], Step [41/113], Loss: 6.6711
+Epoch [1/1], Step [51/113], Loss: 6.4589
+Epoch [1/1], Step [61/113], Loss: 6.4393
+Epoch [1/1], Step [71/113], Loss: 6.2761
+Epoch [1/1], Step [81/113], Loss: 6.1323
+Epoch [1/1], Step [91/113], Loss: 6.0379
+Epoch [1/1], Step [101/113], Loss: 6.1024
+Epoch [1/1], Step [111/113], Loss: 5.5194
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6201
+Epoch [1/1], Step [11/113], Loss: 7.2054
+Epoch [1/1], Step [21/113], Loss: 6.9275
+Epoch [1/1], Step [31/113], Loss: 6.6912
+Epoch [1/1], Step [41/113], Loss: 6.5878
+Epoch [1/1], Step [51/113], Loss: 6.3220
+Epoch [1/1], Step [61/113], Loss: 6.3226
+Epoch [1/1], Step [71/113], Loss: 6.0835
+Epoch [1/1], Step [81/113], Loss: 6.0462
+Epoch [1/1], Step [91/113], Loss: 5.8676
+Epoch [1/1], Step [101/113], Loss: 5.6752
+Epoch [1/1], Step [111/113], Loss: 5.2742
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6161
+Epoch [1/1], Step [1/113], Loss: 7.6192
+Epoch [1/1], Step [11/113], Loss: 7.3100
+Epoch [1/1], Step [21/113], Loss: 6.9289
+Epoch [1/1], Step [31/113], Loss: 6.8231
+Epoch [1/1], Step [41/113], Loss: 6.5438
+Epoch [1/1], Step [51/113], Loss: 6.5610
+Epoch [1/1], Step [61/113], Loss: 6.3118
+Epoch [1/1], Step [71/113], Loss: 6.1442
+Epoch [1/1], Step [81/113], Loss: 6.0954
+Epoch [1/1], Step [91/113], Loss: 5.9013
+Epoch [1/1], Step [101/113], Loss: 5.6554
+Epoch [1/1], Step [111/113], Loss: 5.4464
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6941
+Epoch [1/1], Step [11/113], Loss: 6.9874
+Epoch [1/1], Step [21/113], Loss: 6.7712
+Epoch [1/1], Step [31/113], Loss: 6.7993
+Epoch [1/1], Step [41/113], Loss: 6.5220
+Epoch [1/1], Step [51/113], Loss: 6.2573
+Epoch [1/1], Step [61/113], Loss: 6.5256
+Epoch [1/1], Step [71/113], Loss: 5.8133
+Epoch [1/1], Step [81/113], Loss: 5.7234
+Epoch [1/1], Step [91/113], Loss: 5.1026
+Epoch [1/1], Step [101/113], Loss: 5.5253
+Epoch [1/1], Step [111/113], Loss: 5.2419
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6696
+Epoch [1/1], Step [11/113], Loss: 7.4808
+Epoch [1/1], Step [21/113], Loss: 7.4150
+Epoch [1/1], Step [31/113], Loss: 6.4997
+Epoch [1/1], Step [41/113], Loss: 6.1003
+Epoch [1/1], Step [51/113], Loss: 6.1768
+Epoch [1/1], Step [61/113], Loss: 5.8802
+Epoch [1/1], Step [71/113], Loss: 5.7955
+Epoch [1/1], Step [81/113], Loss: 5.6187
+Epoch [1/1], Step [91/113], Loss: 6.1835
+Epoch [1/1], Step [101/113], Loss: 4.9882
+Epoch [1/1], Step [111/113], Loss: 4.8923
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7064
+Epoch [1/1], Step [11/113], Loss: 7.6440
+Epoch [1/1], Step [21/113], Loss: 6.9346
+Epoch [1/1], Step [31/113], Loss: 7.0110
+Epoch [1/1], Step [41/113], Loss: 6.7222
+Epoch [1/1], Step [51/113], Loss: 6.1253
+Epoch [1/1], Step [61/113], Loss: 6.5155
+Epoch [1/1], Step [71/113], Loss: 6.0939
+Epoch [1/1], Step [81/113], Loss: 6.0565
+Epoch [1/1], Step [91/113], Loss: 5.8103
+Epoch [1/1], Step [101/113], Loss: 5.1878
+Epoch [1/1], Step [111/113], Loss: 5.5128
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7310
+Epoch [1/1], Step [11/113], Loss: 7.2679
+Epoch [1/1], Step [21/113], Loss: 6.7753
+Epoch [1/1], Step [31/113], Loss: 6.6825
+Epoch [1/1], Step [41/113], Loss: 6.5818
+Epoch [1/1], Step [51/113], Loss: 6.3491
+Epoch [1/1], Step [61/113], Loss: 6.1542
+Epoch [1/1], Step [71/113], Loss: 5.9967
+Epoch [1/1], Step [81/113], Loss: 6.0854
+Epoch [1/1], Step [91/113], Loss: 5.5561
+Epoch [1/1], Step [101/113], Loss: 5.7654
+Epoch [1/1], Step [111/113], Loss: 5.1974
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6217
+Epoch [1/1], Step [1/113], Loss: 7.6484
+Epoch [1/1], Step [11/113], Loss: 7.3817
+Epoch [1/1], Step [21/113], Loss: 6.9693
+Epoch [1/1], Step [31/113], Loss: 6.8064
+Epoch [1/1], Step [41/113], Loss: 6.5536
+Epoch [1/1], Step [51/113], Loss: 6.4320
+Epoch [1/1], Step [61/113], Loss: 6.0516
+Epoch [1/1], Step [71/113], Loss: 5.9588
+Epoch [1/1], Step [81/113], Loss: 5.6203
+Epoch [1/1], Step [91/113], Loss: 5.5424
+Epoch [1/1], Step [101/113], Loss: 5.4067
+Epoch [1/1], Step [111/113], Loss: 5.3941
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7087
+Epoch [1/1], Step [11/113], Loss: 7.3808
+Epoch [1/1], Step [21/113], Loss: 7.0536
+Epoch [1/1], Step [31/113], Loss: 6.8089
+Epoch [1/1], Step [41/113], Loss: 6.6093
+Epoch [1/1], Step [51/113], Loss: 6.2865
+Epoch [1/1], Step [61/113], Loss: 6.2755
+Epoch [1/1], Step [71/113], Loss: 6.1731
+Epoch [1/1], Step [81/113], Loss: 6.2003
+Epoch [1/1], Step [91/113], Loss: 6.0916
+Epoch [1/1], Step [101/113], Loss: 5.6404
+Epoch [1/1], Step [111/113], Loss: 5.5143
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7140
+Epoch [1/1], Step [11/113], Loss: 7.4200
+Epoch [1/1], Step [21/113], Loss: 6.8307
+Epoch [1/1], Step [31/113], Loss: 6.6698
+Epoch [1/1], Step [41/113], Loss: 6.4396
+Epoch [1/1], Step [51/113], Loss: 6.3020
+Epoch [1/1], Step [61/113], Loss: 6.2496
+Epoch [1/1], Step [71/113], Loss: 5.9191
+Epoch [1/1], Step [81/113], Loss: 5.7265
+Epoch [1/1], Step [91/113], Loss: 5.6188
+Epoch [1/1], Step [101/113], Loss: 5.1570
+Epoch [1/1], Step [111/113], Loss: 5.5512
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6322
+Epoch [1/1], Step [11/113], Loss: 7.3726
+Epoch [1/1], Step [21/113], Loss: 7.0809
+Epoch [1/1], Step [31/113], Loss: 6.8672
+Epoch [1/1], Step [41/113], Loss: 6.6684
+Epoch [1/1], Step [51/113], Loss: 6.5002
+Epoch [1/1], Step [61/113], Loss: 6.3091
+Epoch [1/1], Step [71/113], Loss: 6.1585
+Epoch [1/1], Step [81/113], Loss: 6.0011
+Epoch [1/1], Step [91/113], Loss: 5.8000
+Epoch [1/1], Step [101/113], Loss: 5.6013
+Epoch [1/1], Step [111/113], Loss: 5.6224
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6795
+Epoch [1/1], Step [11/113], Loss: 7.3043
+Epoch [1/1], Step [21/113], Loss: 6.9676
+Epoch [1/1], Step [31/113], Loss: 6.7873
+Epoch [1/1], Step [41/113], Loss: 6.5271
+Epoch [1/1], Step [51/113], Loss: 6.5535
+Epoch [1/1], Step [61/113], Loss: 6.2041
+Epoch [1/1], Step [71/113], Loss: 6.2427
+Epoch [1/1], Step [81/113], Loss: 5.7526
+Epoch [1/1], Step [91/113], Loss: 5.7691
+Epoch [1/1], Step [101/113], Loss: 5.3763
+Epoch [1/1], Step [111/113], Loss: 5.6671
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6193
+Best params for Fold 11: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6217
+Epoch [1/1], Step [1/179], Loss: 7.6820
+Epoch [1/1], Step [11/179], Loss: 7.2300
+Epoch [1/1], Step [21/179], Loss: 6.9662
+Epoch [1/1], Step [31/179], Loss: 6.9398
+Epoch [1/1], Step [41/179], Loss: 6.7922
+Epoch [1/1], Step [51/179], Loss: 6.5238
+Epoch [1/1], Step [61/179], Loss: 6.2577
+Epoch [1/1], Step [71/179], Loss: 6.0177
+Epoch [1/1], Step [81/179], Loss: 6.2330
+Epoch [1/1], Step [91/179], Loss: 5.7900
+Epoch [1/1], Step [101/179], Loss: 5.7544
+Epoch [1/1], Step [111/179], Loss: 5.5063
+Epoch [1/1], Step [121/179], Loss: 5.3652
+Epoch [1/1], Step [131/179], Loss: 4.9351
+Epoch [1/1], Step [141/179], Loss: 5.2941
+Epoch [1/1], Step [151/179], Loss: 5.1840
+Epoch [1/1], Step [161/179], Loss: 4.8270
+Epoch [1/1], Step [171/179], Loss: 4.6681
+Cleared GPU memory.
+Outer Fold 11 Accuracy: 0.6833
+
+--- Outer Fold 12 ---
+Epoch [1/1], Step [1/113], Loss: 7.5459
+Epoch [1/1], Step [11/113], Loss: 6.8766
+Epoch [1/1], Step [21/113], Loss: 6.9889
+Epoch [1/1], Step [31/113], Loss: 6.3440
+Epoch [1/1], Step [41/113], Loss: 6.4295
+Epoch [1/1], Step [51/113], Loss: 6.5014
+Epoch [1/1], Step [61/113], Loss: 5.9035
+Epoch [1/1], Step [71/113], Loss: 5.9266
+Epoch [1/1], Step [81/113], Loss: 5.4493
+Epoch [1/1], Step [91/113], Loss: 6.3400
+Epoch [1/1], Step [101/113], Loss: 6.2781
+Epoch [1/1], Step [111/113], Loss: 5.6543
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6012
+Epoch [1/1], Step [11/113], Loss: 7.3023
+Epoch [1/1], Step [21/113], Loss: 7.0920
+Epoch [1/1], Step [31/113], Loss: 6.6655
+Epoch [1/1], Step [41/113], Loss: 6.3881
+Epoch [1/1], Step [51/113], Loss: 6.5788
+Epoch [1/1], Step [61/113], Loss: 6.1364
+Epoch [1/1], Step [71/113], Loss: 5.7504
+Epoch [1/1], Step [81/113], Loss: 6.1066
+Epoch [1/1], Step [91/113], Loss: 5.3743
+Epoch [1/1], Step [101/113], Loss: 5.3909
+Epoch [1/1], Step [111/113], Loss: 5.8275
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5382
+Epoch [1/1], Step [11/113], Loss: 6.9363
+Epoch [1/1], Step [21/113], Loss: 6.2270
+Epoch [1/1], Step [31/113], Loss: 6.6996
+Epoch [1/1], Step [41/113], Loss: 6.7412
+Epoch [1/1], Step [51/113], Loss: 6.3994
+Epoch [1/1], Step [61/113], Loss: 6.4794
+Epoch [1/1], Step [71/113], Loss: 5.9343
+Epoch [1/1], Step [81/113], Loss: 6.4228
+Epoch [1/1], Step [91/113], Loss: 5.8220
+Epoch [1/1], Step [101/113], Loss: 5.6499
+Epoch [1/1], Step [111/113], Loss: 4.8548
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6789
+Epoch [1/1], Step [11/113], Loss: 7.2247
+Epoch [1/1], Step [21/113], Loss: 7.3105
+Epoch [1/1], Step [31/113], Loss: 6.6499
+Epoch [1/1], Step [41/113], Loss: 6.4952
+Epoch [1/1], Step [51/113], Loss: 6.5318
+Epoch [1/1], Step [61/113], Loss: 5.7655
+Epoch [1/1], Step [71/113], Loss: 5.9375
+Epoch [1/1], Step [81/113], Loss: 5.8856
+Epoch [1/1], Step [91/113], Loss: 5.3319
+Epoch [1/1], Step [101/113], Loss: 4.9375
+Epoch [1/1], Step [111/113], Loss: 5.0017
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7430
+Epoch [1/1], Step [11/113], Loss: 7.2412
+Epoch [1/1], Step [21/113], Loss: 7.1553
+Epoch [1/1], Step [31/113], Loss: 7.2832
+Epoch [1/1], Step [41/113], Loss: 6.7814
+Epoch [1/1], Step [51/113], Loss: 6.2725
+Epoch [1/1], Step [61/113], Loss: 6.0722
+Epoch [1/1], Step [71/113], Loss: 5.6448
+Epoch [1/1], Step [81/113], Loss: 5.5542
+Epoch [1/1], Step [91/113], Loss: 5.4217
+Epoch [1/1], Step [101/113], Loss: 5.1547
+Epoch [1/1], Step [111/113], Loss: 5.1942
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6143
+Epoch [1/1], Step [1/113], Loss: 7.6624
+Epoch [1/1], Step [11/113], Loss: 7.2711
+Epoch [1/1], Step [21/113], Loss: 7.1618
+Epoch [1/1], Step [31/113], Loss: 6.9058
+Epoch [1/1], Step [41/113], Loss: 6.8207
+Epoch [1/1], Step [51/113], Loss: 6.1892
+Epoch [1/1], Step [61/113], Loss: 6.5274
+Epoch [1/1], Step [71/113], Loss: 6.1467
+Epoch [1/1], Step [81/113], Loss: 5.4847
+Epoch [1/1], Step [91/113], Loss: 5.8050
+Epoch [1/1], Step [101/113], Loss: 5.6786
+Epoch [1/1], Step [111/113], Loss: 5.4035
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5777
+Epoch [1/1], Step [11/113], Loss: 7.5095
+Epoch [1/1], Step [21/113], Loss: 7.1070
+Epoch [1/1], Step [31/113], Loss: 6.9318
+Epoch [1/1], Step [41/113], Loss: 6.5999
+Epoch [1/1], Step [51/113], Loss: 6.6074
+Epoch [1/1], Step [61/113], Loss: 6.4064
+Epoch [1/1], Step [71/113], Loss: 6.3117
+Epoch [1/1], Step [81/113], Loss: 6.1588
+Epoch [1/1], Step [91/113], Loss: 6.0682
+Epoch [1/1], Step [101/113], Loss: 5.8796
+Epoch [1/1], Step [111/113], Loss: 5.7768
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5443
+Epoch [1/1], Step [11/113], Loss: 7.1339
+Epoch [1/1], Step [21/113], Loss: 6.8220
+Epoch [1/1], Step [31/113], Loss: 6.7834
+Epoch [1/1], Step [41/113], Loss: 6.6544
+Epoch [1/1], Step [51/113], Loss: 6.9634
+Epoch [1/1], Step [61/113], Loss: 6.4199
+Epoch [1/1], Step [71/113], Loss: 5.9423
+Epoch [1/1], Step [81/113], Loss: 6.6217
+Epoch [1/1], Step [91/113], Loss: 5.6907
+Epoch [1/1], Step [101/113], Loss: 5.7554
+Epoch [1/1], Step [111/113], Loss: 5.2744
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6748
+Epoch [1/1], Step [11/113], Loss: 7.4290
+Epoch [1/1], Step [21/113], Loss: 7.1330
+Epoch [1/1], Step [31/113], Loss: 6.8907
+Epoch [1/1], Step [41/113], Loss: 6.7381
+Epoch [1/1], Step [51/113], Loss: 6.6396
+Epoch [1/1], Step [61/113], Loss: 6.2953
+Epoch [1/1], Step [71/113], Loss: 6.2161
+Epoch [1/1], Step [81/113], Loss: 6.2756
+Epoch [1/1], Step [91/113], Loss: 5.8332
+Epoch [1/1], Step [101/113], Loss: 6.0938
+Epoch [1/1], Step [111/113], Loss: 5.6213
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7265
+Epoch [1/1], Step [11/113], Loss: 7.4476
+Epoch [1/1], Step [21/113], Loss: 7.1151
+Epoch [1/1], Step [31/113], Loss: 6.8213
+Epoch [1/1], Step [41/113], Loss: 6.8570
+Epoch [1/1], Step [51/113], Loss: 6.5771
+Epoch [1/1], Step [61/113], Loss: 6.3850
+Epoch [1/1], Step [71/113], Loss: 6.3667
+Epoch [1/1], Step [81/113], Loss: 6.1389
+Epoch [1/1], Step [91/113], Loss: 6.0672
+Epoch [1/1], Step [101/113], Loss: 5.7949
+Epoch [1/1], Step [111/113], Loss: 5.6508
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6099
+Epoch [1/1], Step [1/113], Loss: 7.7156
+Epoch [1/1], Step [11/113], Loss: 7.3303
+Epoch [1/1], Step [21/113], Loss: 6.7296
+Epoch [1/1], Step [31/113], Loss: 6.9790
+Epoch [1/1], Step [41/113], Loss: 6.7491
+Epoch [1/1], Step [51/113], Loss: 6.2199
+Epoch [1/1], Step [61/113], Loss: 6.1721
+Epoch [1/1], Step [71/113], Loss: 5.6264
+Epoch [1/1], Step [81/113], Loss: 6.1185
+Epoch [1/1], Step [91/113], Loss: 5.7858
+Epoch [1/1], Step [101/113], Loss: 5.6050
+Epoch [1/1], Step [111/113], Loss: 5.8572
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6983
+Epoch [1/1], Step [11/113], Loss: 7.4257
+Epoch [1/1], Step [21/113], Loss: 6.9820
+Epoch [1/1], Step [31/113], Loss: 6.8059
+Epoch [1/1], Step [41/113], Loss: 6.6728
+Epoch [1/1], Step [51/113], Loss: 6.5830
+Epoch [1/1], Step [61/113], Loss: 6.1917
+Epoch [1/1], Step [71/113], Loss: 6.1268
+Epoch [1/1], Step [81/113], Loss: 5.9824
+Epoch [1/1], Step [91/113], Loss: 5.6309
+Epoch [1/1], Step [101/113], Loss: 5.6449
+Epoch [1/1], Step [111/113], Loss: 5.4507
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7405
+Epoch [1/1], Step [11/113], Loss: 7.3831
+Epoch [1/1], Step [21/113], Loss: 6.9936
+Epoch [1/1], Step [31/113], Loss: 6.8020
+Epoch [1/1], Step [41/113], Loss: 6.5219
+Epoch [1/1], Step [51/113], Loss: 6.4750
+Epoch [1/1], Step [61/113], Loss: 6.3518
+Epoch [1/1], Step [71/113], Loss: 5.7734
+Epoch [1/1], Step [81/113], Loss: 5.5459
+Epoch [1/1], Step [91/113], Loss: 5.4960
+Epoch [1/1], Step [101/113], Loss: 5.5218
+Epoch [1/1], Step [111/113], Loss: 5.3931
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7386
+Epoch [1/1], Step [11/113], Loss: 7.1468
+Epoch [1/1], Step [21/113], Loss: 6.9725
+Epoch [1/1], Step [31/113], Loss: 6.7645
+Epoch [1/1], Step [41/113], Loss: 6.6127
+Epoch [1/1], Step [51/113], Loss: 6.7955
+Epoch [1/1], Step [61/113], Loss: 6.1814
+Epoch [1/1], Step [71/113], Loss: 6.3586
+Epoch [1/1], Step [81/113], Loss: 6.2932
+Epoch [1/1], Step [91/113], Loss: 5.7034
+Epoch [1/1], Step [101/113], Loss: 5.6947
+Epoch [1/1], Step [111/113], Loss: 5.6013
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6384
+Epoch [1/1], Step [11/113], Loss: 7.4459
+Epoch [1/1], Step [21/113], Loss: 6.6230
+Epoch [1/1], Step [31/113], Loss: 7.1619
+Epoch [1/1], Step [41/113], Loss: 6.8090
+Epoch [1/1], Step [51/113], Loss: 6.5604
+Epoch [1/1], Step [61/113], Loss: 6.2491
+Epoch [1/1], Step [71/113], Loss: 5.4438
+Epoch [1/1], Step [81/113], Loss: 5.4263
+Epoch [1/1], Step [91/113], Loss: 5.6719
+Epoch [1/1], Step [101/113], Loss: 5.2157
+Epoch [1/1], Step [111/113], Loss: 5.6050
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6209
+Best params for Fold 12: {'kernel_size': 5, 'C': 0.01} with accuracy 0.6209
+Epoch [1/1], Step [1/179], Loss: 7.6864
+Epoch [1/1], Step [11/179], Loss: 7.4395
+Epoch [1/1], Step [21/179], Loss: 7.0053
+Epoch [1/1], Step [31/179], Loss: 6.7485
+Epoch [1/1], Step [41/179], Loss: 6.3391
+Epoch [1/1], Step [51/179], Loss: 6.9927
+Epoch [1/1], Step [61/179], Loss: 6.5250
+Epoch [1/1], Step [71/179], Loss: 5.7107
+Epoch [1/1], Step [81/179], Loss: 5.5477
+Epoch [1/1], Step [91/179], Loss: 5.8449
+Epoch [1/1], Step [101/179], Loss: 5.6699
+Epoch [1/1], Step [111/179], Loss: 4.8716
+Epoch [1/1], Step [121/179], Loss: 5.7560
+Epoch [1/1], Step [131/179], Loss: 5.3016
+Epoch [1/1], Step [141/179], Loss: 4.9323
+Epoch [1/1], Step [151/179], Loss: 4.2518
+Epoch [1/1], Step [161/179], Loss: 4.5186
+Epoch [1/1], Step [171/179], Loss: 4.3036
+Cleared GPU memory.
+Outer Fold 12 Accuracy: 0.6400
+
+--- Outer Fold 13 ---
+Epoch [1/1], Step [1/113], Loss: 7.7720
+Epoch [1/1], Step [11/113], Loss: 7.3524
+Epoch [1/1], Step [21/113], Loss: 6.9838
+Epoch [1/1], Step [31/113], Loss: 6.6590
+Epoch [1/1], Step [41/113], Loss: 6.6010
+Epoch [1/1], Step [51/113], Loss: 6.4616
+Epoch [1/1], Step [61/113], Loss: 6.1221
+Epoch [1/1], Step [71/113], Loss: 6.0372
+Epoch [1/1], Step [81/113], Loss: 5.8753
+Epoch [1/1], Step [91/113], Loss: 5.7955
+Epoch [1/1], Step [101/113], Loss: 5.5792
+Epoch [1/1], Step [111/113], Loss: 5.4642
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7459
+Epoch [1/1], Step [11/113], Loss: 7.3222
+Epoch [1/1], Step [21/113], Loss: 6.9497
+Epoch [1/1], Step [31/113], Loss: 6.7405
+Epoch [1/1], Step [41/113], Loss: 6.4720
+Epoch [1/1], Step [51/113], Loss: 6.6156
+Epoch [1/1], Step [61/113], Loss: 6.6789
+Epoch [1/1], Step [71/113], Loss: 6.2336
+Epoch [1/1], Step [81/113], Loss: 5.4818
+Epoch [1/1], Step [91/113], Loss: 5.3788
+Epoch [1/1], Step [101/113], Loss: 4.9240
+Epoch [1/1], Step [111/113], Loss: 5.2506
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6328
+Epoch [1/1], Step [11/113], Loss: 7.4661
+Epoch [1/1], Step [21/113], Loss: 6.9274
+Epoch [1/1], Step [31/113], Loss: 6.8647
+Epoch [1/1], Step [41/113], Loss: 6.8369
+Epoch [1/1], Step [51/113], Loss: 6.5027
+Epoch [1/1], Step [61/113], Loss: 6.3387
+Epoch [1/1], Step [71/113], Loss: 6.5321
+Epoch [1/1], Step [81/113], Loss: 5.6806
+Epoch [1/1], Step [91/113], Loss: 6.0043
+Epoch [1/1], Step [101/113], Loss: 6.1997
+Epoch [1/1], Step [111/113], Loss: 5.6826
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7259
+Epoch [1/1], Step [11/113], Loss: 7.4530
+Epoch [1/1], Step [21/113], Loss: 6.9352
+Epoch [1/1], Step [31/113], Loss: 6.8659
+Epoch [1/1], Step [41/113], Loss: 6.8447
+Epoch [1/1], Step [51/113], Loss: 6.3208
+Epoch [1/1], Step [61/113], Loss: 6.2375
+Epoch [1/1], Step [71/113], Loss: 5.6615
+Epoch [1/1], Step [81/113], Loss: 5.8018
+Epoch [1/1], Step [91/113], Loss: 5.2518
+Epoch [1/1], Step [101/113], Loss: 5.7753
+Epoch [1/1], Step [111/113], Loss: 5.2377
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7267
+Epoch [1/1], Step [11/113], Loss: 7.2381
+Epoch [1/1], Step [21/113], Loss: 6.9645
+Epoch [1/1], Step [31/113], Loss: 6.7345
+Epoch [1/1], Step [41/113], Loss: 6.5425
+Epoch [1/1], Step [51/113], Loss: 6.3932
+Epoch [1/1], Step [61/113], Loss: 6.2944
+Epoch [1/1], Step [71/113], Loss: 6.0940
+Epoch [1/1], Step [81/113], Loss: 6.0220
+Epoch [1/1], Step [91/113], Loss: 5.8292
+Epoch [1/1], Step [101/113], Loss: 5.7367
+Epoch [1/1], Step [111/113], Loss: 5.5252
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6275
+Epoch [1/1], Step [1/113], Loss: 7.6695
+Epoch [1/1], Step [11/113], Loss: 7.0587
+Epoch [1/1], Step [21/113], Loss: 6.7622
+Epoch [1/1], Step [31/113], Loss: 6.7581
+Epoch [1/1], Step [41/113], Loss: 6.5922
+Epoch [1/1], Step [51/113], Loss: 6.2747
+Epoch [1/1], Step [61/113], Loss: 6.1393
+Epoch [1/1], Step [71/113], Loss: 6.1672
+Epoch [1/1], Step [81/113], Loss: 5.7432
+Epoch [1/1], Step [91/113], Loss: 5.9548
+Epoch [1/1], Step [101/113], Loss: 5.5969
+Epoch [1/1], Step [111/113], Loss: 5.3290
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7544
+Epoch [1/1], Step [11/113], Loss: 7.4494
+Epoch [1/1], Step [21/113], Loss: 7.0655
+Epoch [1/1], Step [31/113], Loss: 6.8968
+Epoch [1/1], Step [41/113], Loss: 7.0697
+Epoch [1/1], Step [51/113], Loss: 6.5148
+Epoch [1/1], Step [61/113], Loss: 6.1820
+Epoch [1/1], Step [71/113], Loss: 6.2370
+Epoch [1/1], Step [81/113], Loss: 6.0357
+Epoch [1/1], Step [91/113], Loss: 5.7174
+Epoch [1/1], Step [101/113], Loss: 5.5866
+Epoch [1/1], Step [111/113], Loss: 5.2639
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7582
+Epoch [1/1], Step [11/113], Loss: 7.4553
+Epoch [1/1], Step [21/113], Loss: 7.1290
+Epoch [1/1], Step [31/113], Loss: 6.8353
+Epoch [1/1], Step [41/113], Loss: 6.3215
+Epoch [1/1], Step [51/113], Loss: 6.2152
+Epoch [1/1], Step [61/113], Loss: 5.7875
+Epoch [1/1], Step [71/113], Loss: 6.1115
+Epoch [1/1], Step [81/113], Loss: 5.5580
+Epoch [1/1], Step [91/113], Loss: 5.8237
+Epoch [1/1], Step [101/113], Loss: 5.1758
+Epoch [1/1], Step [111/113], Loss: 5.3119
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7661
+Epoch [1/1], Step [11/113], Loss: 7.4288
+Epoch [1/1], Step [21/113], Loss: 6.8107
+Epoch [1/1], Step [31/113], Loss: 7.4462
+Epoch [1/1], Step [41/113], Loss: 6.6467
+Epoch [1/1], Step [51/113], Loss: 6.2730
+Epoch [1/1], Step [61/113], Loss: 5.9379
+Epoch [1/1], Step [71/113], Loss: 6.2459
+Epoch [1/1], Step [81/113], Loss: 6.2600
+Epoch [1/1], Step [91/113], Loss: 5.8985
+Epoch [1/1], Step [101/113], Loss: 5.2980
+Epoch [1/1], Step [111/113], Loss: 5.0879
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6998
+Epoch [1/1], Step [11/113], Loss: 7.3170
+Epoch [1/1], Step [21/113], Loss: 7.0334
+Epoch [1/1], Step [31/113], Loss: 6.8922
+Epoch [1/1], Step [41/113], Loss: 6.6801
+Epoch [1/1], Step [51/113], Loss: 6.4823
+Epoch [1/1], Step [61/113], Loss: 6.4211
+Epoch [1/1], Step [71/113], Loss: 6.1554
+Epoch [1/1], Step [81/113], Loss: 6.0012
+Epoch [1/1], Step [91/113], Loss: 5.7092
+Epoch [1/1], Step [101/113], Loss: 5.7572
+Epoch [1/1], Step [111/113], Loss: 5.5457
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6109
+Epoch [1/1], Step [1/113], Loss: 7.7472
+Epoch [1/1], Step [11/113], Loss: 7.3719
+Epoch [1/1], Step [21/113], Loss: 6.8892
+Epoch [1/1], Step [31/113], Loss: 6.7348
+Epoch [1/1], Step [41/113], Loss: 6.6025
+Epoch [1/1], Step [51/113], Loss: 6.3893
+Epoch [1/1], Step [61/113], Loss: 6.1367
+Epoch [1/1], Step [71/113], Loss: 6.1424
+Epoch [1/1], Step [81/113], Loss: 5.6696
+Epoch [1/1], Step [91/113], Loss: 5.6182
+Epoch [1/1], Step [101/113], Loss: 5.3086
+Epoch [1/1], Step [111/113], Loss: 5.1533
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6676
+Epoch [1/1], Step [11/113], Loss: 7.3424
+Epoch [1/1], Step [21/113], Loss: 7.0510
+Epoch [1/1], Step [31/113], Loss: 6.8122
+Epoch [1/1], Step [41/113], Loss: 6.6261
+Epoch [1/1], Step [51/113], Loss: 6.4565
+Epoch [1/1], Step [61/113], Loss: 6.3124
+Epoch [1/1], Step [71/113], Loss: 6.1273
+Epoch [1/1], Step [81/113], Loss: 6.0603
+Epoch [1/1], Step [91/113], Loss: 5.9319
+Epoch [1/1], Step [101/113], Loss: 5.6777
+Epoch [1/1], Step [111/113], Loss: 5.5521
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7328
+Epoch [1/1], Step [11/113], Loss: 7.4734
+Epoch [1/1], Step [21/113], Loss: 6.7644
+Epoch [1/1], Step [31/113], Loss: 6.9419
+Epoch [1/1], Step [41/113], Loss: 6.4682
+Epoch [1/1], Step [51/113], Loss: 6.2890
+Epoch [1/1], Step [61/113], Loss: 6.1255
+Epoch [1/1], Step [71/113], Loss: 6.4021
+Epoch [1/1], Step [81/113], Loss: 5.4855
+Epoch [1/1], Step [91/113], Loss: 5.4651
+Epoch [1/1], Step [101/113], Loss: 5.3324
+Epoch [1/1], Step [111/113], Loss: 4.7832
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6626
+Epoch [1/1], Step [11/113], Loss: 7.2923
+Epoch [1/1], Step [21/113], Loss: 7.1349
+Epoch [1/1], Step [31/113], Loss: 6.3600
+Epoch [1/1], Step [41/113], Loss: 6.2707
+Epoch [1/1], Step [51/113], Loss: 6.3627
+Epoch [1/1], Step [61/113], Loss: 6.1542
+Epoch [1/1], Step [71/113], Loss: 5.4569
+Epoch [1/1], Step [81/113], Loss: 6.1493
+Epoch [1/1], Step [91/113], Loss: 5.8372
+Epoch [1/1], Step [101/113], Loss: 5.5537
+Epoch [1/1], Step [111/113], Loss: 5.9539
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7172
+Epoch [1/1], Step [11/113], Loss: 7.3549
+Epoch [1/1], Step [21/113], Loss: 7.0465
+Epoch [1/1], Step [31/113], Loss: 6.7436
+Epoch [1/1], Step [41/113], Loss: 6.6221
+Epoch [1/1], Step [51/113], Loss: 6.4463
+Epoch [1/1], Step [61/113], Loss: 6.2233
+Epoch [1/1], Step [71/113], Loss: 6.1327
+Epoch [1/1], Step [81/113], Loss: 5.9234
+Epoch [1/1], Step [91/113], Loss: 5.5089
+Epoch [1/1], Step [101/113], Loss: 5.4317
+Epoch [1/1], Step [111/113], Loss: 5.6759
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6150
+Best params for Fold 13: {'kernel_size': 1, 'C': 0.01} with accuracy 0.6275
+Epoch [1/1], Step [1/179], Loss: 7.7184
+Epoch [1/1], Step [11/179], Loss: 7.3738
+Epoch [1/1], Step [21/179], Loss: 7.0757
+Epoch [1/1], Step [31/179], Loss: 6.8726
+Epoch [1/1], Step [41/179], Loss: 6.2785
+Epoch [1/1], Step [51/179], Loss: 6.1399
+Epoch [1/1], Step [61/179], Loss: 6.1001
+Epoch [1/1], Step [71/179], Loss: 5.8538
+Epoch [1/1], Step [81/179], Loss: 5.5984
+Epoch [1/1], Step [91/179], Loss: 5.2944
+Epoch [1/1], Step [101/179], Loss: 5.3847
+Epoch [1/1], Step [111/179], Loss: 4.5937
+Epoch [1/1], Step [121/179], Loss: 5.4557
+Epoch [1/1], Step [131/179], Loss: 5.1825
+Epoch [1/1], Step [141/179], Loss: 4.4682
+Epoch [1/1], Step [151/179], Loss: 5.1238
+Epoch [1/1], Step [161/179], Loss: 4.9859
+Epoch [1/1], Step [171/179], Loss: 5.0547
+Cleared GPU memory.
+Outer Fold 13 Accuracy: 0.6533
+
+--- Outer Fold 14 ---
+Epoch [1/1], Step [1/113], Loss: 7.6885
+Epoch [1/1], Step [11/113], Loss: 7.2976
+Epoch [1/1], Step [21/113], Loss: 7.0312
+Epoch [1/1], Step [31/113], Loss: 6.8524
+Epoch [1/1], Step [41/113], Loss: 6.6335
+Epoch [1/1], Step [51/113], Loss: 6.5661
+Epoch [1/1], Step [61/113], Loss: 6.4147
+Epoch [1/1], Step [71/113], Loss: 6.1959
+Epoch [1/1], Step [81/113], Loss: 6.1672
+Epoch [1/1], Step [91/113], Loss: 5.9817
+Epoch [1/1], Step [101/113], Loss: 5.8664
+Epoch [1/1], Step [111/113], Loss: 5.2256
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6587
+Epoch [1/1], Step [11/113], Loss: 7.3096
+Epoch [1/1], Step [21/113], Loss: 6.9809
+Epoch [1/1], Step [31/113], Loss: 6.8247
+Epoch [1/1], Step [41/113], Loss: 6.6851
+Epoch [1/1], Step [51/113], Loss: 6.4597
+Epoch [1/1], Step [61/113], Loss: 6.3684
+Epoch [1/1], Step [71/113], Loss: 6.2561
+Epoch [1/1], Step [81/113], Loss: 6.1502
+Epoch [1/1], Step [91/113], Loss: 5.8438
+Epoch [1/1], Step [101/113], Loss: 5.7450
+Epoch [1/1], Step [111/113], Loss: 5.6989
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6418
+Epoch [1/1], Step [11/113], Loss: 7.3141
+Epoch [1/1], Step [21/113], Loss: 6.9844
+Epoch [1/1], Step [31/113], Loss: 6.6326
+Epoch [1/1], Step [41/113], Loss: 6.6884
+Epoch [1/1], Step [51/113], Loss: 6.2460
+Epoch [1/1], Step [61/113], Loss: 6.3954
+Epoch [1/1], Step [71/113], Loss: 5.9796
+Epoch [1/1], Step [81/113], Loss: 5.8801
+Epoch [1/1], Step [91/113], Loss: 5.8916
+Epoch [1/1], Step [101/113], Loss: 4.9545
+Epoch [1/1], Step [111/113], Loss: 5.3738
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6880
+Epoch [1/1], Step [11/113], Loss: 7.3519
+Epoch [1/1], Step [21/113], Loss: 7.1880
+Epoch [1/1], Step [31/113], Loss: 6.8839
+Epoch [1/1], Step [41/113], Loss: 6.6015
+Epoch [1/1], Step [51/113], Loss: 6.6641
+Epoch [1/1], Step [61/113], Loss: 6.4681
+Epoch [1/1], Step [71/113], Loss: 5.7587
+Epoch [1/1], Step [81/113], Loss: 5.6910
+Epoch [1/1], Step [91/113], Loss: 5.9211
+Epoch [1/1], Step [101/113], Loss: 5.6045
+Epoch [1/1], Step [111/113], Loss: 5.1649
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6937
+Epoch [1/1], Step [11/113], Loss: 7.0018
+Epoch [1/1], Step [21/113], Loss: 6.6484
+Epoch [1/1], Step [31/113], Loss: 6.7982
+Epoch [1/1], Step [41/113], Loss: 6.4244
+Epoch [1/1], Step [51/113], Loss: 6.2493
+Epoch [1/1], Step [61/113], Loss: 6.0734
+Epoch [1/1], Step [71/113], Loss: 6.0826
+Epoch [1/1], Step [81/113], Loss: 6.1763
+Epoch [1/1], Step [91/113], Loss: 5.6563
+Epoch [1/1], Step [101/113], Loss: 5.4429
+Epoch [1/1], Step [111/113], Loss: 5.5999
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6262
+Epoch [1/1], Step [1/113], Loss: 7.7466
+Epoch [1/1], Step [11/113], Loss: 7.2573
+Epoch [1/1], Step [21/113], Loss: 7.0169
+Epoch [1/1], Step [31/113], Loss: 6.8158
+Epoch [1/1], Step [41/113], Loss: 6.7145
+Epoch [1/1], Step [51/113], Loss: 6.4778
+Epoch [1/1], Step [61/113], Loss: 6.3909
+Epoch [1/1], Step [71/113], Loss: 6.1940
+Epoch [1/1], Step [81/113], Loss: 6.0280
+Epoch [1/1], Step [91/113], Loss: 5.6915
+Epoch [1/1], Step [101/113], Loss: 5.6258
+Epoch [1/1], Step [111/113], Loss: 5.5437
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6838
+Epoch [1/1], Step [11/113], Loss: 7.2220
+Epoch [1/1], Step [21/113], Loss: 6.6948
+Epoch [1/1], Step [31/113], Loss: 6.5914
+Epoch [1/1], Step [41/113], Loss: 6.6394
+Epoch [1/1], Step [51/113], Loss: 6.3439
+Epoch [1/1], Step [61/113], Loss: 6.1093
+Epoch [1/1], Step [71/113], Loss: 6.4401
+Epoch [1/1], Step [81/113], Loss: 5.3943
+Epoch [1/1], Step [91/113], Loss: 5.5006
+Epoch [1/1], Step [101/113], Loss: 4.9929
+Epoch [1/1], Step [111/113], Loss: 4.7004
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7312
+Epoch [1/1], Step [11/113], Loss: 7.4907
+Epoch [1/1], Step [21/113], Loss: 6.7971
+Epoch [1/1], Step [31/113], Loss: 6.7264
+Epoch [1/1], Step [41/113], Loss: 6.6090
+Epoch [1/1], Step [51/113], Loss: 6.2757
+Epoch [1/1], Step [61/113], Loss: 6.2955
+Epoch [1/1], Step [71/113], Loss: 5.9390
+Epoch [1/1], Step [81/113], Loss: 5.5524
+Epoch [1/1], Step [91/113], Loss: 5.4275
+Epoch [1/1], Step [101/113], Loss: 5.3564
+Epoch [1/1], Step [111/113], Loss: 5.1800
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6822
+Epoch [1/1], Step [11/113], Loss: 7.5644
+Epoch [1/1], Step [21/113], Loss: 7.0512
+Epoch [1/1], Step [31/113], Loss: 6.8607
+Epoch [1/1], Step [41/113], Loss: 6.5201
+Epoch [1/1], Step [51/113], Loss: 6.4038
+Epoch [1/1], Step [61/113], Loss: 6.3761
+Epoch [1/1], Step [71/113], Loss: 6.2667
+Epoch [1/1], Step [81/113], Loss: 6.1453
+Epoch [1/1], Step [91/113], Loss: 6.0898
+Epoch [1/1], Step [101/113], Loss: 5.8033
+Epoch [1/1], Step [111/113], Loss: 5.5634
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7682
+Epoch [1/1], Step [11/113], Loss: 7.3061
+Epoch [1/1], Step [21/113], Loss: 7.0528
+Epoch [1/1], Step [31/113], Loss: 6.8248
+Epoch [1/1], Step [41/113], Loss: 6.7326
+Epoch [1/1], Step [51/113], Loss: 6.0822
+Epoch [1/1], Step [61/113], Loss: 6.5205
+Epoch [1/1], Step [71/113], Loss: 5.9579
+Epoch [1/1], Step [81/113], Loss: 5.4965
+Epoch [1/1], Step [91/113], Loss: 5.4735
+Epoch [1/1], Step [101/113], Loss: 4.9792
+Epoch [1/1], Step [111/113], Loss: 5.1721
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6284
+Epoch [1/1], Step [1/113], Loss: 7.7853
+Epoch [1/1], Step [11/113], Loss: 7.4633
+Epoch [1/1], Step [21/113], Loss: 6.9345
+Epoch [1/1], Step [31/113], Loss: 6.6395
+Epoch [1/1], Step [41/113], Loss: 6.4667
+Epoch [1/1], Step [51/113], Loss: 6.4476
+Epoch [1/1], Step [61/113], Loss: 5.8846
+Epoch [1/1], Step [71/113], Loss: 6.0565
+Epoch [1/1], Step [81/113], Loss: 6.0557
+Epoch [1/1], Step [91/113], Loss: 5.3715
+Epoch [1/1], Step [101/113], Loss: 5.5993
+Epoch [1/1], Step [111/113], Loss: 5.3117
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7649
+Epoch [1/1], Step [11/113], Loss: 7.3691
+Epoch [1/1], Step [21/113], Loss: 7.0164
+Epoch [1/1], Step [31/113], Loss: 6.8415
+Epoch [1/1], Step [41/113], Loss: 6.3496
+Epoch [1/1], Step [51/113], Loss: 6.6686
+Epoch [1/1], Step [61/113], Loss: 6.1926
+Epoch [1/1], Step [71/113], Loss: 6.0827
+Epoch [1/1], Step [81/113], Loss: 5.9795
+Epoch [1/1], Step [91/113], Loss: 5.7122
+Epoch [1/1], Step [101/113], Loss: 5.6508
+Epoch [1/1], Step [111/113], Loss: 5.2386
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6062
+Epoch [1/1], Step [11/113], Loss: 6.9919
+Epoch [1/1], Step [21/113], Loss: 7.1002
+Epoch [1/1], Step [31/113], Loss: 6.8355
+Epoch [1/1], Step [41/113], Loss: 6.3853
+Epoch [1/1], Step [51/113], Loss: 5.9662
+Epoch [1/1], Step [61/113], Loss: 5.9912
+Epoch [1/1], Step [71/113], Loss: 5.8864
+Epoch [1/1], Step [81/113], Loss: 5.5998
+Epoch [1/1], Step [91/113], Loss: 6.1424
+Epoch [1/1], Step [101/113], Loss: 5.2488
+Epoch [1/1], Step [111/113], Loss: 5.2414
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7196
+Epoch [1/1], Step [11/113], Loss: 7.2903
+Epoch [1/1], Step [21/113], Loss: 6.9616
+Epoch [1/1], Step [31/113], Loss: 6.7350
+Epoch [1/1], Step [41/113], Loss: 6.6134
+Epoch [1/1], Step [51/113], Loss: 6.4819
+Epoch [1/1], Step [61/113], Loss: 6.3269
+Epoch [1/1], Step [71/113], Loss: 6.2333
+Epoch [1/1], Step [81/113], Loss: 6.1088
+Epoch [1/1], Step [91/113], Loss: 5.6980
+Epoch [1/1], Step [101/113], Loss: 5.5464
+Epoch [1/1], Step [111/113], Loss: 5.2269
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7053
+Epoch [1/1], Step [11/113], Loss: 7.3662
+Epoch [1/1], Step [21/113], Loss: 7.1915
+Epoch [1/1], Step [31/113], Loss: 6.8048
+Epoch [1/1], Step [41/113], Loss: 6.6437
+Epoch [1/1], Step [51/113], Loss: 6.3572
+Epoch [1/1], Step [61/113], Loss: 6.0609
+Epoch [1/1], Step [71/113], Loss: 5.9887
+Epoch [1/1], Step [81/113], Loss: 5.9391
+Epoch [1/1], Step [91/113], Loss: 5.6446
+Epoch [1/1], Step [101/113], Loss: 6.1148
+Epoch [1/1], Step [111/113], Loss: 5.2588
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6175
+Best params for Fold 14: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6284
+Epoch [1/1], Step [1/179], Loss: 7.6839
+Epoch [1/1], Step [11/179], Loss: 7.3293
+Epoch [1/1], Step [21/179], Loss: 7.2258
+Epoch [1/1], Step [31/179], Loss: 6.7462
+Epoch [1/1], Step [41/179], Loss: 6.3781
+Epoch [1/1], Step [51/179], Loss: 6.2786
+Epoch [1/1], Step [61/179], Loss: 6.4470
+Epoch [1/1], Step [71/179], Loss: 5.9809
+Epoch [1/1], Step [81/179], Loss: 6.2514
+Epoch [1/1], Step [91/179], Loss: 5.4018
+Epoch [1/1], Step [101/179], Loss: 5.8429
+Epoch [1/1], Step [111/179], Loss: 5.3320
+Epoch [1/1], Step [121/179], Loss: 4.8367
+Epoch [1/1], Step [131/179], Loss: 4.9380
+Epoch [1/1], Step [141/179], Loss: 4.5770
+Epoch [1/1], Step [151/179], Loss: 4.5930
+Epoch [1/1], Step [161/179], Loss: 4.5531
+Epoch [1/1], Step [171/179], Loss: 4.2677
+Cleared GPU memory.
+Outer Fold 14 Accuracy: 0.6433
+
+--- Outer Fold 15 ---
+Epoch [1/1], Step [1/113], Loss: 7.7652
+Epoch [1/1], Step [11/113], Loss: 7.3878
+Epoch [1/1], Step [21/113], Loss: 7.0595
+Epoch [1/1], Step [31/113], Loss: 6.8371
+Epoch [1/1], Step [41/113], Loss: 6.6424
+Epoch [1/1], Step [51/113], Loss: 6.3903
+Epoch [1/1], Step [61/113], Loss: 6.3205
+Epoch [1/1], Step [71/113], Loss: 6.1386
+Epoch [1/1], Step [81/113], Loss: 5.9880
+Epoch [1/1], Step [91/113], Loss: 5.8420
+Epoch [1/1], Step [101/113], Loss: 5.7073
+Epoch [1/1], Step [111/113], Loss: 5.4051
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6914
+Epoch [1/1], Step [11/113], Loss: 7.1571
+Epoch [1/1], Step [21/113], Loss: 6.8634
+Epoch [1/1], Step [31/113], Loss: 6.5306
+Epoch [1/1], Step [41/113], Loss: 6.1567
+Epoch [1/1], Step [51/113], Loss: 6.1190
+Epoch [1/1], Step [61/113], Loss: 6.2452
+Epoch [1/1], Step [71/113], Loss: 5.7994
+Epoch [1/1], Step [81/113], Loss: 5.5327
+Epoch [1/1], Step [91/113], Loss: 5.3226
+Epoch [1/1], Step [101/113], Loss: 5.0714
+Epoch [1/1], Step [111/113], Loss: 4.9795
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7160
+Epoch [1/1], Step [11/113], Loss: 7.2899
+Epoch [1/1], Step [21/113], Loss: 7.0056
+Epoch [1/1], Step [31/113], Loss: 7.1075
+Epoch [1/1], Step [41/113], Loss: 6.5299
+Epoch [1/1], Step [51/113], Loss: 6.4102
+Epoch [1/1], Step [61/113], Loss: 6.1148
+Epoch [1/1], Step [71/113], Loss: 6.2079
+Epoch [1/1], Step [81/113], Loss: 5.9649
+Epoch [1/1], Step [91/113], Loss: 5.7478
+Epoch [1/1], Step [101/113], Loss: 5.5258
+Epoch [1/1], Step [111/113], Loss: 5.4078
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7540
+Epoch [1/1], Step [11/113], Loss: 7.2538
+Epoch [1/1], Step [21/113], Loss: 7.0236
+Epoch [1/1], Step [31/113], Loss: 6.8335
+Epoch [1/1], Step [41/113], Loss: 6.4853
+Epoch [1/1], Step [51/113], Loss: 6.3929
+Epoch [1/1], Step [61/113], Loss: 6.4596
+Epoch [1/1], Step [71/113], Loss: 6.0582
+Epoch [1/1], Step [81/113], Loss: 5.8470
+Epoch [1/1], Step [91/113], Loss: 5.5258
+Epoch [1/1], Step [101/113], Loss: 5.5817
+Epoch [1/1], Step [111/113], Loss: 5.3298
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7236
+Epoch [1/1], Step [11/113], Loss: 7.4351
+Epoch [1/1], Step [21/113], Loss: 6.9461
+Epoch [1/1], Step [31/113], Loss: 6.8173
+Epoch [1/1], Step [41/113], Loss: 6.5353
+Epoch [1/1], Step [51/113], Loss: 6.3913
+Epoch [1/1], Step [61/113], Loss: 6.4853
+Epoch [1/1], Step [71/113], Loss: 6.3542
+Epoch [1/1], Step [81/113], Loss: 5.7604
+Epoch [1/1], Step [91/113], Loss: 6.2800
+Epoch [1/1], Step [101/113], Loss: 5.5092
+Epoch [1/1], Step [111/113], Loss: 5.3998
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6283
+Epoch [1/1], Step [1/113], Loss: 7.7195
+Epoch [1/1], Step [11/113], Loss: 7.4640
+Epoch [1/1], Step [21/113], Loss: 7.0215
+Epoch [1/1], Step [31/113], Loss: 6.7423
+Epoch [1/1], Step [41/113], Loss: 6.7567
+Epoch [1/1], Step [51/113], Loss: 6.4874
+Epoch [1/1], Step [61/113], Loss: 6.3429
+Epoch [1/1], Step [71/113], Loss: 6.0451
+Epoch [1/1], Step [81/113], Loss: 5.8450
+Epoch [1/1], Step [91/113], Loss: 5.8461
+Epoch [1/1], Step [101/113], Loss: 5.6232
+Epoch [1/1], Step [111/113], Loss: 5.3791
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6644
+Epoch [1/1], Step [11/113], Loss: 7.2534
+Epoch [1/1], Step [21/113], Loss: 6.8213
+Epoch [1/1], Step [31/113], Loss: 6.7374
+Epoch [1/1], Step [41/113], Loss: 6.2822
+Epoch [1/1], Step [51/113], Loss: 6.1790
+Epoch [1/1], Step [61/113], Loss: 6.0395
+Epoch [1/1], Step [71/113], Loss: 5.9961
+Epoch [1/1], Step [81/113], Loss: 5.9207
+Epoch [1/1], Step [91/113], Loss: 5.5501
+Epoch [1/1], Step [101/113], Loss: 5.6843
+Epoch [1/1], Step [111/113], Loss: 5.2118
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6840
+Epoch [1/1], Step [11/113], Loss: 7.4288
+Epoch [1/1], Step [21/113], Loss: 6.9379
+Epoch [1/1], Step [31/113], Loss: 6.6025
+Epoch [1/1], Step [41/113], Loss: 6.5175
+Epoch [1/1], Step [51/113], Loss: 6.1819
+Epoch [1/1], Step [61/113], Loss: 6.1294
+Epoch [1/1], Step [71/113], Loss: 6.0713
+Epoch [1/1], Step [81/113], Loss: 5.9806
+Epoch [1/1], Step [91/113], Loss: 5.6257
+Epoch [1/1], Step [101/113], Loss: 5.6576
+Epoch [1/1], Step [111/113], Loss: 5.5240
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6934
+Epoch [1/1], Step [11/113], Loss: 7.3421
+Epoch [1/1], Step [21/113], Loss: 7.0484
+Epoch [1/1], Step [31/113], Loss: 6.8795
+Epoch [1/1], Step [41/113], Loss: 6.6981
+Epoch [1/1], Step [51/113], Loss: 6.6311
+Epoch [1/1], Step [61/113], Loss: 6.4858
+Epoch [1/1], Step [71/113], Loss: 6.2315
+Epoch [1/1], Step [81/113], Loss: 6.2532
+Epoch [1/1], Step [91/113], Loss: 6.1662
+Epoch [1/1], Step [101/113], Loss: 5.9228
+Epoch [1/1], Step [111/113], Loss: 5.6875
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6608
+Epoch [1/1], Step [11/113], Loss: 7.7027
+Epoch [1/1], Step [21/113], Loss: 7.3285
+Epoch [1/1], Step [31/113], Loss: 6.5317
+Epoch [1/1], Step [41/113], Loss: 6.3285
+Epoch [1/1], Step [51/113], Loss: 6.2717
+Epoch [1/1], Step [61/113], Loss: 5.7491
+Epoch [1/1], Step [71/113], Loss: 6.3426
+Epoch [1/1], Step [81/113], Loss: 5.9223
+Epoch [1/1], Step [91/113], Loss: 5.3769
+Epoch [1/1], Step [101/113], Loss: 5.9549
+Epoch [1/1], Step [111/113], Loss: 5.6222
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6287
+Epoch [1/1], Step [1/113], Loss: 7.6271
+Epoch [1/1], Step [11/113], Loss: 7.4806
+Epoch [1/1], Step [21/113], Loss: 7.0563
+Epoch [1/1], Step [31/113], Loss: 6.8561
+Epoch [1/1], Step [41/113], Loss: 6.7141
+Epoch [1/1], Step [51/113], Loss: 6.4120
+Epoch [1/1], Step [61/113], Loss: 5.9457
+Epoch [1/1], Step [71/113], Loss: 5.9066
+Epoch [1/1], Step [81/113], Loss: 5.7962
+Epoch [1/1], Step [91/113], Loss: 6.1237
+Epoch [1/1], Step [101/113], Loss: 5.6611
+Epoch [1/1], Step [111/113], Loss: 5.7642
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7379
+Epoch [1/1], Step [11/113], Loss: 7.2087
+Epoch [1/1], Step [21/113], Loss: 7.3660
+Epoch [1/1], Step [31/113], Loss: 6.8735
+Epoch [1/1], Step [41/113], Loss: 6.4017
+Epoch [1/1], Step [51/113], Loss: 6.2102
+Epoch [1/1], Step [61/113], Loss: 6.6709
+Epoch [1/1], Step [71/113], Loss: 6.7659
+Epoch [1/1], Step [81/113], Loss: 6.3637
+Epoch [1/1], Step [91/113], Loss: 5.3195
+Epoch [1/1], Step [101/113], Loss: 4.4501
+Epoch [1/1], Step [111/113], Loss: 5.3118
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6690
+Epoch [1/1], Step [11/113], Loss: 7.4539
+Epoch [1/1], Step [21/113], Loss: 7.6150
+Epoch [1/1], Step [31/113], Loss: 6.6815
+Epoch [1/1], Step [41/113], Loss: 6.5556
+Epoch [1/1], Step [51/113], Loss: 6.3121
+Epoch [1/1], Step [61/113], Loss: 5.6444
+Epoch [1/1], Step [71/113], Loss: 5.5882
+Epoch [1/1], Step [81/113], Loss: 6.3214
+Epoch [1/1], Step [91/113], Loss: 6.0672
+Epoch [1/1], Step [101/113], Loss: 5.8773
+Epoch [1/1], Step [111/113], Loss: 4.8707
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6481
+Epoch [1/1], Step [11/113], Loss: 7.2804
+Epoch [1/1], Step [21/113], Loss: 6.7346
+Epoch [1/1], Step [31/113], Loss: 6.8427
+Epoch [1/1], Step [41/113], Loss: 6.7553
+Epoch [1/1], Step [51/113], Loss: 6.2502
+Epoch [1/1], Step [61/113], Loss: 6.5064
+Epoch [1/1], Step [71/113], Loss: 6.1456
+Epoch [1/1], Step [81/113], Loss: 5.6943
+Epoch [1/1], Step [91/113], Loss: 5.9303
+Epoch [1/1], Step [101/113], Loss: 5.6793
+Epoch [1/1], Step [111/113], Loss: 5.6349
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7562
+Epoch [1/1], Step [11/113], Loss: 7.3191
+Epoch [1/1], Step [21/113], Loss: 7.0449
+Epoch [1/1], Step [31/113], Loss: 6.7888
+Epoch [1/1], Step [41/113], Loss: 6.5884
+Epoch [1/1], Step [51/113], Loss: 6.4781
+Epoch [1/1], Step [61/113], Loss: 6.3169
+Epoch [1/1], Step [71/113], Loss: 6.1136
+Epoch [1/1], Step [81/113], Loss: 6.0902
+Epoch [1/1], Step [91/113], Loss: 5.7728
+Epoch [1/1], Step [101/113], Loss: 5.6935
+Epoch [1/1], Step [111/113], Loss: 5.4847
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6194
+Best params for Fold 15: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6287
+Epoch [1/1], Step [1/179], Loss: 7.6985
+Epoch [1/1], Step [11/179], Loss: 7.3710
+Epoch [1/1], Step [21/179], Loss: 7.2819
+Epoch [1/1], Step [31/179], Loss: 6.8643
+Epoch [1/1], Step [41/179], Loss: 6.6378
+Epoch [1/1], Step [51/179], Loss: 6.7503
+Epoch [1/1], Step [61/179], Loss: 6.3368
+Epoch [1/1], Step [71/179], Loss: 6.2873
+Epoch [1/1], Step [81/179], Loss: 6.2200
+Epoch [1/1], Step [91/179], Loss: 6.2435
+Epoch [1/1], Step [101/179], Loss: 5.6604
+Epoch [1/1], Step [111/179], Loss: 5.7383
+Epoch [1/1], Step [121/179], Loss: 5.5687
+Epoch [1/1], Step [131/179], Loss: 5.3827
+Epoch [1/1], Step [141/179], Loss: 5.2040
+Epoch [1/1], Step [151/179], Loss: 5.2913
+Epoch [1/1], Step [161/179], Loss: 4.9712
+Epoch [1/1], Step [171/179], Loss: 4.5788
+Cleared GPU memory.
+Outer Fold 15 Accuracy: 0.5833
+
+--- Outer Fold 16 ---
+Epoch [1/1], Step [1/113], Loss: 7.6350
+Epoch [1/1], Step [11/113], Loss: 7.1754
+Epoch [1/1], Step [21/113], Loss: 6.7755
+Epoch [1/1], Step [31/113], Loss: 6.5537
+Epoch [1/1], Step [41/113], Loss: 6.4608
+Epoch [1/1], Step [51/113], Loss: 6.2395
+Epoch [1/1], Step [61/113], Loss: 6.0769
+Epoch [1/1], Step [71/113], Loss: 5.8280
+Epoch [1/1], Step [81/113], Loss: 5.9161
+Epoch [1/1], Step [91/113], Loss: 5.5241
+Epoch [1/1], Step [101/113], Loss: 5.6403
+Epoch [1/1], Step [111/113], Loss: 5.3205
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7118
+Epoch [1/1], Step [11/113], Loss: 7.2960
+Epoch [1/1], Step [21/113], Loss: 6.7249
+Epoch [1/1], Step [31/113], Loss: 6.5262
+Epoch [1/1], Step [41/113], Loss: 6.7111
+Epoch [1/1], Step [51/113], Loss: 6.7671
+Epoch [1/1], Step [61/113], Loss: 5.9906
+Epoch [1/1], Step [71/113], Loss: 6.1774
+Epoch [1/1], Step [81/113], Loss: 5.7616
+Epoch [1/1], Step [91/113], Loss: 6.1867
+Epoch [1/1], Step [101/113], Loss: 5.7128
+Epoch [1/1], Step [111/113], Loss: 5.5423
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6899
+Epoch [1/1], Step [11/113], Loss: 7.4487
+Epoch [1/1], Step [21/113], Loss: 7.0486
+Epoch [1/1], Step [31/113], Loss: 6.6526
+Epoch [1/1], Step [41/113], Loss: 6.7108
+Epoch [1/1], Step [51/113], Loss: 6.4125
+Epoch [1/1], Step [61/113], Loss: 6.1081
+Epoch [1/1], Step [71/113], Loss: 6.0366
+Epoch [1/1], Step [81/113], Loss: 5.7604
+Epoch [1/1], Step [91/113], Loss: 5.1549
+Epoch [1/1], Step [101/113], Loss: 5.4982
+Epoch [1/1], Step [111/113], Loss: 4.8223
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5906
+Epoch [1/1], Step [11/113], Loss: 7.2732
+Epoch [1/1], Step [21/113], Loss: 6.9345
+Epoch [1/1], Step [31/113], Loss: 6.7216
+Epoch [1/1], Step [41/113], Loss: 6.5667
+Epoch [1/1], Step [51/113], Loss: 6.4303
+Epoch [1/1], Step [61/113], Loss: 6.3046
+Epoch [1/1], Step [71/113], Loss: 6.2120
+Epoch [1/1], Step [81/113], Loss: 6.1168
+Epoch [1/1], Step [91/113], Loss: 5.9584
+Epoch [1/1], Step [101/113], Loss: 5.8034
+Epoch [1/1], Step [111/113], Loss: 5.5518
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6701
+Epoch [1/1], Step [11/113], Loss: 7.5700
+Epoch [1/1], Step [21/113], Loss: 7.1093
+Epoch [1/1], Step [31/113], Loss: 6.5315
+Epoch [1/1], Step [41/113], Loss: 6.6038
+Epoch [1/1], Step [51/113], Loss: 6.5055
+Epoch [1/1], Step [61/113], Loss: 6.0050
+Epoch [1/1], Step [71/113], Loss: 6.7333
+Epoch [1/1], Step [81/113], Loss: 5.2886
+Epoch [1/1], Step [91/113], Loss: 5.4971
+Epoch [1/1], Step [101/113], Loss: 5.7379
+Epoch [1/1], Step [111/113], Loss: 4.7838
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6258
+Epoch [1/1], Step [1/113], Loss: 7.6765
+Epoch [1/1], Step [11/113], Loss: 7.4119
+Epoch [1/1], Step [21/113], Loss: 6.8003
+Epoch [1/1], Step [31/113], Loss: 6.9605
+Epoch [1/1], Step [41/113], Loss: 6.6585
+Epoch [1/1], Step [51/113], Loss: 6.4217
+Epoch [1/1], Step [61/113], Loss: 6.1924
+Epoch [1/1], Step [71/113], Loss: 6.0103
+Epoch [1/1], Step [81/113], Loss: 5.9633
+Epoch [1/1], Step [91/113], Loss: 5.7003
+Epoch [1/1], Step [101/113], Loss: 5.0773
+Epoch [1/1], Step [111/113], Loss: 5.5591
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6677
+Epoch [1/1], Step [11/113], Loss: 7.3301
+Epoch [1/1], Step [21/113], Loss: 7.0371
+Epoch [1/1], Step [31/113], Loss: 6.8951
+Epoch [1/1], Step [41/113], Loss: 6.6918
+Epoch [1/1], Step [51/113], Loss: 6.5195
+Epoch [1/1], Step [61/113], Loss: 6.5531
+Epoch [1/1], Step [71/113], Loss: 6.2144
+Epoch [1/1], Step [81/113], Loss: 6.3092
+Epoch [1/1], Step [91/113], Loss: 5.9758
+Epoch [1/1], Step [101/113], Loss: 5.7600
+Epoch [1/1], Step [111/113], Loss: 5.7051
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6216
+Epoch [1/1], Step [11/113], Loss: 7.4941
+Epoch [1/1], Step [21/113], Loss: 6.9497
+Epoch [1/1], Step [31/113], Loss: 6.7408
+Epoch [1/1], Step [41/113], Loss: 6.5761
+Epoch [1/1], Step [51/113], Loss: 6.4311
+Epoch [1/1], Step [61/113], Loss: 6.1635
+Epoch [1/1], Step [71/113], Loss: 5.9060
+Epoch [1/1], Step [81/113], Loss: 5.7759
+Epoch [1/1], Step [91/113], Loss: 5.6030
+Epoch [1/1], Step [101/113], Loss: 5.7178
+Epoch [1/1], Step [111/113], Loss: 5.4102
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6481
+Epoch [1/1], Step [11/113], Loss: 7.2061
+Epoch [1/1], Step [21/113], Loss: 6.9843
+Epoch [1/1], Step [31/113], Loss: 6.8005
+Epoch [1/1], Step [41/113], Loss: 6.2974
+Epoch [1/1], Step [51/113], Loss: 6.0157
+Epoch [1/1], Step [61/113], Loss: 5.9301
+Epoch [1/1], Step [71/113], Loss: 5.6462
+Epoch [1/1], Step [81/113], Loss: 6.1723
+Epoch [1/1], Step [91/113], Loss: 5.1003
+Epoch [1/1], Step [101/113], Loss: 5.5138
+Epoch [1/1], Step [111/113], Loss: 4.6697
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6601
+Epoch [1/1], Step [11/113], Loss: 7.4872
+Epoch [1/1], Step [21/113], Loss: 6.8674
+Epoch [1/1], Step [31/113], Loss: 6.7220
+Epoch [1/1], Step [41/113], Loss: 6.5186
+Epoch [1/1], Step [51/113], Loss: 6.5052
+Epoch [1/1], Step [61/113], Loss: 6.5154
+Epoch [1/1], Step [71/113], Loss: 6.4920
+Epoch [1/1], Step [81/113], Loss: 6.1486
+Epoch [1/1], Step [91/113], Loss: 6.0769
+Epoch [1/1], Step [101/113], Loss: 5.7058
+Epoch [1/1], Step [111/113], Loss: 5.9602
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6172
+Epoch [1/1], Step [1/113], Loss: 7.7191
+Epoch [1/1], Step [11/113], Loss: 7.4720
+Epoch [1/1], Step [21/113], Loss: 6.8686
+Epoch [1/1], Step [31/113], Loss: 7.2262
+Epoch [1/1], Step [41/113], Loss: 6.8270
+Epoch [1/1], Step [51/113], Loss: 6.3692
+Epoch [1/1], Step [61/113], Loss: 6.3940
+Epoch [1/1], Step [71/113], Loss: 6.4065
+Epoch [1/1], Step [81/113], Loss: 6.1026
+Epoch [1/1], Step [91/113], Loss: 5.6368
+Epoch [1/1], Step [101/113], Loss: 5.6541
+Epoch [1/1], Step [111/113], Loss: 5.4185
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6708
+Epoch [1/1], Step [11/113], Loss: 7.2831
+Epoch [1/1], Step [21/113], Loss: 6.9178
+Epoch [1/1], Step [31/113], Loss: 6.6883
+Epoch [1/1], Step [41/113], Loss: 6.4941
+Epoch [1/1], Step [51/113], Loss: 6.2548
+Epoch [1/1], Step [61/113], Loss: 6.0617
+Epoch [1/1], Step [71/113], Loss: 6.0584
+Epoch [1/1], Step [81/113], Loss: 5.8406
+Epoch [1/1], Step [91/113], Loss: 5.9031
+Epoch [1/1], Step [101/113], Loss: 5.6673
+Epoch [1/1], Step [111/113], Loss: 5.4827
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7645
+Epoch [1/1], Step [11/113], Loss: 7.3462
+Epoch [1/1], Step [21/113], Loss: 7.1489
+Epoch [1/1], Step [31/113], Loss: 6.9648
+Epoch [1/1], Step [41/113], Loss: 6.6206
+Epoch [1/1], Step [51/113], Loss: 6.4820
+Epoch [1/1], Step [61/113], Loss: 6.4260
+Epoch [1/1], Step [71/113], Loss: 6.4029
+Epoch [1/1], Step [81/113], Loss: 6.0135
+Epoch [1/1], Step [91/113], Loss: 6.2098
+Epoch [1/1], Step [101/113], Loss: 5.8331
+Epoch [1/1], Step [111/113], Loss: 5.9144
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7571
+Epoch [1/1], Step [11/113], Loss: 7.3488
+Epoch [1/1], Step [21/113], Loss: 7.0190
+Epoch [1/1], Step [31/113], Loss: 6.8988
+Epoch [1/1], Step [41/113], Loss: 6.7677
+Epoch [1/1], Step [51/113], Loss: 6.5259
+Epoch [1/1], Step [61/113], Loss: 6.2822
+Epoch [1/1], Step [71/113], Loss: 6.2003
+Epoch [1/1], Step [81/113], Loss: 6.0528
+Epoch [1/1], Step [91/113], Loss: 6.2017
+Epoch [1/1], Step [101/113], Loss: 5.6915
+Epoch [1/1], Step [111/113], Loss: 5.4662
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7344
+Epoch [1/1], Step [11/113], Loss: 7.4363
+Epoch [1/1], Step [21/113], Loss: 6.5711
+Epoch [1/1], Step [31/113], Loss: 7.1027
+Epoch [1/1], Step [41/113], Loss: 6.3939
+Epoch [1/1], Step [51/113], Loss: 6.9592
+Epoch [1/1], Step [61/113], Loss: 6.0584
+Epoch [1/1], Step [71/113], Loss: 5.8531
+Epoch [1/1], Step [81/113], Loss: 5.7960
+Epoch [1/1], Step [91/113], Loss: 5.5461
+Epoch [1/1], Step [101/113], Loss: 5.6106
+Epoch [1/1], Step [111/113], Loss: 5.3103
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6131
+Best params for Fold 16: {'kernel_size': 1, 'C': 0.01} with accuracy 0.6258
+Epoch [1/1], Step [1/179], Loss: 7.7024
+Epoch [1/1], Step [11/179], Loss: 7.1901
+Epoch [1/1], Step [21/179], Loss: 7.3190
+Epoch [1/1], Step [31/179], Loss: 6.7729
+Epoch [1/1], Step [41/179], Loss: 6.3225
+Epoch [1/1], Step [51/179], Loss: 6.6322
+Epoch [1/1], Step [61/179], Loss: 6.0046
+Epoch [1/1], Step [71/179], Loss: 5.8564
+Epoch [1/1], Step [81/179], Loss: 5.8881
+Epoch [1/1], Step [91/179], Loss: 5.9131
+Epoch [1/1], Step [101/179], Loss: 5.1688
+Epoch [1/1], Step [111/179], Loss: 5.4923
+Epoch [1/1], Step [121/179], Loss: 5.3437
+Epoch [1/1], Step [131/179], Loss: 5.2655
+Epoch [1/1], Step [141/179], Loss: 4.8897
+Epoch [1/1], Step [151/179], Loss: 5.1255
+Epoch [1/1], Step [161/179], Loss: 4.5440
+Epoch [1/1], Step [171/179], Loss: 4.5520
+Cleared GPU memory.
+Outer Fold 16 Accuracy: 0.6633
+
+--- Outer Fold 17 ---
+Epoch [1/1], Step [1/113], Loss: 7.7415
+Epoch [1/1], Step [11/113], Loss: 7.0724
+Epoch [1/1], Step [21/113], Loss: 7.0493
+Epoch [1/1], Step [31/113], Loss: 6.1365
+Epoch [1/1], Step [41/113], Loss: 6.3766
+Epoch [1/1], Step [51/113], Loss: 6.2954
+Epoch [1/1], Step [61/113], Loss: 6.1272
+Epoch [1/1], Step [71/113], Loss: 5.7963
+Epoch [1/1], Step [81/113], Loss: 5.3913
+Epoch [1/1], Step [91/113], Loss: 5.4416
+Epoch [1/1], Step [101/113], Loss: 4.9966
+Epoch [1/1], Step [111/113], Loss: 5.1181
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6872
+Epoch [1/1], Step [11/113], Loss: 7.0295
+Epoch [1/1], Step [21/113], Loss: 6.9808
+Epoch [1/1], Step [31/113], Loss: 6.5465
+Epoch [1/1], Step [41/113], Loss: 6.4698
+Epoch [1/1], Step [51/113], Loss: 6.0475
+Epoch [1/1], Step [61/113], Loss: 6.6495
+Epoch [1/1], Step [71/113], Loss: 5.4285
+Epoch [1/1], Step [81/113], Loss: 5.8357
+Epoch [1/1], Step [91/113], Loss: 5.8114
+Epoch [1/1], Step [101/113], Loss: 4.8502
+Epoch [1/1], Step [111/113], Loss: 4.8734
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6901
+Epoch [1/1], Step [11/113], Loss: 7.2601
+Epoch [1/1], Step [21/113], Loss: 6.8176
+Epoch [1/1], Step [31/113], Loss: 6.7052
+Epoch [1/1], Step [41/113], Loss: 6.1499
+Epoch [1/1], Step [51/113], Loss: 6.5422
+Epoch [1/1], Step [61/113], Loss: 6.1126
+Epoch [1/1], Step [71/113], Loss: 5.4094
+Epoch [1/1], Step [81/113], Loss: 5.7376
+Epoch [1/1], Step [91/113], Loss: 5.9493
+Epoch [1/1], Step [101/113], Loss: 5.2299
+Epoch [1/1], Step [111/113], Loss: 4.9459
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6830
+Epoch [1/1], Step [11/113], Loss: 7.3910
+Epoch [1/1], Step [21/113], Loss: 7.0644
+Epoch [1/1], Step [31/113], Loss: 6.9905
+Epoch [1/1], Step [41/113], Loss: 6.6996
+Epoch [1/1], Step [51/113], Loss: 6.3782
+Epoch [1/1], Step [61/113], Loss: 6.1403
+Epoch [1/1], Step [71/113], Loss: 5.8738
+Epoch [1/1], Step [81/113], Loss: 5.7071
+Epoch [1/1], Step [91/113], Loss: 5.5775
+Epoch [1/1], Step [101/113], Loss: 5.8909
+Epoch [1/1], Step [111/113], Loss: 5.2042
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5465
+Epoch [1/1], Step [11/113], Loss: 7.1677
+Epoch [1/1], Step [21/113], Loss: 6.8618
+Epoch [1/1], Step [31/113], Loss: 6.4324
+Epoch [1/1], Step [41/113], Loss: 7.1049
+Epoch [1/1], Step [51/113], Loss: 6.2691
+Epoch [1/1], Step [61/113], Loss: 6.0711
+Epoch [1/1], Step [71/113], Loss: 5.5770
+Epoch [1/1], Step [81/113], Loss: 6.1684
+Epoch [1/1], Step [91/113], Loss: 5.7328
+Epoch [1/1], Step [101/113], Loss: 5.9121
+Epoch [1/1], Step [111/113], Loss: 6.0991
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6343
+Epoch [1/1], Step [1/113], Loss: 7.6729
+Epoch [1/1], Step [11/113], Loss: 7.2505
+Epoch [1/1], Step [21/113], Loss: 7.1743
+Epoch [1/1], Step [31/113], Loss: 6.7351
+Epoch [1/1], Step [41/113], Loss: 6.7638
+Epoch [1/1], Step [51/113], Loss: 6.9120
+Epoch [1/1], Step [61/113], Loss: 6.3760
+Epoch [1/1], Step [71/113], Loss: 6.0266
+Epoch [1/1], Step [81/113], Loss: 6.3847
+Epoch [1/1], Step [91/113], Loss: 5.6208
+Epoch [1/1], Step [101/113], Loss: 5.4362
+Epoch [1/1], Step [111/113], Loss: 5.5728
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6732
+Epoch [1/1], Step [11/113], Loss: 7.3671
+Epoch [1/1], Step [21/113], Loss: 7.1289
+Epoch [1/1], Step [31/113], Loss: 6.7667
+Epoch [1/1], Step [41/113], Loss: 6.5467
+Epoch [1/1], Step [51/113], Loss: 6.2177
+Epoch [1/1], Step [61/113], Loss: 6.0335
+Epoch [1/1], Step [71/113], Loss: 6.1603
+Epoch [1/1], Step [81/113], Loss: 5.8572
+Epoch [1/1], Step [91/113], Loss: 5.5953
+Epoch [1/1], Step [101/113], Loss: 5.5834
+Epoch [1/1], Step [111/113], Loss: 5.3987
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6745
+Epoch [1/1], Step [11/113], Loss: 7.5066
+Epoch [1/1], Step [21/113], Loss: 6.5802
+Epoch [1/1], Step [31/113], Loss: 6.2867
+Epoch [1/1], Step [41/113], Loss: 6.3755
+Epoch [1/1], Step [51/113], Loss: 7.1150
+Epoch [1/1], Step [61/113], Loss: 5.6503
+Epoch [1/1], Step [71/113], Loss: 5.9311
+Epoch [1/1], Step [81/113], Loss: 5.5380
+Epoch [1/1], Step [91/113], Loss: 5.6951
+Epoch [1/1], Step [101/113], Loss: 5.4148
+Epoch [1/1], Step [111/113], Loss: 5.5562
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7251
+Epoch [1/1], Step [11/113], Loss: 7.3451
+Epoch [1/1], Step [21/113], Loss: 7.0574
+Epoch [1/1], Step [31/113], Loss: 6.8167
+Epoch [1/1], Step [41/113], Loss: 6.7179
+Epoch [1/1], Step [51/113], Loss: 6.6788
+Epoch [1/1], Step [61/113], Loss: 6.3519
+Epoch [1/1], Step [71/113], Loss: 6.1544
+Epoch [1/1], Step [81/113], Loss: 6.1766
+Epoch [1/1], Step [91/113], Loss: 5.8955
+Epoch [1/1], Step [101/113], Loss: 6.0512
+Epoch [1/1], Step [111/113], Loss: 5.6691
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6641
+Epoch [1/1], Step [11/113], Loss: 7.4579
+Epoch [1/1], Step [21/113], Loss: 7.2096
+Epoch [1/1], Step [31/113], Loss: 6.3857
+Epoch [1/1], Step [41/113], Loss: 6.4560
+Epoch [1/1], Step [51/113], Loss: 6.1044
+Epoch [1/1], Step [61/113], Loss: 6.1350
+Epoch [1/1], Step [71/113], Loss: 5.5291
+Epoch [1/1], Step [81/113], Loss: 6.2430
+Epoch [1/1], Step [91/113], Loss: 5.4229
+Epoch [1/1], Step [101/113], Loss: 5.8509
+Epoch [1/1], Step [111/113], Loss: 5.3311
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6123
+Epoch [1/1], Step [1/113], Loss: 7.7114
+Epoch [1/1], Step [11/113], Loss: 7.0254
+Epoch [1/1], Step [21/113], Loss: 7.1537
+Epoch [1/1], Step [31/113], Loss: 6.0536
+Epoch [1/1], Step [41/113], Loss: 6.4735
+Epoch [1/1], Step [51/113], Loss: 6.6498
+Epoch [1/1], Step [61/113], Loss: 6.4184
+Epoch [1/1], Step [71/113], Loss: 5.7447
+Epoch [1/1], Step [81/113], Loss: 5.1945
+Epoch [1/1], Step [91/113], Loss: 5.8318
+Epoch [1/1], Step [101/113], Loss: 5.8632
+Epoch [1/1], Step [111/113], Loss: 6.0089
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6598
+Epoch [1/1], Step [11/113], Loss: 7.1226
+Epoch [1/1], Step [21/113], Loss: 7.4624
+Epoch [1/1], Step [31/113], Loss: 6.8834
+Epoch [1/1], Step [41/113], Loss: 6.1521
+Epoch [1/1], Step [51/113], Loss: 6.7410
+Epoch [1/1], Step [61/113], Loss: 6.3145
+Epoch [1/1], Step [71/113], Loss: 5.7876
+Epoch [1/1], Step [81/113], Loss: 5.7566
+Epoch [1/1], Step [91/113], Loss: 5.7945
+Epoch [1/1], Step [101/113], Loss: 5.4520
+Epoch [1/1], Step [111/113], Loss: 5.7223
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7060
+Epoch [1/1], Step [11/113], Loss: 7.1387
+Epoch [1/1], Step [21/113], Loss: 6.7614
+Epoch [1/1], Step [31/113], Loss: 6.7448
+Epoch [1/1], Step [41/113], Loss: 6.6644
+Epoch [1/1], Step [51/113], Loss: 6.2236
+Epoch [1/1], Step [61/113], Loss: 6.2751
+Epoch [1/1], Step [71/113], Loss: 6.1290
+Epoch [1/1], Step [81/113], Loss: 5.8162
+Epoch [1/1], Step [91/113], Loss: 5.1703
+Epoch [1/1], Step [101/113], Loss: 5.2169
+Epoch [1/1], Step [111/113], Loss: 5.0446
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6895
+Epoch [1/1], Step [11/113], Loss: 7.2614
+Epoch [1/1], Step [21/113], Loss: 6.9675
+Epoch [1/1], Step [31/113], Loss: 6.8713
+Epoch [1/1], Step [41/113], Loss: 6.7606
+Epoch [1/1], Step [51/113], Loss: 6.4350
+Epoch [1/1], Step [61/113], Loss: 6.5630
+Epoch [1/1], Step [71/113], Loss: 6.2522
+Epoch [1/1], Step [81/113], Loss: 6.0889
+Epoch [1/1], Step [91/113], Loss: 5.9267
+Epoch [1/1], Step [101/113], Loss: 5.9235
+Epoch [1/1], Step [111/113], Loss: 5.7673
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6940
+Epoch [1/1], Step [11/113], Loss: 7.3396
+Epoch [1/1], Step [21/113], Loss: 6.8831
+Epoch [1/1], Step [31/113], Loss: 6.7514
+Epoch [1/1], Step [41/113], Loss: 6.7010
+Epoch [1/1], Step [51/113], Loss: 6.4827
+Epoch [1/1], Step [61/113], Loss: 6.4432
+Epoch [1/1], Step [71/113], Loss: 5.8589
+Epoch [1/1], Step [81/113], Loss: 5.6219
+Epoch [1/1], Step [91/113], Loss: 5.5985
+Epoch [1/1], Step [101/113], Loss: 5.5644
+Epoch [1/1], Step [111/113], Loss: 5.7899
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6185
+Best params for Fold 17: {'kernel_size': 1, 'C': 0.01} with accuracy 0.6343
+Epoch [1/1], Step [1/179], Loss: 7.5976
+Epoch [1/1], Step [11/179], Loss: 7.2412
+Epoch [1/1], Step [21/179], Loss: 6.8992
+Epoch [1/1], Step [31/179], Loss: 6.7227
+Epoch [1/1], Step [41/179], Loss: 6.5448
+Epoch [1/1], Step [51/179], Loss: 6.4908
+Epoch [1/1], Step [61/179], Loss: 6.2769
+Epoch [1/1], Step [71/179], Loss: 6.1543
+Epoch [1/1], Step [81/179], Loss: 5.8833
+Epoch [1/1], Step [91/179], Loss: 6.0287
+Epoch [1/1], Step [101/179], Loss: 6.0005
+Epoch [1/1], Step [111/179], Loss: 5.7646
+Epoch [1/1], Step [121/179], Loss: 5.4419
+Epoch [1/1], Step [131/179], Loss: 5.1270
+Epoch [1/1], Step [141/179], Loss: 4.9652
+Epoch [1/1], Step [151/179], Loss: 5.0510
+Epoch [1/1], Step [161/179], Loss: 4.8600
+Epoch [1/1], Step [171/179], Loss: 4.9422
+Cleared GPU memory.
+Outer Fold 17 Accuracy: 0.6167
+
+--- Outer Fold 18 ---
+Epoch [1/1], Step [1/113], Loss: 7.6619
+Epoch [1/1], Step [11/113], Loss: 7.3861
+Epoch [1/1], Step [21/113], Loss: 6.9932
+Epoch [1/1], Step [31/113], Loss: 6.7866
+Epoch [1/1], Step [41/113], Loss: 6.4552
+Epoch [1/1], Step [51/113], Loss: 6.2908
+Epoch [1/1], Step [61/113], Loss: 6.2611
+Epoch [1/1], Step [71/113], Loss: 6.1846
+Epoch [1/1], Step [81/113], Loss: 6.0185
+Epoch [1/1], Step [91/113], Loss: 5.8950
+Epoch [1/1], Step [101/113], Loss: 5.4645
+Epoch [1/1], Step [111/113], Loss: 5.3982
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7603
+Epoch [1/1], Step [11/113], Loss: 7.0232
+Epoch [1/1], Step [21/113], Loss: 7.1147
+Epoch [1/1], Step [31/113], Loss: 7.0808
+Epoch [1/1], Step [41/113], Loss: 6.6741
+Epoch [1/1], Step [51/113], Loss: 6.5334
+Epoch [1/1], Step [61/113], Loss: 6.3009
+Epoch [1/1], Step [71/113], Loss: 6.4993
+Epoch [1/1], Step [81/113], Loss: 4.8305
+Epoch [1/1], Step [91/113], Loss: 4.8285
+Epoch [1/1], Step [101/113], Loss: 5.4921
+Epoch [1/1], Step [111/113], Loss: 5.3396
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6848
+Epoch [1/1], Step [11/113], Loss: 7.1599
+Epoch [1/1], Step [21/113], Loss: 7.3054
+Epoch [1/1], Step [31/113], Loss: 6.3812
+Epoch [1/1], Step [41/113], Loss: 6.3098
+Epoch [1/1], Step [51/113], Loss: 6.0577
+Epoch [1/1], Step [61/113], Loss: 5.9635
+Epoch [1/1], Step [71/113], Loss: 5.7089
+Epoch [1/1], Step [81/113], Loss: 5.7594
+Epoch [1/1], Step [91/113], Loss: 4.9541
+Epoch [1/1], Step [101/113], Loss: 5.0367
+Epoch [1/1], Step [111/113], Loss: 4.9344
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7097
+Epoch [1/1], Step [11/113], Loss: 7.2952
+Epoch [1/1], Step [21/113], Loss: 6.8104
+Epoch [1/1], Step [31/113], Loss: 6.9843
+Epoch [1/1], Step [41/113], Loss: 6.6575
+Epoch [1/1], Step [51/113], Loss: 6.1960
+Epoch [1/1], Step [61/113], Loss: 6.4036
+Epoch [1/1], Step [71/113], Loss: 6.3010
+Epoch [1/1], Step [81/113], Loss: 5.9504
+Epoch [1/1], Step [91/113], Loss: 5.4719
+Epoch [1/1], Step [101/113], Loss: 5.4038
+Epoch [1/1], Step [111/113], Loss: 5.2093
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6387
+Epoch [1/1], Step [11/113], Loss: 7.2018
+Epoch [1/1], Step [21/113], Loss: 6.9935
+Epoch [1/1], Step [31/113], Loss: 6.7217
+Epoch [1/1], Step [41/113], Loss: 6.5739
+Epoch [1/1], Step [51/113], Loss: 6.5272
+Epoch [1/1], Step [61/113], Loss: 6.3606
+Epoch [1/1], Step [71/113], Loss: 6.3525
+Epoch [1/1], Step [81/113], Loss: 6.1156
+Epoch [1/1], Step [91/113], Loss: 5.4642
+Epoch [1/1], Step [101/113], Loss: 5.6288
+Epoch [1/1], Step [111/113], Loss: 5.7956
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6229
+Epoch [1/1], Step [1/113], Loss: 7.7044
+Epoch [1/1], Step [11/113], Loss: 7.4312
+Epoch [1/1], Step [21/113], Loss: 7.3462
+Epoch [1/1], Step [31/113], Loss: 6.8008
+Epoch [1/1], Step [41/113], Loss: 6.4969
+Epoch [1/1], Step [51/113], Loss: 5.9347
+Epoch [1/1], Step [61/113], Loss: 5.7238
+Epoch [1/1], Step [71/113], Loss: 6.0991
+Epoch [1/1], Step [81/113], Loss: 5.7911
+Epoch [1/1], Step [91/113], Loss: 5.4717
+Epoch [1/1], Step [101/113], Loss: 5.2156
+Epoch [1/1], Step [111/113], Loss: 4.7170
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7244
+Epoch [1/1], Step [11/113], Loss: 7.5798
+Epoch [1/1], Step [21/113], Loss: 6.8831
+Epoch [1/1], Step [31/113], Loss: 6.8561
+Epoch [1/1], Step [41/113], Loss: 6.8608
+Epoch [1/1], Step [51/113], Loss: 6.4466
+Epoch [1/1], Step [61/113], Loss: 6.3695
+Epoch [1/1], Step [71/113], Loss: 6.1211
+Epoch [1/1], Step [81/113], Loss: 5.8127
+Epoch [1/1], Step [91/113], Loss: 5.8604
+Epoch [1/1], Step [101/113], Loss: 5.5788
+Epoch [1/1], Step [111/113], Loss: 5.2171
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6909
+Epoch [1/1], Step [11/113], Loss: 7.2880
+Epoch [1/1], Step [21/113], Loss: 7.2028
+Epoch [1/1], Step [31/113], Loss: 6.4290
+Epoch [1/1], Step [41/113], Loss: 6.2268
+Epoch [1/1], Step [51/113], Loss: 6.6300
+Epoch [1/1], Step [61/113], Loss: 6.5575
+Epoch [1/1], Step [71/113], Loss: 5.9669
+Epoch [1/1], Step [81/113], Loss: 5.3470
+Epoch [1/1], Step [91/113], Loss: 6.0309
+Epoch [1/1], Step [101/113], Loss: 5.4372
+Epoch [1/1], Step [111/113], Loss: 5.5375
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7361
+Epoch [1/1], Step [11/113], Loss: 7.2514
+Epoch [1/1], Step [21/113], Loss: 6.9846
+Epoch [1/1], Step [31/113], Loss: 6.8646
+Epoch [1/1], Step [41/113], Loss: 6.6466
+Epoch [1/1], Step [51/113], Loss: 6.6486
+Epoch [1/1], Step [61/113], Loss: 6.3186
+Epoch [1/1], Step [71/113], Loss: 6.0596
+Epoch [1/1], Step [81/113], Loss: 6.0419
+Epoch [1/1], Step [91/113], Loss: 6.0503
+Epoch [1/1], Step [101/113], Loss: 5.8395
+Epoch [1/1], Step [111/113], Loss: 5.5247
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6546
+Epoch [1/1], Step [11/113], Loss: 7.2602
+Epoch [1/1], Step [21/113], Loss: 7.0072
+Epoch [1/1], Step [31/113], Loss: 6.7253
+Epoch [1/1], Step [41/113], Loss: 6.5750
+Epoch [1/1], Step [51/113], Loss: 6.6076
+Epoch [1/1], Step [61/113], Loss: 6.4017
+Epoch [1/1], Step [71/113], Loss: 5.9798
+Epoch [1/1], Step [81/113], Loss: 6.0424
+Epoch [1/1], Step [91/113], Loss: 5.9047
+Epoch [1/1], Step [101/113], Loss: 5.5559
+Epoch [1/1], Step [111/113], Loss: 5.1530
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6245
+Epoch [1/1], Step [1/113], Loss: 7.6243
+Epoch [1/1], Step [11/113], Loss: 6.9640
+Epoch [1/1], Step [21/113], Loss: 6.9022
+Epoch [1/1], Step [31/113], Loss: 6.6472
+Epoch [1/1], Step [41/113], Loss: 6.4422
+Epoch [1/1], Step [51/113], Loss: 6.3880
+Epoch [1/1], Step [61/113], Loss: 6.0814
+Epoch [1/1], Step [71/113], Loss: 5.9713
+Epoch [1/1], Step [81/113], Loss: 5.8068
+Epoch [1/1], Step [91/113], Loss: 5.7390
+Epoch [1/1], Step [101/113], Loss: 4.9448
+Epoch [1/1], Step [111/113], Loss: 5.3098
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6852
+Epoch [1/1], Step [11/113], Loss: 7.2598
+Epoch [1/1], Step [21/113], Loss: 7.0421
+Epoch [1/1], Step [31/113], Loss: 7.1937
+Epoch [1/1], Step [41/113], Loss: 6.5820
+Epoch [1/1], Step [51/113], Loss: 6.5885
+Epoch [1/1], Step [61/113], Loss: 6.3596
+Epoch [1/1], Step [71/113], Loss: 6.1008
+Epoch [1/1], Step [81/113], Loss: 5.6284
+Epoch [1/1], Step [91/113], Loss: 6.6885
+Epoch [1/1], Step [101/113], Loss: 5.6597
+Epoch [1/1], Step [111/113], Loss: 5.4200
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7011
+Epoch [1/1], Step [11/113], Loss: 7.3317
+Epoch [1/1], Step [21/113], Loss: 6.9244
+Epoch [1/1], Step [31/113], Loss: 6.6357
+Epoch [1/1], Step [41/113], Loss: 6.5189
+Epoch [1/1], Step [51/113], Loss: 6.3297
+Epoch [1/1], Step [61/113], Loss: 6.1431
+Epoch [1/1], Step [71/113], Loss: 6.0943
+Epoch [1/1], Step [81/113], Loss: 5.8450
+Epoch [1/1], Step [91/113], Loss: 5.7180
+Epoch [1/1], Step [101/113], Loss: 5.7282
+Epoch [1/1], Step [111/113], Loss: 5.3323
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7493
+Epoch [1/1], Step [11/113], Loss: 7.2877
+Epoch [1/1], Step [21/113], Loss: 6.9347
+Epoch [1/1], Step [31/113], Loss: 6.7418
+Epoch [1/1], Step [41/113], Loss: 6.3911
+Epoch [1/1], Step [51/113], Loss: 6.2815
+Epoch [1/1], Step [61/113], Loss: 6.2835
+Epoch [1/1], Step [71/113], Loss: 6.2034
+Epoch [1/1], Step [81/113], Loss: 6.0199
+Epoch [1/1], Step [91/113], Loss: 5.8531
+Epoch [1/1], Step [101/113], Loss: 5.7974
+Epoch [1/1], Step [111/113], Loss: 5.6086
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6919
+Epoch [1/1], Step [11/113], Loss: 7.2681
+Epoch [1/1], Step [21/113], Loss: 7.0179
+Epoch [1/1], Step [31/113], Loss: 6.7036
+Epoch [1/1], Step [41/113], Loss: 6.5466
+Epoch [1/1], Step [51/113], Loss: 6.4638
+Epoch [1/1], Step [61/113], Loss: 6.2065
+Epoch [1/1], Step [71/113], Loss: 6.0888
+Epoch [1/1], Step [81/113], Loss: 5.8065
+Epoch [1/1], Step [91/113], Loss: 5.7629
+Epoch [1/1], Step [101/113], Loss: 5.4831
+Epoch [1/1], Step [111/113], Loss: 5.5799
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6202
+Best params for Fold 18: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6245
+Epoch [1/1], Step [1/179], Loss: 7.6548
+Epoch [1/1], Step [11/179], Loss: 7.0917
+Epoch [1/1], Step [21/179], Loss: 7.4730
+Epoch [1/1], Step [31/179], Loss: 6.7756
+Epoch [1/1], Step [41/179], Loss: 6.9172
+Epoch [1/1], Step [51/179], Loss: 6.1213
+Epoch [1/1], Step [61/179], Loss: 6.0702
+Epoch [1/1], Step [71/179], Loss: 5.7535
+Epoch [1/1], Step [81/179], Loss: 6.2099
+Epoch [1/1], Step [91/179], Loss: 5.9593
+Epoch [1/1], Step [101/179], Loss: 5.2779
+Epoch [1/1], Step [111/179], Loss: 4.8974
+Epoch [1/1], Step [121/179], Loss: 6.2012
+Epoch [1/1], Step [131/179], Loss: 4.6811
+Epoch [1/1], Step [141/179], Loss: 4.7467
+Epoch [1/1], Step [151/179], Loss: 4.6212
+Epoch [1/1], Step [161/179], Loss: 4.6320
+Epoch [1/1], Step [171/179], Loss: 4.5587
+Cleared GPU memory.
+Outer Fold 18 Accuracy: 0.6500
+
+--- Outer Fold 19 ---
+Epoch [1/1], Step [1/113], Loss: 7.7304
+Epoch [1/1], Step [11/113], Loss: 7.2709
+Epoch [1/1], Step [21/113], Loss: 7.0492
+Epoch [1/1], Step [31/113], Loss: 6.8508
+Epoch [1/1], Step [41/113], Loss: 6.7128
+Epoch [1/1], Step [51/113], Loss: 6.5472
+Epoch [1/1], Step [61/113], Loss: 6.3599
+Epoch [1/1], Step [71/113], Loss: 6.3301
+Epoch [1/1], Step [81/113], Loss: 5.7905
+Epoch [1/1], Step [91/113], Loss: 6.0726
+Epoch [1/1], Step [101/113], Loss: 5.7800
+Epoch [1/1], Step [111/113], Loss: 5.6569
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6741
+Epoch [1/1], Step [11/113], Loss: 7.3718
+Epoch [1/1], Step [21/113], Loss: 7.0507
+Epoch [1/1], Step [31/113], Loss: 6.7533
+Epoch [1/1], Step [41/113], Loss: 6.4560
+Epoch [1/1], Step [51/113], Loss: 6.2689
+Epoch [1/1], Step [61/113], Loss: 5.9635
+Epoch [1/1], Step [71/113], Loss: 6.0617
+Epoch [1/1], Step [81/113], Loss: 5.8295
+Epoch [1/1], Step [91/113], Loss: 5.4368
+Epoch [1/1], Step [101/113], Loss: 5.5561
+Epoch [1/1], Step [111/113], Loss: 5.2219
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6534
+Epoch [1/1], Step [11/113], Loss: 7.3206
+Epoch [1/1], Step [21/113], Loss: 6.8507
+Epoch [1/1], Step [31/113], Loss: 6.7115
+Epoch [1/1], Step [41/113], Loss: 6.4597
+Epoch [1/1], Step [51/113], Loss: 6.1895
+Epoch [1/1], Step [61/113], Loss: 6.3060
+Epoch [1/1], Step [71/113], Loss: 6.1530
+Epoch [1/1], Step [81/113], Loss: 5.9239
+Epoch [1/1], Step [91/113], Loss: 5.9443
+Epoch [1/1], Step [101/113], Loss: 5.8070
+Epoch [1/1], Step [111/113], Loss: 5.4991
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6660
+Epoch [1/1], Step [11/113], Loss: 7.3147
+Epoch [1/1], Step [21/113], Loss: 6.8194
+Epoch [1/1], Step [31/113], Loss: 6.7391
+Epoch [1/1], Step [41/113], Loss: 6.6473
+Epoch [1/1], Step [51/113], Loss: 6.3595
+Epoch [1/1], Step [61/113], Loss: 6.3176
+Epoch [1/1], Step [71/113], Loss: 6.2529
+Epoch [1/1], Step [81/113], Loss: 6.0025
+Epoch [1/1], Step [91/113], Loss: 5.9376
+Epoch [1/1], Step [101/113], Loss: 5.7115
+Epoch [1/1], Step [111/113], Loss: 5.2755
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6555
+Epoch [1/1], Step [11/113], Loss: 7.2658
+Epoch [1/1], Step [21/113], Loss: 7.0525
+Epoch [1/1], Step [31/113], Loss: 6.8507
+Epoch [1/1], Step [41/113], Loss: 6.6244
+Epoch [1/1], Step [51/113], Loss: 6.4633
+Epoch [1/1], Step [61/113], Loss: 6.3769
+Epoch [1/1], Step [71/113], Loss: 6.2315
+Epoch [1/1], Step [81/113], Loss: 6.1309
+Epoch [1/1], Step [91/113], Loss: 6.0310
+Epoch [1/1], Step [101/113], Loss: 5.8869
+Epoch [1/1], Step [111/113], Loss: 5.7338
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6129
+Epoch [1/1], Step [1/113], Loss: 7.7479
+Epoch [1/1], Step [11/113], Loss: 7.2685
+Epoch [1/1], Step [21/113], Loss: 6.9692
+Epoch [1/1], Step [31/113], Loss: 6.7470
+Epoch [1/1], Step [41/113], Loss: 6.3165
+Epoch [1/1], Step [51/113], Loss: 6.3777
+Epoch [1/1], Step [61/113], Loss: 6.1143
+Epoch [1/1], Step [71/113], Loss: 5.9076
+Epoch [1/1], Step [81/113], Loss: 5.8498
+Epoch [1/1], Step [91/113], Loss: 5.7145
+Epoch [1/1], Step [101/113], Loss: 5.4731
+Epoch [1/1], Step [111/113], Loss: 5.4816
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7568
+Epoch [1/1], Step [11/113], Loss: 7.3429
+Epoch [1/1], Step [21/113], Loss: 7.0417
+Epoch [1/1], Step [31/113], Loss: 6.7335
+Epoch [1/1], Step [41/113], Loss: 6.7042
+Epoch [1/1], Step [51/113], Loss: 6.5459
+Epoch [1/1], Step [61/113], Loss: 6.2919
+Epoch [1/1], Step [71/113], Loss: 6.2555
+Epoch [1/1], Step [81/113], Loss: 5.8271
+Epoch [1/1], Step [91/113], Loss: 5.7639
+Epoch [1/1], Step [101/113], Loss: 5.8937
+Epoch [1/1], Step [111/113], Loss: 5.2283
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6348
+Epoch [1/1], Step [11/113], Loss: 7.1599
+Epoch [1/1], Step [21/113], Loss: 7.0090
+Epoch [1/1], Step [31/113], Loss: 6.7477
+Epoch [1/1], Step [41/113], Loss: 6.2980
+Epoch [1/1], Step [51/113], Loss: 6.2319
+Epoch [1/1], Step [61/113], Loss: 6.2598
+Epoch [1/1], Step [71/113], Loss: 6.3313
+Epoch [1/1], Step [81/113], Loss: 5.8602
+Epoch [1/1], Step [91/113], Loss: 5.5665
+Epoch [1/1], Step [101/113], Loss: 5.6233
+Epoch [1/1], Step [111/113], Loss: 5.5254
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7573
+Epoch [1/1], Step [11/113], Loss: 7.6141
+Epoch [1/1], Step [21/113], Loss: 6.9932
+Epoch [1/1], Step [31/113], Loss: 6.7003
+Epoch [1/1], Step [41/113], Loss: 6.6079
+Epoch [1/1], Step [51/113], Loss: 6.3734
+Epoch [1/1], Step [61/113], Loss: 6.2448
+Epoch [1/1], Step [71/113], Loss: 6.1378
+Epoch [1/1], Step [81/113], Loss: 6.2312
+Epoch [1/1], Step [91/113], Loss: 5.9056
+Epoch [1/1], Step [101/113], Loss: 5.2754
+Epoch [1/1], Step [111/113], Loss: 4.9964
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6696
+Epoch [1/1], Step [11/113], Loss: 7.4365
+Epoch [1/1], Step [21/113], Loss: 7.0172
+Epoch [1/1], Step [31/113], Loss: 6.7786
+Epoch [1/1], Step [41/113], Loss: 6.4938
+Epoch [1/1], Step [51/113], Loss: 6.4056
+Epoch [1/1], Step [61/113], Loss: 6.5710
+Epoch [1/1], Step [71/113], Loss: 6.0558
+Epoch [1/1], Step [81/113], Loss: 5.9320
+Epoch [1/1], Step [91/113], Loss: 5.9498
+Epoch [1/1], Step [101/113], Loss: 5.7542
+Epoch [1/1], Step [111/113], Loss: 5.8254
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6196
+Epoch [1/1], Step [1/113], Loss: 7.6673
+Epoch [1/1], Step [11/113], Loss: 7.3888
+Epoch [1/1], Step [21/113], Loss: 7.0985
+Epoch [1/1], Step [31/113], Loss: 6.9318
+Epoch [1/1], Step [41/113], Loss: 6.6757
+Epoch [1/1], Step [51/113], Loss: 6.4820
+Epoch [1/1], Step [61/113], Loss: 6.3420
+Epoch [1/1], Step [71/113], Loss: 6.2051
+Epoch [1/1], Step [81/113], Loss: 6.0866
+Epoch [1/1], Step [91/113], Loss: 5.8311
+Epoch [1/1], Step [101/113], Loss: 5.6881
+Epoch [1/1], Step [111/113], Loss: 5.3831
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7759
+Epoch [1/1], Step [11/113], Loss: 7.1721
+Epoch [1/1], Step [21/113], Loss: 6.9095
+Epoch [1/1], Step [31/113], Loss: 6.7653
+Epoch [1/1], Step [41/113], Loss: 6.5539
+Epoch [1/1], Step [51/113], Loss: 6.3594
+Epoch [1/1], Step [61/113], Loss: 6.0440
+Epoch [1/1], Step [71/113], Loss: 5.9152
+Epoch [1/1], Step [81/113], Loss: 6.0338
+Epoch [1/1], Step [91/113], Loss: 5.8150
+Epoch [1/1], Step [101/113], Loss: 5.6971
+Epoch [1/1], Step [111/113], Loss: 5.0949
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6596
+Epoch [1/1], Step [11/113], Loss: 7.3859
+Epoch [1/1], Step [21/113], Loss: 6.9879
+Epoch [1/1], Step [31/113], Loss: 6.7757
+Epoch [1/1], Step [41/113], Loss: 6.6135
+Epoch [1/1], Step [51/113], Loss: 6.4791
+Epoch [1/1], Step [61/113], Loss: 6.0919
+Epoch [1/1], Step [71/113], Loss: 6.1069
+Epoch [1/1], Step [81/113], Loss: 5.8754
+Epoch [1/1], Step [91/113], Loss: 5.9868
+Epoch [1/1], Step [101/113], Loss: 5.3990
+Epoch [1/1], Step [111/113], Loss: 5.5367
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6686
+Epoch [1/1], Step [11/113], Loss: 7.3150
+Epoch [1/1], Step [21/113], Loss: 7.2941
+Epoch [1/1], Step [31/113], Loss: 6.5644
+Epoch [1/1], Step [41/113], Loss: 6.4816
+Epoch [1/1], Step [51/113], Loss: 6.0236
+Epoch [1/1], Step [61/113], Loss: 5.9968
+Epoch [1/1], Step [71/113], Loss: 5.8216
+Epoch [1/1], Step [81/113], Loss: 5.3459
+Epoch [1/1], Step [91/113], Loss: 5.7210
+Epoch [1/1], Step [101/113], Loss: 5.8089
+Epoch [1/1], Step [111/113], Loss: 4.9250
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7469
+Epoch [1/1], Step [11/113], Loss: 7.1611
+Epoch [1/1], Step [21/113], Loss: 6.8812
+Epoch [1/1], Step [31/113], Loss: 6.8283
+Epoch [1/1], Step [41/113], Loss: 6.5179
+Epoch [1/1], Step [51/113], Loss: 6.3119
+Epoch [1/1], Step [61/113], Loss: 6.4999
+Epoch [1/1], Step [71/113], Loss: 6.2223
+Epoch [1/1], Step [81/113], Loss: 5.7870
+Epoch [1/1], Step [91/113], Loss: 5.7984
+Epoch [1/1], Step [101/113], Loss: 5.7548
+Epoch [1/1], Step [111/113], Loss: 5.5726
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6147
+Best params for Fold 19: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6196
+Epoch [1/1], Step [1/179], Loss: 7.6323
+Epoch [1/1], Step [11/179], Loss: 7.3794
+Epoch [1/1], Step [21/179], Loss: 7.0319
+Epoch [1/1], Step [31/179], Loss: 6.7064
+Epoch [1/1], Step [41/179], Loss: 6.7064
+Epoch [1/1], Step [51/179], Loss: 6.4206
+Epoch [1/1], Step [61/179], Loss: 6.2074
+Epoch [1/1], Step [71/179], Loss: 6.0546
+Epoch [1/1], Step [81/179], Loss: 5.7241
+Epoch [1/1], Step [91/179], Loss: 5.8566
+Epoch [1/1], Step [101/179], Loss: 5.4779
+Epoch [1/1], Step [111/179], Loss: 5.4327
+Epoch [1/1], Step [121/179], Loss: 5.3088
+Epoch [1/1], Step [131/179], Loss: 5.2338
+Epoch [1/1], Step [141/179], Loss: 4.3014
+Epoch [1/1], Step [151/179], Loss: 4.6986
+Epoch [1/1], Step [161/179], Loss: 4.6912
+Epoch [1/1], Step [171/179], Loss: 4.0841
+Cleared GPU memory.
+Outer Fold 19 Accuracy: 0.7133
+
+--- Outer Fold 20 ---
+Epoch [1/1], Step [1/113], Loss: 7.6833
+Epoch [1/1], Step [11/113], Loss: 7.2770
+Epoch [1/1], Step [21/113], Loss: 7.0055
+Epoch [1/1], Step [31/113], Loss: 6.8777
+Epoch [1/1], Step [41/113], Loss: 6.6839
+Epoch [1/1], Step [51/113], Loss: 6.4735
+Epoch [1/1], Step [61/113], Loss: 6.3129
+Epoch [1/1], Step [71/113], Loss: 6.1649
+Epoch [1/1], Step [81/113], Loss: 6.0382
+Epoch [1/1], Step [91/113], Loss: 5.9030
+Epoch [1/1], Step [101/113], Loss: 5.6776
+Epoch [1/1], Step [111/113], Loss: 5.4825
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.5278
+Epoch [1/1], Step [11/113], Loss: 7.3834
+Epoch [1/1], Step [21/113], Loss: 6.7492
+Epoch [1/1], Step [31/113], Loss: 6.7999
+Epoch [1/1], Step [41/113], Loss: 7.0842
+Epoch [1/1], Step [51/113], Loss: 6.2545
+Epoch [1/1], Step [61/113], Loss: 6.3599
+Epoch [1/1], Step [71/113], Loss: 6.2534
+Epoch [1/1], Step [81/113], Loss: 5.7910
+Epoch [1/1], Step [91/113], Loss: 5.3587
+Epoch [1/1], Step [101/113], Loss: 5.2378
+Epoch [1/1], Step [111/113], Loss: 5.3010
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6768
+Epoch [1/1], Step [11/113], Loss: 7.3789
+Epoch [1/1], Step [21/113], Loss: 6.9653
+Epoch [1/1], Step [31/113], Loss: 7.0649
+Epoch [1/1], Step [41/113], Loss: 5.9316
+Epoch [1/1], Step [51/113], Loss: 6.2431
+Epoch [1/1], Step [61/113], Loss: 5.9636
+Epoch [1/1], Step [71/113], Loss: 5.9547
+Epoch [1/1], Step [81/113], Loss: 5.8396
+Epoch [1/1], Step [91/113], Loss: 5.6660
+Epoch [1/1], Step [101/113], Loss: 4.7326
+Epoch [1/1], Step [111/113], Loss: 5.7034
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7064
+Epoch [1/1], Step [11/113], Loss: 7.3409
+Epoch [1/1], Step [21/113], Loss: 7.0772
+Epoch [1/1], Step [31/113], Loss: 6.9438
+Epoch [1/1], Step [41/113], Loss: 6.8286
+Epoch [1/1], Step [51/113], Loss: 6.5291
+Epoch [1/1], Step [61/113], Loss: 6.2570
+Epoch [1/1], Step [71/113], Loss: 6.1531
+Epoch [1/1], Step [81/113], Loss: 6.2465
+Epoch [1/1], Step [91/113], Loss: 6.1722
+Epoch [1/1], Step [101/113], Loss: 5.7292
+Epoch [1/1], Step [111/113], Loss: 5.7789
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6453
+Epoch [1/1], Step [11/113], Loss: 7.5238
+Epoch [1/1], Step [21/113], Loss: 6.5508
+Epoch [1/1], Step [31/113], Loss: 6.5267
+Epoch [1/1], Step [41/113], Loss: 6.5232
+Epoch [1/1], Step [51/113], Loss: 6.2878
+Epoch [1/1], Step [61/113], Loss: 6.0784
+Epoch [1/1], Step [71/113], Loss: 6.0799
+Epoch [1/1], Step [81/113], Loss: 5.9014
+Epoch [1/1], Step [91/113], Loss: 5.7307
+Epoch [1/1], Step [101/113], Loss: 5.7791
+Epoch [1/1], Step [111/113], Loss: 5.4735
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 1, 'C': 0.01}: 0.6138
+Epoch [1/1], Step [1/113], Loss: 7.5463
+Epoch [1/1], Step [11/113], Loss: 7.2624
+Epoch [1/1], Step [21/113], Loss: 7.1205
+Epoch [1/1], Step [31/113], Loss: 6.9382
+Epoch [1/1], Step [41/113], Loss: 6.1028
+Epoch [1/1], Step [51/113], Loss: 5.9851
+Epoch [1/1], Step [61/113], Loss: 6.1260
+Epoch [1/1], Step [71/113], Loss: 5.8331
+Epoch [1/1], Step [81/113], Loss: 5.6962
+Epoch [1/1], Step [91/113], Loss: 5.4669
+Epoch [1/1], Step [101/113], Loss: 6.1715
+Epoch [1/1], Step [111/113], Loss: 5.1903
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.7533
+Epoch [1/1], Step [11/113], Loss: 7.4491
+Epoch [1/1], Step [21/113], Loss: 6.9082
+Epoch [1/1], Step [31/113], Loss: 6.6464
+Epoch [1/1], Step [41/113], Loss: 6.4457
+Epoch [1/1], Step [51/113], Loss: 6.5276
+Epoch [1/1], Step [61/113], Loss: 6.0985
+Epoch [1/1], Step [71/113], Loss: 6.0431
+Epoch [1/1], Step [81/113], Loss: 5.6916
+Epoch [1/1], Step [91/113], Loss: 5.6259
+Epoch [1/1], Step [101/113], Loss: 5.5047
+Epoch [1/1], Step [111/113], Loss: 5.5140
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6836
+Epoch [1/1], Step [11/113], Loss: 7.3834
+Epoch [1/1], Step [21/113], Loss: 7.2034
+Epoch [1/1], Step [31/113], Loss: 6.9248
+Epoch [1/1], Step [41/113], Loss: 6.5776
+Epoch [1/1], Step [51/113], Loss: 6.0490
+Epoch [1/1], Step [61/113], Loss: 6.2785
+Epoch [1/1], Step [71/113], Loss: 6.3931
+Epoch [1/1], Step [81/113], Loss: 6.0023
+Epoch [1/1], Step [91/113], Loss: 5.3698
+Epoch [1/1], Step [101/113], Loss: 5.1890
+Epoch [1/1], Step [111/113], Loss: 5.0732
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6801
+Epoch [1/1], Step [11/113], Loss: 7.2619
+Epoch [1/1], Step [21/113], Loss: 7.1068
+Epoch [1/1], Step [31/113], Loss: 6.6386
+Epoch [1/1], Step [41/113], Loss: 6.6662
+Epoch [1/1], Step [51/113], Loss: 6.5447
+Epoch [1/1], Step [61/113], Loss: 6.3692
+Epoch [1/1], Step [71/113], Loss: 6.0549
+Epoch [1/1], Step [81/113], Loss: 5.9933
+Epoch [1/1], Step [91/113], Loss: 6.0233
+Epoch [1/1], Step [101/113], Loss: 6.1154
+Epoch [1/1], Step [111/113], Loss: 5.7859
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6879
+Epoch [1/1], Step [11/113], Loss: 7.3538
+Epoch [1/1], Step [21/113], Loss: 7.0325
+Epoch [1/1], Step [31/113], Loss: 6.6277
+Epoch [1/1], Step [41/113], Loss: 6.5503
+Epoch [1/1], Step [51/113], Loss: 6.4124
+Epoch [1/1], Step [61/113], Loss: 6.2754
+Epoch [1/1], Step [71/113], Loss: 6.1171
+Epoch [1/1], Step [81/113], Loss: 6.0670
+Epoch [1/1], Step [91/113], Loss: 5.6660
+Epoch [1/1], Step [101/113], Loss: 6.0546
+Epoch [1/1], Step [111/113], Loss: 5.4996
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 3, 'C': 0.01}: 0.6298
+Epoch [1/1], Step [1/113], Loss: 7.8409
+Epoch [1/1], Step [11/113], Loss: 7.4886
+Epoch [1/1], Step [21/113], Loss: 7.1801
+Epoch [1/1], Step [31/113], Loss: 6.6962
+Epoch [1/1], Step [41/113], Loss: 6.7273
+Epoch [1/1], Step [51/113], Loss: 6.4516
+Epoch [1/1], Step [61/113], Loss: 6.4563
+Epoch [1/1], Step [71/113], Loss: 6.0593
+Epoch [1/1], Step [81/113], Loss: 6.0361
+Epoch [1/1], Step [91/113], Loss: 5.9805
+Epoch [1/1], Step [101/113], Loss: 5.7158
+Epoch [1/1], Step [111/113], Loss: 5.7318
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6487
+Epoch [1/1], Step [11/113], Loss: 7.2634
+Epoch [1/1], Step [21/113], Loss: 6.8970
+Epoch [1/1], Step [31/113], Loss: 6.7043
+Epoch [1/1], Step [41/113], Loss: 6.5419
+Epoch [1/1], Step [51/113], Loss: 6.2131
+Epoch [1/1], Step [61/113], Loss: 6.1603
+Epoch [1/1], Step [71/113], Loss: 6.1778
+Epoch [1/1], Step [81/113], Loss: 5.6553
+Epoch [1/1], Step [91/113], Loss: 5.4211
+Epoch [1/1], Step [101/113], Loss: 5.5114
+Epoch [1/1], Step [111/113], Loss: 5.3449
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6758
+Epoch [1/1], Step [11/113], Loss: 7.8245
+Epoch [1/1], Step [21/113], Loss: 6.7407
+Epoch [1/1], Step [31/113], Loss: 6.8817
+Epoch [1/1], Step [41/113], Loss: 6.5178
+Epoch [1/1], Step [51/113], Loss: 6.1609
+Epoch [1/1], Step [61/113], Loss: 6.3715
+Epoch [1/1], Step [71/113], Loss: 5.8826
+Epoch [1/1], Step [81/113], Loss: 5.6969
+Epoch [1/1], Step [91/113], Loss: 5.9335
+Epoch [1/1], Step [101/113], Loss: 5.1067
+Epoch [1/1], Step [111/113], Loss: 5.5091
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6692
+Epoch [1/1], Step [11/113], Loss: 7.2229
+Epoch [1/1], Step [21/113], Loss: 7.0997
+Epoch [1/1], Step [31/113], Loss: 6.7318
+Epoch [1/1], Step [41/113], Loss: 6.8283
+Epoch [1/1], Step [51/113], Loss: 5.9345
+Epoch [1/1], Step [61/113], Loss: 6.1128
+Epoch [1/1], Step [71/113], Loss: 5.8549
+Epoch [1/1], Step [81/113], Loss: 6.0860
+Epoch [1/1], Step [91/113], Loss: 5.8808
+Epoch [1/1], Step [101/113], Loss: 5.0541
+Epoch [1/1], Step [111/113], Loss: 4.6780
+Cleared GPU memory.
+Epoch [1/1], Step [1/113], Loss: 7.6738
+Epoch [1/1], Step [11/113], Loss: 7.3955
+Epoch [1/1], Step [21/113], Loss: 6.8069
+Epoch [1/1], Step [31/113], Loss: 6.6741
+Epoch [1/1], Step [41/113], Loss: 6.4564
+Epoch [1/1], Step [51/113], Loss: 5.9951
+Epoch [1/1], Step [61/113], Loss: 6.3956
+Epoch [1/1], Step [71/113], Loss: 5.8058
+Epoch [1/1], Step [81/113], Loss: 5.9012
+Epoch [1/1], Step [91/113], Loss: 5.0314
+Epoch [1/1], Step [101/113], Loss: 5.5353
+Epoch [1/1], Step [111/113], Loss: 5.3240
+Cleared GPU memory.
+Average Inner Accuracy for params {'kernel_size': 5, 'C': 0.01}: 0.6263
+Best params for Fold 20: {'kernel_size': 3, 'C': 0.01} with accuracy 0.6298
+Epoch [1/1], Step [1/179], Loss: 7.6659
+Epoch [1/1], Step [11/179], Loss: 7.1904
+Epoch [1/1], Step [21/179], Loss: 6.8250
+Epoch [1/1], Step [31/179], Loss: 6.6142
+Epoch [1/1], Step [41/179], Loss: 6.3598
+Epoch [1/1], Step [51/179], Loss: 6.2585
+Epoch [1/1], Step [61/179], Loss: 5.9971
+Epoch [1/1], Step [71/179], Loss: 5.8872
+Epoch [1/1], Step [81/179], Loss: 5.7124
+Epoch [1/1], Step [91/179], Loss: 5.6768
+Epoch [1/1], Step [101/179], Loss: 5.4360
+Epoch [1/1], Step [111/179], Loss: 5.2443
+Epoch [1/1], Step [121/179], Loss: 5.0488
+Epoch [1/1], Step [131/179], Loss: 5.1861
+Epoch [1/1], Step [141/179], Loss: 4.9781
+Epoch [1/1], Step [151/179], Loss: 4.8540
+Epoch [1/1], Step [161/179], Loss: 4.6599
+Epoch [1/1], Step [171/179], Loss: 4.8645
+Cleared GPU memory.
+Outer Fold 20 Accuracy: 0.6600
+
+Average accuracy over the selected outer folds: 0.6544
